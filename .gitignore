@@ -6,6 +6,9 @@ __pycache__/
 # Mac stuff
 .DS_Store
 
+# MS Word formatted sample file
+log1011.docx
+
 # C extensions
 *.so
 

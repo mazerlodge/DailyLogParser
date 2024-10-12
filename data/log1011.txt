@@ -1,0 +1,94 @@
+0645	MDT, CSOD
+	- Load checks 
+
+0715	MDT, MDM 
+	- Check SDH for PIM schema (found it has 2 tables)
+
+0815	MDT, CSOD Rel 
+	- Grab delta files 
+	- Message Ryan files were received 
+
+0845	MDT, CSOD
+	- Init row counts (prod still running)
+
+0900	MDT, Admin 
+	- Timesheets 
+
+0915	MDT, CSOD Rel 	
+	- Check AWS S3 for files from Lucas test runs
+	- Delta files only have timestamp columns, message to Lucas 
+	- Q&A on S3 path and provided jsons 
+
+1000	MDT, Misc 
+	- Distro time 
+
+1030	MDT, Admin 
+	- Resolve actionable emails 
+ 	- Cyber threat briefing 
+
+1115	MDT, MDM
+	- Expanding attribute mapping list 
+
+1130	LUNCH
+(-0.5) 
+1200	BACK
+
+	MDT, Misc 
+	- Distro time 
+
+1230	MDT, MDM
+	- Resume…
+
+1415	MDT, CSOD 
+	- Do final counts (prod finished late) 
+
+1430	MDT, MDM 
+	- Locate pricing information 
+
+1515	DONE
+Misc 0.5 0.5 		1
+CSOD 0.5 0.25 0.25	1	1
+CSOD Rel 0.5 0.75	1.25	2
+MDM 1 0.25 1.75 0.75	3.75	4
+Admin 0.25 0.75	1	1
+
+8h
+
+
+
+"Wisdom is knowing what to do next; virtue is doing it." -- David Starr Jordan
+
+"However beautiful the strategy, you should occasionally look at the results." -- Sir Winston Churchill
+
+“Success is the ability to go from one failure to another with no loss of enthusiasm.” -- Winston Churchill
+
+"You must have long term goals to keep from being frustrated by short term failures." -- Charles C. Noble
+
+"What lies behind us and what lies before us are tiny matters compared to what lies within us." -- Ralph Waldo Emerson
+
+"Anger is never without Reason, but seldom with a good One." – Ben Franklin
+
+“A gentle answer turns away wrath, but a harsh word stirs up anger.” - Prov 15:1
+
+"Never ascribe to malice that which is adequately explained by incompetence." -- Napoleon Bonaparte
+
+"There are two cardinal sins from which all others spring: Impatience and Laziness." -- Franz Kafka
+
+"We act as though comfort and luxury were the chief requirements of life, when all that we need to make us happy is something to be enthusiastic about." -- Charles Kingsley
+
+"Innovative companies want employees to engage, other companies want them to behave." – QED
+
+“Being creative helps satisfy curiosity.” – Collection of Hand Lettered Typography
+
+“Doing different kinds of work in different seasons will keep you from getting burned out.” – Collection…
+
+“Inspiration is everywhere and often in unexpected places, keep your eyes open.” - Unknown
+
+“The most potent act of the mind is to conceive an idea and manifest it into practical, material reality.” –Ace of Stones, Wildwood Tarot 
+
+“Always be yourself, express yourself, have faith in yourself, do not go out and look for a successful personality and duplicate it.” - Bruce Lee 
+
+“It’s not what they take away from you that counts.  It’s what you do with what you have left.” - Hubert H Humphrey
+
+ 10/11/2024
+

@@ -1,5 +1,6 @@
 #!/bin/python 
 
+# initial version, tag to get username updated correctly
 datafile = open(".\\data\\log1011.txt", "r") 
 
 def isBlockHeaderLine(line): 

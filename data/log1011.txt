@@ -1,3 +1,4 @@
+20241011 
 0645	MDT, CSOD
 	- Load checks 
 
@@ -37,7 +38,7 @@
 	- Distro time 
 
 1230	MDT, MDM
-	- Resume…
+	- Resumeï¿½
 
 1415	MDT, CSOD 
 	- Do final counts (prod finished late) 
@@ -60,15 +61,15 @@ Admin 0.25 0.75	1	1
 
 "However beautiful the strategy, you should occasionally look at the results." -- Sir Winston Churchill
 
-“Success is the ability to go from one failure to another with no loss of enthusiasm.” -- Winston Churchill
+ï¿½Success is the ability to go from one failure to another with no loss of enthusiasm.ï¿½ -- Winston Churchill
 
 "You must have long term goals to keep from being frustrated by short term failures." -- Charles C. Noble
 
 "What lies behind us and what lies before us are tiny matters compared to what lies within us." -- Ralph Waldo Emerson
 
-"Anger is never without Reason, but seldom with a good One." – Ben Franklin
+"Anger is never without Reason, but seldom with a good One." ï¿½ Ben Franklin
 
-“A gentle answer turns away wrath, but a harsh word stirs up anger.” - Prov 15:1
+ï¿½A gentle answer turns away wrath, but a harsh word stirs up anger.ï¿½ - Prov 15:1
 
 "Never ascribe to malice that which is adequately explained by incompetence." -- Napoleon Bonaparte
 
@@ -76,19 +77,21 @@ Admin 0.25 0.75	1	1
 
 "We act as though comfort and luxury were the chief requirements of life, when all that we need to make us happy is something to be enthusiastic about." -- Charles Kingsley
 
-"Innovative companies want employees to engage, other companies want them to behave." – QED
+"Innovative companies want employees to engage, other companies want them to behave." ï¿½ QED
 
-“Being creative helps satisfy curiosity.” – Collection of Hand Lettered Typography
+ï¿½Being creative helps satisfy curiosity.ï¿½ ï¿½ Collection of Hand Lettered Typography
 
-“Doing different kinds of work in different seasons will keep you from getting burned out.” – Collection…
+ï¿½Doing different kinds of work in different seasons will keep you from getting burned out.ï¿½ ï¿½ Collectionï¿½
 
-“Inspiration is everywhere and often in unexpected places, keep your eyes open.” - Unknown
+ï¿½Inspiration is everywhere and often in unexpected places, keep your eyes open.ï¿½ - Unknown
 
-“The most potent act of the mind is to conceive an idea and manifest it into practical, material reality.” –Ace of Stones, Wildwood Tarot 
+ï¿½The most potent act of the mind is to conceive an idea and manifest it into practical, material reality.ï¿½ ï¿½Ace of Stones, Wildwood Tarot 
 
-“Always be yourself, express yourself, have faith in yourself, do not go out and look for a successful personality and duplicate it.” - Bruce Lee 
+ï¿½Always be yourself, express yourself, have faith in yourself, do not go out and look for a successful personality and duplicate it.ï¿½ - Bruce Lee 
 
-“It’s not what they take away from you that counts.  It’s what you do with what you have left.” - Hubert H Humphrey
+ï¿½Itï¿½s not what they take away from you that counts.  Itï¿½s what you do with what you have left.ï¿½ - Hubert H Humphrey
 
- 10/11/2024
+ 
+10/11/2024
+
 

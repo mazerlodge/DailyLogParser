@@ -7,7 +7,7 @@
 0410
 	- Added block header parsing example.
 	- Init POA
-	- Update to get username to register correctly.
+	- Update to get username to register correctly. Try again.
 
 POA
 -----

@@ -1,0 +1,26 @@
+
+== 2024 ==
+1012 
+	- Initial code, no POA created yet. 
+
+== 2025 == 
+0410
+	- Added block header parsing example.
+	- Init POA
+
+POA
+-----
+Create code to do daily log parsing, outputting Time by category, for example: 
+	Misc 0.5 0.5 		1
+	CSOD 0.5 0.25 0.25	1	1
+	CSOD Rel 0.5 0.75	1.25	2
+	MDM 1 0.25 1.75 0.75	3.75	4
+	Admin 0.25 0.75	1	1
+
+	
+:D0
+Next: 
+	- Capture categories (block headers) in a collection or array (list) 
+	- Detect special categories (Done, Lunch, Out, Back) 	
+	- Halt processing at line with category of 'DONE' 
+

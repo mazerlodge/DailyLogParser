@@ -23,5 +23,6 @@ Create code to do daily log parsing, outputting Time by category, for example:
 Next: 
 	- Capture categories (block headers) in a collection or array (list) 
 	- Detect special categories (Done, Lunch, Out, Back) 	
+	- Detect special tasks (starts with '- Resuming')
 	- Halt processing at line with category of 'DONE' 
 

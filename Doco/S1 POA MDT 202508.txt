@@ -1,0 +1,594 @@
+﻿S1 POA MDT 202508
+
+07/28 (M) 
+	- MDM, Updates to 7 Attribs for GCH & Task organization 
+	- Admin, Prep for tech interview 
+	- MDG, Make note with material types and definitions from [Material Types in SAP.pptx]
+	- MDM, Daily stand-up meeting 
+	- Admin, Tech interview and write notes 
+	- MDG, Send note to Heather, Leigha, Josh, and Dan re: availability to help with MDG
+	- MDG, Expand note on material types and definitions
+	- MDG, Review attachments for meeting (Ref for BP Customer and Vendor dependencies) 
+	- MDG, Stand-up Meeting (Eugene reported status) 
+	- MDG, Meeting w/ Oscar on Dependencies b/n Partner and Vendor 
+
+07/29
+	- MDM, Updates to 7 Attribs for GCH & Task organization
+	- MDM, Creating next steps for Device Type (Single Use and Implantable broken out)  
+	- MDM, Daily stand-up meeting 
+	- Admin, Goals worksheet expansion 
+	- MDM, Q&A with Anusha on erwin processes 
+	- MDM, Data architecture playbook and DBT automation instructions sent to Anusha 
+	- Admin, Resume goals worksheet population  
+	- MDM, Trace source for indicator columns in MATL_CP that have large text length (Anusha noticed)
+	- MDG, Create erwin logical model of Business Partner from screenshot of Corey’s 
+
+07/30
+	- MDM, Analysis on sources of XDS_H_MATERIAL.LABELED_SINGLE_USE_FLAG
+	- MDM, Daily stand-up meeting (Brief, Perry conflict w/ TWD kick-off) 
+	- MDM, Analysis on source(s) of XDS_BASIC_UDI_DEVICE.EU_IMPLANT_CD
+	- MDG, Expand list of material type definitions
+
+07/31
+	- MDM, Analysis on KUBE question, checking snowflake for use of word 'Repertorio' in column comments
+	- MDM, Daily stand-up meeting 
+	- MDG, Parse request for Inactive vs Active Data Model 
+	- MDG, Read SAP info on MDG Material change request processing
+	- MDG, Analysis on 'phase out' status storage 
+	- MDG, Analysis on inventory levels storage
+
+08/01
+	{PTO, Unplanned Dental} 
+
+08/04 (M) 
+	- MDM, Checking for Jira updates 
+	- MDM, Search snowflake for Single Registration Number (per Sana email)
+	- MDM, Daily Stand-up meeting 
+	- MDM, Read Manufacturing Hierarchy information for new task 
+	- MDG, Draft reference data flow for Topic 2, downstream consumption of product data
+
+08/05
+	- MDM, Analysis on Single Registration Number sources for Sana 
+	- MDG, Write up status message to Heidi, confirm on right track
+	- Admin, EA Tech Talk 
+	- MDM, Read function spec additions for Manufacturing Hierarchy 
+	- MDM, Init POA for Manufacturing Hierarchy
+	- MDM, Update data model DFD tab, data flow lines were overlapping between CP and XDS sources 
+	- MDM, Check Atlan for lineage relevant to Single Registration Number
+
+08/06
+	- MDM, Prep and send list of Single Registration Number tables and columns to Sana 
+	- MDM, Q&A w/ Daniel on YML source (generated from erwin) 
+	- MDM, Daily Stand-up meeting 
+	- MDG, Workstream 01 status meeting 
+	- MDG, Create a diagram like Corey's showing data feeds out of both MDG and SAP to SNF
+	- Admin, HIPAA training
+	- Admin, Load goals into workday
+	- MDM, Brief discussion with Jeremy about upcoming bandwidth 
+	- MDG, Init diagram illustrating Active vs Inactive persistence layers 
+
+08/07
+	- MDM, Manufacturing Hierarchy, expand POA for development
+	- MDM, Daily Stand-Up meeting 
+	- MDM, Analysis of manufacturing hierarchy field population 
+	- MDG, Create diagram showing ..._HIST table option 
+	- Admin, Snowflake office hours 
+	- MDG, Parse follow-up from Heidi on Active/Inactive status message
+	- Draft msg back to Heidi w/ initial versions of diagrams 
+	
+08/08
+	- MDG, Finalize msg back to Heidi w/ initial versions of diagrams 
+	- MDM, Trace back Single Registration Number (SRN) fields in XDS_VENDOR
+	- Misc, I&I Combined RFC Call 
+	- MDG, Send update to Heidi on active vs inactive 
+	- MDM, Trace back through m_load_h_vendor
+	- MDM, Check into Anusha erwin issue for Perry 
+
+08/11 (M)
+	- MDG, pDNA workshop Day 1 of 4
+
+08/12
+	- Admin, Discuss intro & listening session meetings w/ Sid 
+	- MDG, pDNA workshop Day 2 of 4
+	- Admin, Org update meeting w/ Bill P 
+	- MDG, Meeting on Customer Scope for HCN
+
+08/13
+	- MDG, Organize workshop notes from previous day 
+	- MDG, MDG pDNA Workshop Day 3
+
+08/14
+	- MDG, Organize workshop notes from previous day 
+	- MDG, MDG pDNA Workshop Day 4
+	- MDG, Cross team sync up 
+
+08/15
+ 	- MDM, Trace back Single Registration Number (SRN) fields in XDS_VENDOR (not visible in Atlan)
+	- Misc, Timesheets submitted and email to Bill P 
+	- Misc, I&I RFC Call 
+	- MDG, Transition state architecture meeting (Suresh) 	
+
+08/18 (M) 
+	- Admin, Early timesheets for Fiscal EoM as requested 
+	- MDM, Prep status with traceback info for Single Registration Number 
+	- MDG, Prep for CDQ for Business Partner Demo Meeting
+	- MDG, CDQ for Business Partner Demo Meeting
+	- MDM, Trace sources for MFG_LVL..._ID columns (support def key cols for new PAM table/view)
+	- MDG, Review plan for inactive material 
+
+08/19
+	- MDM, Trace sources for MFG_LVL..._ID columns (support def key cols for new PAM table/view)
+	- MDM, Daily stand-up meeting 
+	- Admin, Review functional spec for PPeSource modification request  
+	- MDM, Diag join failure between MATL_HRCHY_RPH_CP and MATL_CP 
+
+08/20
+ 	- MDM, Trace sources for MFG_LVL..._ID columns (support def key cols for new PAM table/view)
+	- MDM, Daily stand-up meeting 
+	- CSOD, Copy down from Prod to Test Snowflake 
+	- Misc, Diag 1 row diff b/n CSOD prod and test (traced to TSCC due date rank diff)
+	- MDM, Diag product hierarchy join to MATL_CP failure 
+
+08/21
+	- MDM, Sketch in design for Material to Hierarchy cross-reference table 
+	- MDM, Find out how many hierarchies fail on the join EXTNL_MATL_GRP_CD = HRCHY_ID
+	- MDM, Daily stand-up meeting 
+	- MDM, Hours shift research for Perry; from MDM to NextGen GCH 
+	- MDG, Analysis on available material sources in SNF vs DIH 
+	- MDM, Review Ramesh pDNA integrity comparison file 
+	- MDG, Get material counts by source, confirm which in the overall sources list is used by material 
+
+08/22
+	- MDM, Get material counts by source, confirm which in the overall sources list is used by material 
+	- MDM, Update data flow diagram w/ proposed cross-reference table in front of manufacturing hierarchy	
+	- MDG, Init functional spec for inactive product data management 
+	- MDM, Q&A on security roles w/ Sana and research options 
+
+08/25 (M) 
+	- MDM, Prep for status meeting 
+	- MDM, Check status of Jira tasks for 7 attribs for GCH 
+	- MDG, Update Historical (Inactive vs Active) Material POA 
+	- MDM, Daily stand-up meeting
+	- MDG, Confirmed data is in SNF (or DIH) for sources QAD, E1, MIDAS 
+	- MDG, Capture legacy ERP data counts in both DIH and SNF 
+
+08/26
+	- MDM, Adjust Labor Day deliverables from 9/1 to 9/3 
+	- MDG, Parse Heather's request 
+	- MDG, Message out to the team asking for XLS listing attributes 
+	- MDM, Daily stand-up meeting 
+	- MDM, Creating POA tasks for manufacturing hierarchy implementation 
+	- MDG, Review ‘Field Level Deep Dive.xls’ for pDNA Wave 2 
+	- MDG, Review pDNA data flow process diagram 
+	- MDG, Prepping questions and comments on PDNA and MDG process alignment
+	- MDG, Meeting w/ Sana on pDNA Wave 2 task 
+	- MDG, Answer back to Heidi on alignment between PDNA and MDG processes 
+
+08/27
+	- MDG, Parse email answers to questions raised yesterday morning 
+	- MDG, Verify access to WS01 kanban board from Ben, check for cards relevant to Wave 2 PDNA 
+	- MDG, Check Field Level Deep Dive for attributes that require follow-up for wave 2 
+	- MDM, Discuss cross reference natural key requirements w/ Meg 
+	- MDM, Adding tables to data flow diagrams 
+	- MDG, Finding items that need follow-up on Field Mapping XLS, Column O of Alpha tab
+	- MDG, WS 01 All-Team status meeting 
+	- MDM, Resuming Hierarchy related table adds to diagrams 
+	- MDM, Confirm approved hierarchy abbreviation(s)
+	- MDM, Locate equivalent tables in DIH to drive required fields in hierarchy cross-reference 
+	- MDM, Light analysis on CVDS_HRCHY_NODE_MATERIAL_XREF
+	- MDM, Count by MAT_SOURCE, separately count by HRCHY_SOURCE 
+	- MDM, Add Manuf Hierarchy and XRef table to Data Model and DFD-Hierarchies tabs of DrawIO diagram 
+
+08/28
+ 	- MDG, pDNA Wave 2, Column O on the Alpha tab, get distinct value list to ID meaning "Needs follow-up"
+	- MDG, Making list of tasks done for MDG this week 
+	- MDG, Post proposed architecture for Historical & Inactive Material to SharePoint 
+	- MDM, Prep for status meeting 
+	- MDM, Daily stand-up meeting 
+	- Admin, Geoff Martha Town Hall 
+	- MDG, Meeting to review attrib mapping for PDNA Wave 2
+	- MDM, Identify who is lead DA for Product or Material domain now
+	- MDM, Trace source for populating MATL_HRCHY_MFG_CP
+	- MDM, Init draft SQL for MATL_HRCHY_MFG_CP source qualifier
+
+08/29 
+	{No Activity, PTO Extend Labor Day Weekend} 
+	
+09/01 (M) 
+	{No Activity, Holiday}
+	
+09/02
+	- Admin, Post long weekend email clean up 
+	- Admin, Field question on CSOD support 
+	- MDG, MDG Product Domain Stand-up 
+	- MDM, Daily Stand-up meeting 
+	- GCH, Meeting w/ Sana & Co on next steps 
+	- PDNA, Check source qual for CSOD issue with “Change Admin II” completed for “abramm2”
+	- PDNA, Diag record not flowing to P_APP_GRP_USR_TRAIN_ASGN
+	- PDNA, Telecon w/ RYost and Brian Anderson re: diagnostics 
+	- PDNA, Annotate diagnostic SQL showing join dependency 
+	- MDG, Draft Jira stories	
+
+09/03
+	- PDNA, Check status of loads in non-prod
+	- MDG, Product Daily stand-up meeting 
+	- MDM, Daily stand-up meeting 
+	- MDM, Expand data model to include level counts for each hierarchy table 
+	- MDM, Init Tech spec for MATL_HRCHY_MANUF_CP
+	- MDM, Analysis on matl_char_desc_cp as MFG levels source 
+	- MDM, Create logic to generate md5 based ID and key for material hierarchy 
+	- MDM, Q&A w/ Anusha on RPH hierarchy 
+	- PDNA, Spot check samples from Brian, Windchill role “Record Admin” seems fine
+
+09/04
+	- PDNA, IM Q&A on what is needed to advance diagnostics 
+	- PDNA, Message to Bill looking for guidance on whether this is something I work or not 
+	- MDG, Low hours forecast update and message to Leigha 
+	- MDM, Daily Stand-up meeting 
+	- MDM, Expand MATL_HRCHY_MFG_CP tech spec 
+	- PDNA, IM & Email to advance PDNA issue (for now) 	
+	- MDM, Q&A w/ Jeremy on UNSPSC 
+	- PDNA, Call w/ Brian Anderson on getting to the right POC in OSHPI
+	- MDM, Review new stories created for Attribs for GCH work (and question on assignments) 
+	- PDNA, Q&A w/ Nancy Howe on CSOD transition 
+
+09/05
+	- MDG, Update hours for week
+	- MDM, Researching other cross reference tables found in non-prod 	
+	- MDM, Add Manufacturing Hierarchy and Cross Reference to erwin 
+	- MDM, Run dbt automation pipeline for hierarchy and cross reference tables 
+
+09/08 (M) 
+	- MDG, Post message re: distinct values in Column O
+	- MDG, Daily stand-up meeting 
+	- MDM, Daily stand-up meeting
+	- MDM, Diag Source (SRC) abbreviation in curation artifacts (s/b SOURCE_CD)
+	- MDM, Update cross reference table definition 
+	- MDM, Submit dbt automation and review artifacts
+	- MDM, Create curation review appointment 
+	- MDG, Expand functional spec shell for Historical/Inactive 
+	- Admin, Meeting on CSOD SNF Dev going forward 
+	- MDG, Define plan for development of Historical Inactive Material tables
+
+09/09
+	- MDG, Review Amy’s info regarding wave 2 attribute categories 
+	- MDG, Daily stand-up 
+	- MDG, Finding SharePoint home for Historical Inactive Material functional spec 
+	- MDG, Read KDD for MDG Product Domain Finished Goods 
+	- MDM, Prep for curation review 
+	- MDM, Curation review of Manufacturing Hierarchy related tables 
+	- MDM, Updates to tech specs (and later, erwin) based on curation review 
+
+09/10
+	{No Activity, PTO for CSpy} 
+	
+09/11 
+	- MDG, Product domain stand-up meeting 
+	- MDM, Daily stand-up meeting 
+	- MDM, Check Max length of level 1 to 15 descriptions
+	- MDM, Draft source qualifier SQL for inclusion in tech spec. 
+	- MDM, Add Level 0 ID and Desc to MATL_HRCHY_CMN
+	- MDG, PDNA Windchill overview meeting w/ Sana, Ben, and Arun 	
+	- MDM, Creating SQL for manufacturing hierarchy cross-ref 
+	- MDM, Meeting w/ Jeremy on Steps for Attributes for GCH (dev through delivery)
+
+09/12
+	- MDM, Modify MATL_HRCHY_CMN, add union section with new Manufacturing Hierarchy
+	- Admin, Meeting on CSOD/PDNA issue, responsibility going forward 
+	- PDNA, Working session on CSOD integration 
+	- MDM, Prepare package for ETL devs 
+	- Misc, attempted gitlab/erwin token gen, failed
+
+09/15 (M) 
+
+
+:D0 
+******************	
+> In-Progress:  
+!!	Priorities:
+	- Priorities: MDG-  Hist Inactive Material, PDNA Wave 2; MDM- Manuf Hrchy, 7 Attribs for GCH, DQ Checks 
+
+	- Admin, Book PTO for Oct Vaca 
+
+	- MDM, Send updated curation docs to meg/trina/kevan (level 0 added to common)
+	- MDM, AI: Move this file to the 7 Attribs for GCH folder. [NextGen GCH MVP Planning Meeting 20250902.txt]
+	- MDM, AI: Sana had question on frequency of MATL_CP updates in dev (enviro not specified) (status call on 9/15)
+	- MDM, Check in updated data model for MDM (DrawIO and PDF)
+	- MDM, Analysis on why MATL_HRCHY_RPH_CP count vs count(distinct hrchy_key) gives +/-1 count. Dupe key? 
+	- MDM, Grab notes on tasks on Jira story [PMDD-1369]
+	- MDM, [Hold for 9/16] Close tasks on https://mdtmdm.atlassian.net/browse/PMDD-1369 (Tech spec and dev hand off)
+	
+12	- Misc, make new git/erwin access token 20250910-2001
+	- Misc, Fix git token, see [~\_Cross Projects\L. Logins and Accounts\GIT Personal Access Token.txt]
+	- Admin, Update workday goals w/ achievements so far (Q1 May start on 4/26 through July end on 7/25)
+	- Admin, Create cal appts to update goals during every FY EoQ 
+	- Misc, check out in office time dashboard 
+	
+	- GCH, Put my notes into the 7 attribs for GCH story 
+	- GCH, Propose groups of attributes into 3 stories: 
+			-- existing 7 Attribs for GCH (#?), 
+			-- add Story for "Attribs available in XDS_MAIN", 
+			-- add Story for "Attribs w/ no/unknown source"
+
+	- MDG, Watch replay of Oscar's presentation from Wed All team meeting 
+	- MDG, Expand functional spec shell for inactive repository in SNF / Digital Core 
+	- MDM, Ed (Low pri), Update architecture tab of MDM Data Model w/ pDNA Integrity File flow
+	- MDG, Ed, Flesh out Inactive/Archive tables diagram with detailed version showing specific table names (start w/ material related) 
+	- MDM, Ed, Make a DQ Checks Issues folder and POA 
+
+	- PDNA, Issue w/ expected training items not appearing in T_APP_GRP_USR_TRAIN_ASSGN(sp?) 
+		N-- See sample data notes in [PDNA Sample from Brian Working Copy.xlsx]
+
+
+
+	> Hours Target for Mon (but first, actually look at priorities above) 
+		- Billable Hours Target 22-25 = 55%-62.5% 
+		Plan MDM 2, MDG 4, PPE 0, Admin 0, ATB 2
+
+
+
+
+> NEXT: 
+(Should be able to tell what is recently completed, current proj status, what's in progress, what's coming)
+
+:MISC
+	> Scraps w/out a home (yet) 
+	- Get access to https://gitlab.com/medtronic/global-data-analytics-automation/core/core-idh
+	- Admin, Eval Summer Cyber Camp for goals expansion 
+	- Ed, check for grants in yml MATL_RFI 
+	- Admin, Create early timesheet appointments from Tim Fell's email 20250722-0731
+	- Ed, Clean up SNF Worksheet [MDM MATL Prod - Scratch]
+	- Misc, Update CSOD diagram w/ server name change (EMail 20250709-1219 & 20250806-1004) 
+	- Ed, Make a PROD_FDH_DB Schema List (and IDH, and check for access to FIC in FDH)
+	- Ed, Note additions to [Deploy Notes CHG0336979 DBT MATL_PIM.txt] in template version  
+	- Ed, Digital Business Transformation Skills Lab Training link, Possible Goals Related, Check https://degreed.com/pathway/mpl7zl5vpd?orgsso=medtronic&tltag=1109b83f-8910-49c4-9200-5873aaf74c16
+	- CSOD, Confirm server updated in VSD MSPM1BAPPT900	--> MSPM7AAPPT0260
+	- Ed, some email clean up (e.g. resolve 3)
+	- MDM, prework, come up with options for DQ checks (hold for status until have some findings) 
+	- Admin, find out how to get rid of VDI 
+	
+
+
+:MDG
+	- MDG Project 
+		N-- WBS use 037936.102 (bad one was 037936.100, old for FY25 was 035343.100)
+		N-- Initial info from Bill; more stategic, about sources clean-up, is a pre-s4 project, w/ Corey as Sol Arch (at Heidi/Erica level) 
+		N-- WS01 (MDG & Data Rationalization) & WS02 (Business Partner Conversion & MDG Impl) 
+
+	/-- Data Model for Historical Inactive Material (Inactive vs Active Material)
+		N-- See notes in [~\I. Issues\Historical Inactive Material\MDG Historical Material - POA.txt]
+		N-- Jira story is: https://mdtmdm.atlassian.net/browse/MDG-375
+		N-- Also referred to as "Model for comprehensive search and reserve tool" 
+		X-- Topic 1: GTINs in Phase Out status (some w/out inventory)			
+		.-- Topic 2: Downstream consumption of Product data
+			N-- See [Inactive vs Active Data Model - POA.txt], top level here for estimating then can be removed 
+			X-- Create a high level 'reference' flow that shows how material moves from SAP to SNF 
+			.-- Create diagram similar to Corey's showing data feeds out of both MDG and SAP to SNF
+				.-- See if this is done, compare to task list in POA 
+			.-- Ed, Copy Dev plan for Inactive from dice plan in gmail 
+		.-- Topic 3: Retention Periods in DIH
+			.-- Ask Meg if there is an official statement about this
+			.-- Check SharePoint for Data Retention rules
+		/-- Topic 4: Data model options; active and inactive separate, vs jumbo master
+			/-- Create high level model showing inactive stopping before curation
+		N--  S4 Pre-Projects Workstream 4B: Data Lifecycle Management Weekly Status  And the PM is:  Sullivan Teele, Amy
+			N-- From convo w/ Meg on 8/26 (see IM) 
+			N-- Meeting w/ DPAS DAs on data retention strategy in DIH/SNF 
+		.-- Flesh out and share proposed dev plan 	
+			N-- See [~\I. Issues\Historical Inactive Material\Dev plan for Historical Inactive Material.txt]
+			N-- Store in MDG (S4Journey) General / S4 Pre-Projects / 01 Master Data - Gov & Data Rational... / 02 Product / 04 Design  https://medtronic.sharepoint.com/:f:/r/sites/S4FinanceFirst/Shared%20Documents/General/S4%20Pre-Projects/01%20Master%20Data%20-%20Governance%20%26%20Data%20Rationalization/02%20Product/04%20Design?csf=1&web=1&e=xgGXUT
+
+	/-- pDNA Wave 2 
+		N-- Heather request email 20250825-2023 
+		N-- Jira story is https://mdtmdm.atlassian.net/browse/MDG-376
+		N-- Notes in [~\I. Issues\pDNA Wave 2\pDNA Wave 2.txt]
+		.-- Check Field Level Deep Dive for attributes that require follow-up for wave 2 
+			N-- Fields Level Deep Dive XLS, Column O on the Alpha tab, some attribs to be discussed further, 
+			N-- Per Heidi, this is some of the follow-up we’ll need the project team to action on
+			.-- pDNA Wave 2, Column O on the Alpha tab, get distinct LoV
+			.-- m/b question out to team which values mean "needs follow up" 
+			.-- Review Amy's message in Teams Channel for Field Level Deep Dive XLS 
+			
+	.-- BPD review (from Arun) 
+		.-- Review Arun BPD when it is sent by Arun 
+
+		
+	.-- Ed, Review Docs From Heidi XLS [S4 MDG Prework Plan - 2025-03-07.xls]
+		.-- Data model Review	Current state data model 
+			Inventory of classification attributes
+			Inventory of use of classification attributes
+			Types by master data domain and counts/use for each - example material types, customer types, etc
+			Review future state data model
+			Gap analysis between current data model and future state
+		.-- Product Domain tab 
+			Each data field - Understand where is comes from, who owns it and the process behind it
+			Current state data model - Deep dive in to classifications
+			Financial Hiearchy detail - Process and assignment
+			RPH Detail - Process and assignment
+			Pricing hiearchy - process and assignment
+
+	.-- Misc task ideas 
+		.-- Review RAID Log
+		.-- Refine task "Work w/ Team on how Key Mapping works in DIH (per Heidi)", make Issue 'Key Mapping' 
+		.-- Ed, Expand data dictionary data model in [~\Q. QA and Validation\SAP Data Dictionary Joins.drawio]
+		.-- Ed, check for access to tables listed in [BP_Product_in_MDG High Level Data Model.docx] (Goal - know product Data Model in SAP)
+		.-- Ed, Add diagram of attribute flow for Customer attribs to [~\I. Issues\Characteristic Mapping\Material Attribute Data Flow.drawio]
+		.-- Research if there is some type of duplication indicator flag in the MDG data model (per discussion with SME Josh on Customer)	
+		.-- Read SAP MDG Doco https://help.sap.com/docs/SAP_ERP/de1b9c94c8594d6f94fe66ae423d5d70/7729ad50e6542f3ce10000000a44538d.html
+
+:GCH 
+	N-- WBS 036677.100
+	- 7 Attribs for GCH, generate proposed SQL [PMDD-1149]
+		N-- Perry Renamed PMDD-1149 to Release 4: GCH NextGen Original Set of Attributes
+		/-- Jira tasks on story PMDD-1149, https://mdtmdm.atlassian.net/browse/PMDD-1149
+			/-- PMDD-1221 Analytic support for source of 7 attribs in existing strategic schemas 
+			.-- PMDD-1151 Create/Update erwin 
+			.-- PMDD-1153 Create/Update tech specs 
+			.-- PMDD-1152 Present design and get approvals 
+			.-- PMDD-1150 Hand-off and walk-through w/ devs 
+		.-- Get definitive list of what requires building (vs what is procedural instructions & documentation) 
+11		.-- US FDA Approval status message from Sana, mark attrib at hold (m/b move to no plan story) 20250909-2136
+	
+	- PMDD-1394: GCH NextGen: Attributes we can get from XDS; 
+	- PMDD-1393: GCH NextGen: Attributes we do not have a source for
+	- PMDD-1392: GCH NextGen: Out of Scope Attributes.
+
+:MDM 
+	- MDM Product Master Data Product 
+		N-- WBS 035954.100 
+		N-- Kafka DA assigned to Pod is pronounced "Ashoot" "Paudel, Achyut [VPE]" <achyut.paudel@medtronic.com>
+		N-- https://gitlab.com/medtronic/global-data-analytis-automation/core/core-cdh
+					
+	/-- Manufacturing Hiearchy, new addition of a hiearchy **Prod Target Sept 2025** [PMDD-1369]
+		N-- See POA in [~\I. Issues\Manufacturing Hiearchy\Manuf Hierarchy - POA.txt]
+		N-- Functional Spec in MDM SharePoint / Product Hierarchies / Product Hierarchy Functional Specification.docx
+		N-- Sana updated the FS with manufacturing hierarchy data. 
+		X-- Review Sec 9.5 w/ Hiearchy Info (file saved locally in ~/I. Issues.../Manufacturing Hiearchy
+		X-- Init POA, saved in [~\I. Issues\Manufacturing Hiearchy\Manuf Hierarchy - POA.txt]
+		X-- Get Jira Story ID (A: PMDD-1369)
+		X-- Analysis on existing cols (are they populated as expected, from where, and what potential primary key)
+			N-- See POA (above) for next steps 		
+		X-- Define columns for Material to Hiearchy Cross-Reference table
+			X-- Lookup corresponding table in DIH, see what columns it has 
+		X-- Finalize data model in drawio w/ proposed cross-reference and manufacturing hierarchy additions [task PMDD-1380]
+		X-- Curation review 
+			X-- Float design idea to Material domain lead DA from DPAS 
+			X-- Update SOURCE_CD to be 'CP' in column comment in tech spec 
+			X-- Change source column names for levels, e.g. MFG_LVL1_ID & MFG_LVL1_DESC
+			X-- Update column level comments to include descriptions from Manuf POA 
+			X-- Add changes above to erwin 
+			X-- Description length check, see POA - Manuf Hierarchy
+			X-- Verify updates applied in erwin 
+			X-- Add Level 0 ID and Desc to MATL_HRCHY_CMN
+			X-- Check MATL_HRCHY_CMN refresh type (view/table) A: All Hrchy (and common) are views 
+:Y0		X-- Tech spec for XREF (see POA - Manuf Hierarchy.txt for details)
+			X-- Create SQL SourceQual 
+			X-- Change tag for MATL_HRCHY_MFG_XREF to reflect materialize as view 
+		.-- Tech spec for Manuf Hier (see POA - Manuf Hierarchy.txt for details) 
+			.-- Change tag for MATL_HRCHY_MFG_CP for refresh to materialize as view appropriate 
+		/-- Tech spec mod for Hier Common (see POA - Manuf Hierarchy.txt for details)
+			X-- Add Level 0 ID & Desc to erwin 
+			.-- Add Level 0 ID & Desc to tech spec
+			.-- Add Level 0 as null to other union selects 
+		.-- Rerun curation/dbt automation 
+			.-- Validate col order and descriptions match tech spec 
+		.-- Send Tech Specs to; Tamoghna Majumdar, Daniel, Sagar 
+
+	.-- Data Quality Framework Checks [PMDD-208]
+		N-- See doc downloaded to ~/R. Ref.../Playbooks...
+		N-- DPAS concern is to make sure the pipeline is working (also SLAs if applicable) 
+		N-- SNF / Projects / Streamlit app DQ_TEST_CONFIG_APP (let welcome page load before navigating to left nav items)
+		N-- Get info on if email notif is required (to airflow, goes to BI support) and if so, must be in SoP 
+		X-- Research in Dev Playbook (m/b Architecture Playbook) 
+		.-- Research info on how to apply them in playbooks and DIGIC repo 
+		.-- Ask Trina for a 30 minute meeting to demo how these have been done for another project 
+		.-- Add DQ checks to:
+			.-- MATL_PIM 
+			.-- MATL_UOM_CP 
+			.-- MATL_RFI (view) 
+			.-- MATL_TRANS_UDI (view)
+			.-- STOR_HDL_TRANS_UDI (view)
+		
+	/-- DBT local setup 
+		N-- SSH Keys saved in C:\Users\sorenp3\OneDrive - Medtronic PLC\Live\pmsoren\_PT\SSHKeys_MDT
+		.-- At step 22 in local setup instructions 
+
+	.-- UNSPSC, ask Joel about SDH schemas; is there a table tracking them? Similar to dev_cdh_db.config.src_code?
+		
+	.-- [Reference] High Level Architecture support 
+		N-- Assets to share:
+			.-- DIGIC Data Platforms High-level Architecture.pdf, the "What", Current and future state of sources -> DIH -> SNF 
+			.-- DIGIC Design flow and tasks.pdf, the "How part 1", Describes how work gets done
+			.-- Snowflake-Data-Integration-Transformation-Standard-Tools.pdf, the "How part 2", Describes core technologies
+			.-- DIGIC Architecture with SDH CDH FDH breakout.png, the "What" more detailed view 
+			N-- Common Data Framework Definition
+					The CDF is an enterprise-wide approach that categorizes all data into logical groups (Data Domains and Sub-domains) 
+					based on key business concepts such as Patient, Product, Sales, etc. It is used across teams, projects, and systems 
+					to provide a common view of all Medtronic data.
+
+::PPESOURCE 
+	- Request for PPeSource v5-8, Sec 10.14 in Functional Spec 
+		N-- Prework SQL in [Analysis - PERF_GENERATOR_BATTERY SourceQual Update.sql]
+		N-- Tech spec for m_LOAD_PERF_ACUTE_OBSERVATION (done previously) shows 'NULL as document_key' in sourcequal
+			  in a 'wrapper' select statement.  See tech spec at: ~\E. ETL\TechSpecs\Phase 2\Perf_Acute_Observation_STT.xlsx
+		X-- Research to validate the request, be able to see the problem  
+		X-- Review proposed solution, see if it actually fixes the problem 
+		X-- Check with Bill P, is this still in our area? 
+			N-- Do we use Naraj(sp?) for the Informatica PowerCenter work 
+		.-- Get / Validate WBS from Daniel (Must be done before next publish in Oct/Nov 
+		
+
+:CSOD 
+	- CSOD, Various Cornerstone Projects 
+		N-- WBS for pDNA Windchill access to CSOD, IT10800.247
+		N-- CSOD WBS for review of release changes IT10500.736	CSOD Internal Release Management FY21
+		N-- WBS for Yogita monitoring WBS, IT10500.735 - CSOD Internal Support FY21
+		N-- WBS for CSOD Internal Support (billable CSOD not release management) IT10500.735	CSOD Internal Support FY21
+		N-- WBS for Release management (deprecated objects proj) IT10500.736	CSOD Internal Release Management FY21
+
+		/-- Great Lakes Testing of Report Move off Hana onto SNF 
+			N-- WBS 027176.601
+			N-- (1/30) Meeting w/ EP and leaders, circle back in 2w 
+			X-- Find out what the issue is with the Matrix report, cal invite from Tim for 2/5
+				N-- "Paul - review current issue that Ryan, Ryan, John S. are stating."
+				N-- Asked Ryans, no clear point point identified (not like DDCR and CDR reports)
+			X-- Create estimate for converting SPROCS (SDH and CDH) to DBT, Tasks to Airflow 
+				N-- Use Dependent Data Flows as a guide (account for everything and add thud factor) 
+				N-- Saved in [~\P. Project Plan and Task Lists\HLE - CSOD Port SNF SPROCs to DBT.xlsx]
+			X-- Meeting on 'lift and shift' and 'rewrite' estimates on 2/10 @2pm
+			X-- Meeting 2/18, Catch up Joel on lift and shift approach 
+			X-- Meeting 2/19, Joel + Eric on lift and shift approach 
+
+
+
+============= BOTTOM OF LIVE LIST ==============
+
+:GenAI
+	- Admin, Bill's Team GenAI Initiatives  
+		N-- See [~\GenAIHyperAuto\POA - GenAIHyperAuto.txt]
+		N-- EMails moved to Outlook folder [Projects/AI Initiatives (Bill's Team)] 
+		X-- Make doc for AI training POA from Bill's email (email 20240708-0807)
+		X-- File GenAI training docs (from ~/Downloads -> GenAIHyperAuto folder) 
+		.-- Review additional content from Bill (email 20240715-1037)
+		.-- Review PPT list of projects from Bill (email 20240729-1050)
+		.-- Add GenAI related tech (plus atlan) to Goals worksheet as future milestone entries and WSR as ToDo tech 
+		
+
+:PPE 
+	N-- Up to WBS 034400.100 RtM (MDT & Contingent Tech SMEs)
+	X-- Relaunch loads after schema copy down and PK fix for PERF_DEVICE
+		N-- Notes in ~\I. Issues\Nov2024 Data Loads\PPE Job Runs in TEST 20241202.txt
+	X-- Monitor job run OPS_PERF_993_OND
+		N-- Complete 
+	N-- Last status EMail 20241203-0944, expect future job run requests 
+
+
+:DIGIC 
+	- DIGIC Landscape Working Session 
+		N-- Notes in ~\_Cross Projects\1. Architecture and Platform\DIGIC Landscape\DIGIC Landscape Working Session 20231114.txt
+		N-- Topics I'm signed up for (3 of 25): 
+			N-- Architecture/Development playbook(s) 
+				N-- Task Category = Architecture
+				N-- Next Steps: Small working group to create either one architecture playbook and one development playbook, or a combination playbook.
+			N-- Snowflake compute costs / cloud cost structure (Difficult to predict costs, warehouse sizing and efficiency education needed)
+				N-- Task Category = Cost
+				N-- Next Steps: Cost management strategy, Benchmarking, Cost monitoring and optimization tools, estimation, Development and testing options for cost optimization
+			N-- Well-established cost structure (compute chargeback model) supported by the highest levels of leadership.
+				N-- Task Category = Cost 
+				N-- Next Steps: Establish a roadmap/timeline to get to a final chargeback model, Create the necessary documentation 
+		X-- Working session (4h) on 11/14
+		X-- Participate in Architecture Initiatives group (Lead is Trina) 
+		X-- Participate in Cost Initiatives group (Lead is Asha) 
+
+
+	
+
+> First day setup notes 
+	Employee number (Badge Number) 420965  Start Date: 12/10/2018
+	End Date (from Field Glass on 8/16/2019) 10/30/2020
+	Security questions setup and saved to ~/Clients/MDT/R. Reference...
+	Vend-Conn through 1/31
+		UID: paul.sorenson@daugherty.com2 (note 2 suffix), eOOVWa 
+		To Reconfigure, https://getguestinet login w/ MDT creds, create account
+
+	

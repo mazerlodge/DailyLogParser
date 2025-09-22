@@ -1,0 +1,781 @@
+﻿S1 POA MDT 202502
+
+01/27 (M) 
+	- MDM, Analysis on G_MATL col list vs MATL_CP vs MATL_CMN (Target) vs MATL_DATA_PROD
+	- MDM, Daily stand up 
+	- MDM, Q&A w/ Sana on testing, UDI join criteria 
+
+01/28 & 1/29 
+	{No activity, PTO for mom's hip surgery}  
+
+01/30
+	- MDM, Chasing approvals for rename of MATL_DATA_PROD to MATL_RFI 
+	- CSOD, Telecon w/ RYost re: ODF repoint to SNF to get off HANA 
+	- MDM, Daily stand up 
+	- MDM, Update data model to reflect name change to MATL_RFI 
+	- MDM, Question to Heidi re: hierarchy cols added to Jira Story
+	- MDM, Expanding G_MATL vs MATL_CP Comparison, checking attribs w/ similar names for match 
+	- CSOD GL, Meeting on transition from HANA to Snowflake 
+	- MDM, Tracing back XDS_H_MATERIAL 
+	
+01/31 
+	- MDM, Final check on RFCs and creating validation SQL for deployment day
+	- MDM, Backing up prod objects before deployment
+	- MDM, Create planning document for MATL_CMN (and harmonization) development 
+	- MDM, Tech Spec update, MATL_DATA_PROD rename to MATL_RFI
+	- Misc, I&I RFC Review meeting (MDM RFCs)	
+	- MDM, Updating erwin with name change to MATL_RFI 
+	- MDM, Updated XLS for erwin merge to non-prod and prod models
+	- MDM, Created dev plan diagram for MATL_CMN and draft msg for Joel 
+
+02/01 (S) 
+	- Spot check SQL on deployments and f/u Soni's message to the team 
+	
+02/03
+	- MDM, Finalize dev plan diagram for MATL_CMN and sent msg for Joel/Trina for comment
+	- MDM, Sent erwin data model merge request, review -> non-prod and prod
+	- MDM, Add Source Sys and Target Table cols to G_MATL vs MATL_CP Col Comparison XLS  
+	- MDM, Daily stand up 
+	- CSOD, Msg to RB & R3 requesting info about the current issue w/ the matrix report 
+	- MDM, Init KT Change Document for MVP release 
+	- MDM, MATL_CMN table discussion; high level on how to get to a G_MATL replacement 
+
+02/04
+	- MDM, Analysis and planning for hierarchy tables 
+	- MDM, Daily Stand-Up meeting 
+	- MDM, GCH Product Data Needs Meeting
+	- Admin, EA Tech Talk on Agentic and Snowflake AI/ML 
+	- pDNA, Diag load failures in test and update configs to prep for pDNA 
+	- pDNA, Q&A with Rich Schafer on ad-hoc job runs failing to start 
+	- MDM, Resuming hierarchy table analysis 
+	- MDM, Touchbase with Joel on harmonization replacement (proposed move to SNF is correct) 
+	- MDM, Analysis on harmonization as described by Joel (field replacement when keys match)
+
+02/05
+	- MDM, Identify hierarchy cols already in MATL_CP 
+	- pDNA, Message out to Rich Schafer re: Tivoli non-prod job runs 
+	- Admin, D&A Sol Arch CoP Meeting 
+	- MDM, Daily stand up 
+	- MDM, Demo planning meeting 
+	- pDNA, Diagnose SFTP failure connecting to non-prod 
+	- MDM, Backlog grooming meeting  
+	- pDNA, Submit incident re: SFTP no matching host key type error (INC11983393)
+	- MDM, Read Func Spec Sec 9.7, Sana has added info on hierarchies already in MATL_CP
+	- MDM, Check population of hierarchies GFS and RPH in MATL_CP 
+	- MDM, Validate erwin non-prod and prod model merges are done 
+	- CSOD GL, Meeting on CSOD reporting architecture 
+
+02/06
+	- pDNA, Setup manual run on MSPR47 to pull dev files, Tivoli fails w/ 998 unable to login to SFTP 
+	- pDNA, Request status update on incident 
+	- pDNA, Posted status to team 
+	- MDM, Daily stand-up meeting 
+	- MDM, Sent KT document to Soni for input 
+	- CSOD GL, Create estimate for converting SPROCS (SDH and CDH) to DBT, Tasks to Airflow
+	- pDNA, Posted request for status update and suggestion to compare to prod 
+	- MDM, Traceback of material key 
+
+02/07
+	- pDNA, Retest sFTP and update incident 
+	- MDM, Review Soni’s updates to the KT doc for PAM 
+	- pDNA, create post incident resolution recovery plan 
+	- CSOD GL, Final updates to estimate 
+	- MDM, Research hierarchy info Sana found in FDH 
+	- Misc, I&I RFC Call
+	- Misc, Cyber threat briefing 
+	- MDM, Checked population of hierarchies in FDH table 
+
+02/10 (M) 
+	- pDNA, Retest sFTP and update incident 
+	- MDM, Traced source of FDH hierarchy columns (it’s a view they come from g_matl)
+	- MDM, Check Func spec for GFS (Global Finance Structure) hiearchy info from Sana
+	- CSOD Int, Diag prod data load failure last night, suggested rerun all steps of CSOD_998_DATA_EXPORTER
+	- CSOD Int, Update statement for RB, 2x T_USER record manager updates 
+	- MDM, Find out if the additional GFS fields (not level and description) are populated in G_MATL 
+	- MDM, Daily stand-up meeting 
+	- CSOD Int, Additional T_USER updates in Test for RB 
+	- MDM, Find MATNR in G_MATL, that's how G_MATL and MATL_CP can be joined
+	- MDM, Find the source of GFS hierarchy cols in G_MATL
+	- CSOD GL, Estimate review meeting 
+
+02/11
+	{No activity, mom stitches appointment and LC Trip} 
+	
+02/12
+	- pDNA, Retest sFTP 
+	- pDNA, Mod shell scripts to add -oHostKeyAlgorithms=+ssh-rsa
+	- MDM, Final update to KT doc and sent to Trina for review and to get POC for next step 
+	- MDM, Daily stand-up meeting 
+	- MDM, Q&A with Sana on role access request 
+	- MDM, Meeting on hierarchies work 
+	- pDNA, Additional shell script edits and job reruns in Dev (MSPR41) 
+	- pDNA, Ad-Hoc runs for all four Cornerstone jobs submitted, team updated on status 
+	- pDNA, Jobs failed with IICS error; 
+	- pDNA, Incident opened for IICS failure (INC12010869)
+	- Misc, CSOD assigned training 
+	- MDM, Finish trace of GFS_MATL_HRCHY_LVL1
+	- pDNA, Resume loads w/ Informatica issue resolved 
+	
+02/13
+	- pDNA, Check loads for pDNA testing, ran successfully
+	- pDNA, Spot check pDNA update list, not seeing expected update 
+	- MDM, Traceback of GFS hierarchy 
+	- MDM, Daily stand-up meeting 
+	- MDM, Research DIH layer views producing GFS hierarchy
+	- Admin, Listening session / team meeting 
+	- MDM, Discuss OneStream impact on hierarchies w/ Sid 
+	- MDM, Discuss Fin/CMR hierarchy and harmonized hierarchy (left and mid col on Heidi’s diagram) 
+
+02/14
+	- pDNA, Diag pDNA data not appearing
+	- pDNA, Found stuck data in pre-stage tables 
+	- MDM, Hiearchy work 
+	- MDM, Discuss hierarchy status with Sana
+	- MDM, Write up for Joel on Hierarchies and proposed approach 
+
+02/17 (M) 
+	- MDM, Add GFS Hierarchy ETL plan tab to diagrams file 
+	- MDM, Daily stand-up meeting 
+	- MDM, Verify file paths and names for BUS and GPAC source codes
+	- MDM, Trace source of CVDS_MATERIAL_HRCHY_NODE
+	- MDM, Tracing each source for both CVDS_MATERIAL_HRCHY and CVDS_MATERIAL_HRCHY_NODE
+
+02/18
+	- MDM, Tracing each source for both CVDS_MATERIAL_HRCHY and CVDS_MATERIAL_HRCHY_NODE
+	- MDM, Add sources to Data Model, GFS Hierarchy ETL Plan 
+	- MDM, Daily Stand-Up Meeting 
+	- MDM, Update to KT doc recommended by Trina (list specific CP fields added)
+	- MDM, Posted KT doc to SharePoint and sent notification to BISupportETL DL
+	- MDM, Added DL Snowflake Suport and DL DBTCloud Administrators to KT
+	- MDM, Sprint Planning Meeting 
+	- CSOD Int, Create POA for Shell Script Update for SFTP issue and deployment 
+	- CSOD Int, Pull current prod & stage scripts
+	- CSOD Int, Making updates to shell scripts for SFTP failure 
+	- CSOD Int, Drafting RFC
+	- CSOD GL, Meeting on plan for CSOD; lift and shift vs rebuild 	
+	- CSOD Int, Submitted incident for dry run 
+	- CSOD Int, Drafting test summary 
+	- CSOD GL, Diagram for lift and shift data flow
+
+02/19
+	- CSOD GL, Review diagram and sent to Joel and Mradul for comment
+	- CSOD Int, Advanced CSOD Int RFC to waiting approval
+	- MDM, Check SNF CP layer for tables used, can we recreate w/ what is in SNF today
+	- Misc, D&A Sol Arch CoP Meeting 
+	- MDM, Daily stand-up meeting 
+	- MDM, Sprint demo meeting 
+	- MDM, Update architecture diagram with file-based sources needed for hierarchies 
+	- MDM, Prototype external table for UNSPSC file to confirm approach can be repeated 
+	- MDM, Message to Brad and Kai on how to reference external table file source 
+	- MDM, Updated external table def, able to read folder w/out specifying file pattern 
+	- MDM, Diag auto refresh of external table not working 
+	- CSOD GL, Meeting on lift and shift 
+
+02/20
+	- CSOD Int, Update driver script to accommodate Jenkins issue
+	- MDM, Diag auto-refresh for UNSPSC external table
+	- MDM, Message to Brad/Kai re: auto-refresh of UNSPSC folder not working 
+	- MDM, Daily stand-up meeting 
+	- MDM, Check availability of hierarchy source tables in SNF 
+	- MDM, Identify source for GFS additional fields
+	- CSOD Int, Job runs on Stage stuck at Ready (INC12041564)	
+
+02/21
+	- Misc, Early timesheets for end of month adjust to actuals and submit
+	- CSOD Int, Check for stage job run re: deployment 
+	- CSOD Int, Submit incident for IICS QA unable to read parameter file (INC12044414, same 10d ago INC12010869)
+		- MDM, Agile training 
+		- MDM, Question out to Ani on Service Introduction vs KT 
+	- CSOD GL, Meeting on lift and shift w/ Eric & Joel
+	- CSOD Int, Prep to present change 
+	- CSOD Int, RFC Call for deployment 
+	- CSOD Int, Draft deployment notification email  
+	- MDM, Traceback remaining additional GFS fields to XDS or CVDS layer 
+
+02/24 (M) 
+	- MDM, Traceback GFS fields to Source layer 
+	- MDM, Daily stand-up meeting
+	- MDM, Traceback GFS hierarchy levels 
+	- MDM, Started checking mappings with ODS_GFS_PRODUCT as a target
+
+02/25
+	- CSOD Int, Diag prod issue, missing files, SFTP was interrupted 
+	- CSOD Int, Diag test issue, processing far behind so not showing current data
+	- MDM, Analysis on mappings with ODS_GFS_PRODUCT as a target
+	- MDM, Daily stand-up meeting 
+	- CSOD Int, SQL updates in TEST Snowflake for RB 
+	- Admin, Ethics and Integrity Week Signature Event 
+	- MDM, Resuming analysis on GFS dependency on ODS 
+	- MDM, Sprint planning meeting 
+	- MDM, Research CDC interface samples recommended by Trina 
+	- CSOD Int, Q&As with support about reruns in prod and test (separate issues) 
+	- CSOD Int, Analysis on P_GTAT_GROUP_BASE_DETAILS
+	- CSOD Int, Meeting on lift and shift
+	
+02/26
+	- MDM, Reply to Sana’s message re: GFS hierarchy and XDS objects
+	- MDM, Add diagram of proposed/expected GFS Hierarchy data flow
+	- MDM, Daily stand-up meeting 
+	- MDM, Walk through of plan for GFS Hierarchy
+	- Admin, Global Town Hall 
+	- MDM, Hierarchy data traceback for g_fin_bus_hrchy 	
+	- MDM, Draft proposed GFS table 
+	- MDM, Researching curation acceleration tool 
+
+02/27
+	- CSOD Int, Check support question regarding incident 
+	- CSOD Int, Incident opened for SFTP host not responding issue (INC12065407)
+	- MDM, Daily stand-up meeting 
+	- CSOD Int, Script mod to catch SFTP error
+	- CSOD Int, Restart loads after another unresponsive server error
+	- CSOD Int, Addn’l edit to 999 shell scripts (email message text on error adjusted)
+	- MDM, Expanding DFD with flow from One Stream to MATL_HRCHY_GFS 
+	- MDM, IM with Heidi on XDS as a source
+	- MDM, Scheduled meeting with DPAS PoCs re: Heidi’s request 
+
+02/28
+	- MDM, IM w/ Trina on XDS as a source 
+	- CSOD Int, Diag load fail in test 	
+	- MDM, Verify all proposed GFS Hierarchy Cols can be obtained from XDS 
+	- CSOD Int, Restart loads, another SFTP failure 
+	- MDM, Adding EXTNL_MATL_GP_CD & EXTNL_MATL_GP_DESC to GFS Hierarchy def 
+	- MDM, Q&A with Sana on Atlan intake
+	- Train, Gen AI Pathways and Manning LLM from Scratch 
+	- MDM, Draft prototype SQL for MATL_HRCHY_GFS from XDS
+	
+03/03 (M) 
+	- MDM, Draft prototype SQL for MATL_HRCHY_GFS from XDS 
+	- CSOD Int, Check load status in prod 
+	- MDM, Add proposed curated col names to XDS sourced SQL for GFS Hierarchy  
+	- MDM, Analysis on PK options for XDS sourced SQL 
+	- CSOD Int, Q&A w/ Support on non-prod loads 
+	- MDM, Daily Stand-up meeting 
+	- MDM, Test join of XDS_H_MATERIAL to MATL_CP for GFS Hierarchy cols EXTNL_MATL_GP_CD & DESC
+	- CSOD Int, Rerun User_OU_History file in Dev, decrypted as 0kb 
+	- MDM, Get list of fields that come from ODS (prep for meeting with Joel & Co tomorrow) 
+	- MDM, Q&A w/ Sana on exporting image from DrawIO & removing EXTNL_MATL_GRP_CD & ..._DESC
+	- MDM, Init table def for MATL_HRCHY_GFS in erwin (local) 
+
+03/04
+	- MDM, Discuss XDS for GFS 
+	- MDM, Expand table def for MATL_HRCHY_GFS in erwin (local) 
+	- CSOD, Q&A with support on INC12039143 (missing row in s_user_ou_history)
+	- MDM, Daily stand-up meeting 
+	- Admin, EA Tech Talk (SalesForce Agentic AI) 
+	- MDM, Meeting on temporary use of XDS in build of PAM schema 
+	- MDM, Eval proposed cols based on content for potential drop (e.g. all rows have null value) 
+
+03/05
+	- CSOD Int, Recover jobs post patching in non-prod 
+	- MDM, Eval GFS cols content for potential drop (e.g. all rows have null value) 
+	- MDM, Daily Stand-up meeting
+	- CSOD Int, Meeting on GTAT data sync issue (INC11930100 and INCT1545383)
+	- MDM, Column value checks for GFS extra columns (noting blank or static value cols) 
+	- MDM, Do col name updates based on curation pipeline output 
+	- MDM, Meeting on backlog grooming 
+	- MDM, Update erwin comments to accurately reflect column name w/out GFS prefix 
+	- MDM, Resubmit to curation pipeline with modified col names 
+	
+03/06
+	- MDM, Init tech spec for MATL_HRCHY_GFS 
+	- MDM, Daily stand-up meeting 
+	- Training, Cornerstone assigned training 
+	- MDM, Expanding definitions, locating sample values to reference. 
+	- MDM, Q&A with Sana on build plan for Hierarchies 
+	- MDM, Q&A with Jim on potential additional incident or issues due to PAM schema expansion 
+	- MDM, Draft Data Model for hierarchies into DrawIO  diagram 
+
+03/07
+	- MDM, Expanding definitions, locating sample values to reference. (Cont. at MATL_HRCHY_DESC)
+	- CSOD, Q&A w/ support on SFTP sites 	
+	- MDM, Meeting with Sana and Kamlesh on hierarchy development plan 
+	- Misc, I&I Combined RFC call 
+	- MDM, Q&A with Kamelesh on hierarchy build process in erwin 
+	- MDM, Merge local erwin updates to repo 
+
+03/10 (M)
+	- MDM, Message for Krishna on extra columns in GFS Hierarchy table
+	- MDM, Message for Sana on column definitions
+	- MDM, Diag fields with duplicate values 
+	- MDM, Daily stand-up meeting 
+	- MDM, Msg to Krishna on cols w/ duplicate sources 
+	- MDM, PK analysis 
+	- PPE, Locate and share SourceQual SQL for acute observation code
+	- MDM, Resuming PK analysis 
+	- MDM, Traceback additional cols for removal, duplicate sources 
+
+03/11
+	- PPE, Check service now incident from Daniel, sent correct link
+	- MDM, Update column comments 	
+	- CSOD, deletes and inserts for RB 
+	- MDM, Daily stand-up meeting 
+	- CSOD Int, Validate and rerun deletes for RB 
+	- CSOD Int, Question out to RB on extra run or fast forward to catch up MSPR41
+	- MDM, Apply comment updates from xls to erwin 	
+	- MDM, Update SQL for load of MATL_HRCHY_GFS 
+	- MDM, Update DFD diagram to reflect current proposed column list 
+	- CSOD, Update config files in dev/test	
+	- MDM, Meet w/ Krishna on MATL_HRCHY_GFS design 
+	- MDM, Analysis on switching source to pull from XDS_MATERIAL_HRCHY 
+	- MDM, Final column name updates for curation review 
+	- MDM, Submitted request for curation review 
+
+03/12
+	- MDM, Add UPD_TS col to GFS Hierarchy table 
+	- MDM, Adding additional cols from XDS hierarchy table to GFS table (e.g. sort, lowest level, desc, etc)
+	- MDM, Daily stand-up meeting 
+	- MDM, Discuss sort and break columns with Sid
+	- CSOD, Check status of loads
+	- MDM, Rerun curation with additional columns 
+	- MDM, Update meeting invite for curation review with expanded def and diagram 
+	- MDM, Curation review of MATL_HRCHY_GFS 
+	- MDM, Incorp feedback from curation review into GFS Hierarchy table 
+	- MDM, Create source qualifier SQL 
+	- MDM, Create tech spec for MATL_HRCHY_GFS 
+
+03/13
+	- CSOD, Check status of test loads, covering for RB 	
+	- MDM, Update YAML for GFS Hierarchy table 
+	- MDM, Daily stand-up meeting 
+	- MDM, Update erwin refresh tag to be 4h and rerun curation pipeline 
+	- MDM, Dev hand-off meeting for GFS Hierarchy 
+	- MDM, Update spelling of hierarchy in table comment, and update tags to be materialize as view 
+	- MDM, Discussion of Hierarchy common structure with Sana 
+	- MDM, Discussion of Hierarchy joins to material with Kamelesh and Krishna 
+	- MDM, Init tech spec, SQL, and erwin for MATL_HRCHY_CMN 
+	- MDM, Run curation pipeline for MATL_HRCHY_CMN 
+
+03/14
+	- CSOD, Check non-prod load status 
+	- CSOD, Msg to Asha re: meeting Mon on CSOD for pDNA 
+	- CSOD, Restart failed jobs loading test snowflake 
+	- Admin, Prep and participate in tech interview for Neeharika, provided notes to team 
+	- MDM, Update diagram with cols for MATL_HRCHY_CMN
+	- MDM, Compare SQL cols to yaml for Hierarchy Common table 
+	- MDM, Compare col list to tech spec 
+	- Misc, I&I RFC Call 
+	- MDM, Meeting w/ Kamelesh and Sana on hierarchies 	
+	- MDM, Updates to MATL_HRCHY_CMN in erwin 
+	- MDM, Run curation pipeline for MATL_HRCHY_CMN 
+	- MDM, Output artifacts and send request for curation review to Mradul & Co 
+	- MDM, Update to MATL_HRCHY_GFS SQL to include update timestamp 
+
+03/17 (M)
+	- CSOD Int, Question out to RB & R3 re: Test load errors over weekend; rerun or skip 
+	- CSOD Int, Load checks and config updates for dev/test CSOD 
+	- CSOD Int, Prep backups for SFTP deployment 
+	- CSOD Int, Updates to Prod 998 scripts 
+	- MDM, Prep for stand-up 
+	- MDM, Stand up meeting (diff sched than usual)  
+	- CSOD Int, Updates to Prod 999 scripts 
+	- MDM, Prep to present to curation review board 
+	- MDM, Curation Review Meeting for Hierarchy Common 
+	- CSOD Int, Shell scripts updates, compare prod with mods to stage unmodified
+	- CSOD Int, Init Driver Script and MTP 
+	- CSOD Int, Init RFC (CHG0346435)
+	- CSOD Int, Put files in Git 
+	- CSOD Int, Put files on mspr41 personal dir and update validation shell script 
+	- CSOD Int, Init draft test summary 
+	- MDM, Draft email to devs for Hierarchy Common table dev (hold for yaml validation)
+
+03/18
+	- CSOD Int, Load checks (prod caught up)
+	- CSOD Int, Get baseline rowcount for snowflake tables prod vs test
+	- MDM, Tech spec updates 
+	- MDM, Validate SQL col order for Hierarchy Common 
+	- MDM, Daily Stand-Up meeting 
+	- MDM, Validate col order and nullable in yaml (vs order in SQL, should match)
+	- CSOD Int, Submit Jenkins dry run request (RITM4505677)
+	- CSOD Int, Send draft test summary to RB and R3 for approval 
+	- Misc, Check CSOD for outstanding training 
+	- Misc, Did MDT Org Heath Survey 
+	- CSOD Int, Attach test summary to RFC 
+	- CSOD Int, Update testing summary section of RFC 
+	- MDM, Update Jira stories 
+
+
+
+:D0 
+******************	
+> In-Progress:  
+!!	Priorities:
+	- Ed, Traceback RPH, what key provides join to material (in case Kamelesh/Krishna don't get it done) 
+	- Ed, Update CSOD diagram with replaced server info 20250212-1019
+	- PPE, what's the next run required? 
+	- Admin, Bill said to do GenAI Pathways training (do it, in GenAI timeslot?)
+	- MDM, [EoD option] Copy additions to [Deploy Notes CHG0336979 DBT MATL_PIM.txt] to template version  
+	- Ed, Make note, table that is equiv to META_JOB_STEP_LOG in dbt is prod_cdh_db.data_ops.dbt_model_run_stats
+	- Ed, Continue VS Code setup at step 22 (note dbt power user addin not found and Kai doesn't have it, so optional) 
+
+	> Hours Target for Tue (but first, actually look at priorities above) 
+		- Billable Hours Target 22-25 = 55%-62.5% 
+		Plan CSOD Internal 1, CSOD GL 0, CSOD pDNA 0, MDM 7, PPE 0, Admin 0
+		
+		(0.25h not billed MDM on 3/17)
+		
+		
+> NEXT: 
+(Should be able to tell what is recently completed, current proj status, what's in progress, what's coming)
+
+:PPE 
+	N-- Up to WBS 034400.100 RtM (MDT & Contingent Tech SMEs)
+	X-- Relaunch loads after schema copy down and PK fix for PERF_DEVICE
+		N-- Notes in ~\I. Issues\Nov2024 Data Loads\PPE Job Runs in TEST 20241202.txt
+	X-- Monitor job run OPS_PERF_993_OND
+		N-- Complete 
+	N-- Last status EMail 20241203-0944, expect future job run requests 
+
+
+:MDM 
+	N-- MDM Product Master Data Product 
+	N-- WBS 035954.100 
+	N-- MVP by December (Definition of what is in MVP is currently in flux) 
+	N-- Kafka DA assigned to Pod is pronounced "Ashoot" "Paudel, Achyut [VPE]" <achyut.paudel@medtronic.com>
+	N-- https://gitlab.com/medtronic/global-data-analytis-automation/core/core-cdh
+	
+	/-- GFS Hiearchy (and additional fields) work (Story PMDD-788 & PMDD-789) 
+		N-- GFS Hiearchy Story PMDD-788 https://mdtmdm.atlassian.net/browse/PMDD-788
+		N-- See notes at [~\I. Issues\G_MATL Reverse Eng\Hiearchy Dev Plan.txt]
+
+
+	.-- MATL_HRCHY_CMN [PMDD-839]
+		N-- https://mdtmdm.atlassian.net/browse/PMDD-839
+		.-- Add Krishna's suggested view (MATL_HRCHY_CMN) to DrawIO 
+		.-- Init tech spec w/ common cols from GFS table 
+		
+	.-- MPG Code [PMDD-795]
+		.-- Add single field to MATL_CP 
+		
+
+	.-- Other Hiearchy sources on way to G_MATL 
+		N--  Added to Architecture tab of DrawIO file 
+		.-- [Hold for fini eval of sources avail in SNF] Send note to Brad & Co re: adding file based sources for hiearchy data	
+	
+	/-- UNSPSC Description File Bucket and SDH space request 
+		N-- MATL_CP add UNSPSC Description (New S3 bucket and SDH schema)
+		N-- RITM4377598 
+		X-- Meet w/ Brad on proposed file flow (sched for 1/13)
+			X-- Get desired naming for bucket and landing table 
+			X-- Get instructions on how to request bucket and landing schema in SDH 
+			X-- Verify SDH layer pipe/external table build process (just dbt?  other requests required?)
+			X-- Submitted request REQ3431552
+		X-- Get bucket API keys to upload initial file in non-prod (Msg sent 20250121-0750)
+			X-- EMail received from MR Bhavya asking Sai Erukulla to send me the keys (email 20250116-0149)
+			X-- Upload file with version in filename
+				N-- Note from Marc, We might want to bring in the version nr.: in this case 26. EMail 20250123-0843
+		X-- Review examples from Kai for External Table Definition 
+				N-- external table for GSM: https://gitlab.com/medtronic/global-data-analytics-automation/core/core-sdh/-/blob/dev/models/spend/tbl_ddl/cr_tbl_gsm_cost_element_ext.sql?ref_type=heads
+				N-- external table for MDM Enterprise Account: https://gitlab.com/medtronic/global-data-analytics-automation/core/core-sdh/-/blob/dev/models/ent_acct_ff/tbl_ddl/cr_tbl_us_ent_acct_file_stg.sql?ref_type=heads
+		/-- Recheck for auto refresh picking up second file
+			N-- See line 717 in SNF worksheet [MATL Prod - Scratch]
+			/-- Messsage out to Brad/Kai re: auto-refresh not working for UNSPSC external table (2/20)
+				.-- F/U if no response to auto-refresh question (lower priority as files for hiearchies are not GFS supporting)
+				.-- [Hold for response] Implement update(s) recommended by Brad/Kai
+		.-- [Hold for auto-refresh resolution] Create Spec/Instructions for external table 
+		.-- Add UNSPSC as a source in meta sources table (Joel and DPAS informational table)
+			.-- Get exact table name, think it is in Dev only (m/b in _CrossProject notes)
+		.-- Update MATL_CP tech spec with added column UNSPSC_DESC (varchar size TBD)
+
+	/-- MATL_CMN (and MATL_HM) Design (PMDD-462)
+		N-- See POA in [~\I. Issues\MATL_CMN\POA - MATL_CMN Initial Build for MVP.txt]
+		N-- https://mdtmdm.atlassian.net/browse/PMDD-462 is "Create MATL_CMN Table"
+		X-- Analysis on G_MATL col list vs MATL_CP vs MATL_CMN (Target) vs MATL_DATA_PROD 
+			N-- Cont w/ instructions in [~/I. Issue.../G_MATL.../G_MATL vs MATL_CP Col Comparision.xlsx]
+			N-- TODO: Run select with only a single clause for all the above to confirm diff counts or mark as identical 
+		C-- Add cols per Heidi's note, "I updated the story in Jira with the column names for financial and supply chain hierarchies."
+			X-- Send Q to Heidi asking which story updated, I don't see the info on https://mdtmdm.atlassian.net/browse/PMDD-462
+				N-- Answer from Perry, https://mdtmdm.atlassian.net/browse/PMDD-457
+				N-- Cols already accounted for, notes say cols come from MATL_CP
+		/-- Create dev plan diagram and document for review w/ team (raise visibility into vol of work to curate and harmonize)	
+			X-- Send email to Joel/Trina to review diagram before sharing with Robb & Perry  (Sent 2/3 8a)
+		.-- G_MATL move to PAM, MATL_CP, UDI and GTS portion 
+			/-- Analyze MATL_CP & G_MATL to identify gaps.  
+				N-- Trina's note: This will produce a list of fields and possibly other tables that need to be added to CDH.
+			.-- Identify UDI fields in G_MATL
+				N-- These will be the attributes we need to add to MATL_UDI
+			.-- Identify GTS fields in G_MATL
+				N-- These will be the attributes we need to add to MATL_GTS
+		.-- Expand MATL_CP STTM XLS w/ next chunk of added cols from G_MATL
+		.-- [Hold for Analysis] Add cols for price from STD_PRICE_AMT 
+		.-- Add columns to erwin (table shell done locally) 
+		.-- Invent CDC SQL 
+		.-- Run DBT automation to get yml & col check spreadsheet 
+		.-- Curation review 
+
+	.-- Data Quality Framework Checks (PMDD-208)
+		N-- See doc downloaded to ~/R. Ref.../Playbooks...
+		N-- DPAS concern is to make sure the pipeline is working (also SLAs if applicable) 
+		N-- SNF / Projects / Streamlit app DQ_TEST_CONFIG_APP (let welcome page load before navigating to left nav items)
+		N-- Get info on if email notif is required (to airflow, goes to BI support) and if so, must be in SoP 
+		X-- Research in Dev Playbook (m/b Architecture Playbook) 
+		.-- Research info on how to apply them in playbooks and DIGIC repo 
+		.-- Ask Trina for a 30 minute meeting to demo how these have been done for another project 
+		.-- Add DQ checks to:
+			.-- MATL_PIM 
+			.-- MATL_UOM_CP 
+			.-- MATL_RFI (view) 
+			.-- MATL_TRANS_UDI (view)
+			.-- STOR_HDL_TRANS_UDI (view)
+
+	/-- Security Topic (PMDD-188) 
+		N-- JIRA URL: https://mdtmdm.atlassian.net/browse/PMDD-188
+		N-- Role will be grantable to functional roles 
+		N-- Use role specified by Heidi; 
+			N-- Global MDM Master (Prod & Non-Prod)	Consumer - CSS_GLBL_GM_RPT_RO
+			N-- Global MDM Master (Prod & Non-Prod)	Practitioner - CSS_GLBL_GM_RO
+		X-- Identify a Snowflake data-product role once we know what grants this role will have 
+			N-- See DIGIC -> Standards -> Data Modeling -> Playbook (points at Security examples in Digic -> Templates) 
+			N-- To find access, use DIGIC Website, search for "access", choose "Curated Self-Service (CSS) - Access and Connection (website)"
+			N-- Link: https://medtronic.sharepoint.com/sites/DAP/SitePages/CSS%20-%20Access%20&%20Connection.aspx?csf=1&web=1&e=fNrpqv&CID=3fdc8fbe-3b4b-47ba-832c-3dc39ac6a1e1
+		X-- MDM, Security topic, research role marc has, PROD_MDM_OPS_ANALYST (m/b just raw data) 	
+			N-- Based on CSS Access PowerBI report isn't listed as granting MATL_CP 
+		/-- Security worksheet w/ complete list of grants for CSS_GLBL_GM_RPT_RO & CSS_GLBL_GM_RO
+			X-- Add tables we are modifying 
+			X-- Q out to Trina on repeating tables per environment per role (e.g. one table w/ 4 enviros and 2 roles = 8 rows) 
+				N-- IM sent 1/6 
+				X-- Sample from Trina saved in Sec folder under Issues 
+			X-- Complete worksheet expanding out table list repeat for each role and environment 
+			.-- Ask Meg/Trina about translating Practitioner and Consumer roles to Functional and Access Roles.  
+				N-- E.G. table grants directly in Practitioner and Consumer OK?  Ed, s/b.
+		
+	/-- DBT local setup 
+		N-- SSH Keys saved in C:\Users\sorenp3\OneDrive - Medtronic PLC\Live\pmsoren\_PT\SSHKeys_MDT
+		.-- At step 22 in local setup instructions 
+		
+	.-- [Reference] High Level Architecture support 
+		N-- Assets to share:
+			.-- DIGIC Data Platforms High-level Architecture.pdf, the "What", Current and future state of sources -> DIH -> SNF 
+			.-- DIGIC Design flow and tasks.pdf, the "How part 1", Describes how work gets done
+			.-- Snowflake-Data-Integration-Transformation-Standard-Tools.pdf, the "How part 2", Describes core technologies
+			.-- DIGIC Architecture with SDH CDH FDH breakout.png, the "What" more detailed view 
+			N-- Common Data Framework Definition
+					The CDF is an enterprise-wide approach that categorizes all data into logical groups (Data Domains and Sub-domains) 
+					based on key business concepts such as Patient, Product, Sales, etc. It is used across teams, projects, and systems 
+					to provide a common view of all Medtronic data.
+
+
+:CSOD 
+	- CSOD, Various Cornerstone Projects 
+		N-- CSOD WBS for review of release changes IT10500.736	CSOD Internal Release Management FY21
+		N-- WBS for Yogita monitoring WBS, IT10500.735 - CSOD Internal Support FY21
+		N-- WBS for CSOD Internal Support (billable CSOD not release management) IT10500.735	CSOD Internal Support FY21
+		N-- WBS for Release management (deprecated objects proj) IT10500.736	CSOD Internal Release Management FY21
+
+		/-- sFTP update to detect broken pipe 
+			X-- Put current prod scripts in rollback folder 
+			X-- Add clean up step 5 to prod scripts 
+			X-- Add broken pipe detection to prod scripts 
+			X-- Change error message to not say 'possible' 
+			/-- Deploy prep 
+				X-- Create/copy driver script
+				X-- Add shell scripts to Git 
+				/-- Create MTP 
+				/-- Init RFC (CHG0346435)
+				X-- Init draft test summary
+				X-- Send draft test summary to RB and R3 (sent 3/18)
+					X-- Update RFC testing section w/ response 
+				/-- Submit Jenkins dry run request (RITM4505677)
+					X-- Update MTP with RITM number
+					X-- Update RFC description with RITM number 
+:Y0					.-- Validate when dry run done 
+
+		/-- Great Lakes Testing of Report Move off Hana onto SNF 
+			N-- WBS 027176.601
+			N-- (1/30) Meeting w/ EP and leaders, circle back in 2w 
+			X-- Find out what the issue is with the Matrix report, cal invite from Tim for 2/5
+				N-- "Paul - review current issue that Ryan, Ryan, John S. are stating."
+				N-- Asked Ryans, no clear point point identified (not like DDCR and CDR reports)
+			X-- Create estimate for converting SPROCS (SDH and CDH) to DBT, Tasks to Airflow 
+				N-- Use Dependent Data Flows as a guide (account for everything and add thud factor) 
+				N-- Saved in [~\P. Project Plan and Task Lists\HLE - CSOD Port SNF SPROCs to DBT.xlsx]
+			X-- Meeting on 'lift and shift' and 'rewrite' estimates on 2/10 @2pm
+			X-- Meeting 2/18, Catch up Joel on lift and shift approach 
+			.-- Meeting 2/19, Joel + Eric on lift and shift approach 
+
+		.-- [Ed, optional] Remove pre-decryption delay from Dev Shell Scripts: 
+			/devl/sds/bin/998_csod_data_exporter_transcript_nonprod.sh
+			/devl/sds/bin/998_csod_dataexporter_transcriptcurricula_nonprod.sh 
+			/devl/sds/bin/998_csod_dex_2021_nonprod.sh 
+								
+		/-- Documentation updates 
+			X-- Update ETL Tech Spec for T_TRANSCRIPT_ACTIVE
+			X-- Create T_APP_GRP_USR_TRAIN_ASIGN tech spec 
+				N-- Missed, wasn't built with pDNA project 
+				X-- Continue fleshing out source column information on mapping tab 
+			/-- Update CSOD T_ table tech specs (Required by SI KT process)
+				N-- See ~\0. Scratch...\Tech Spec Update Process.txt
+				X-- Gather SQL (see note above) 
+				.-- Tech specs to be updated with current ETL logic (13x going to the CDH layer) 
+					N-- See T_TRANSCRIPT_ACTIVE for example, use SQL statement from SPROCs 
+					N-- For Delta SQL, use: n/a (Cornerstone T_ Tables always do full loads)
+				.-- Update Tech Spec Format (add columns needed for DIGIC PowerBI reporting ingest and new Source Qual SQL)	
+			.-- Update SOP (~/K. Know.../...)
+				X-- Update section 3.x, embedded XLSs with Pipes, Tables, PROCs, etc.
+				.-- Add Appendix for [~\pDNA Windchill\0. Scratch Notes\Full Load incident request pDNA related 20240710.txt]
+				.-- Cont. at Sec 3.6
+				.-- Any update for additional pipe detection?  Could be a sub-heading 
+			.-- Update [CSOD Dependent Data Flows.xlsx] with S_ tables not mapped through to T_ tables 
+				N-- See [~\I. Issues\Nov 2024 Release Deprecated Objects\POA - Build out Depen Data Flows XLS 202040717.txt]
+				N-- See EMail 20240710-1026 and folder [~/I. Issues/Nov 2024 Release Deprecated Objects]
+				N-- See [~\I. Issues\Nov 2024 Release Deprecated Objects\POA - Build out Depen Data Flows XLS 202040717.txt]
+					.-- Next: Get pipes list from stage and complete Col C
+				.-- Update both local copy and shared drive version 
+				.-- S_TRAINING_PROVIDER_CORE is used to load T_TRAIN but is in yellow on dependent data flows XLS 0717
+				.-- Dependent Data Flows worksheet doesn't have T_ORG_UNIT_CUSTOM_FIELDS, are there others missing? 
+					N-- Also missing S_CULTURE_CORE, S_CURRICULUM_USER_INFO, S_LANGUAGE_CORE, S_TRAINING_ASSIGNMENT_CRITERIA_DEFINITION_FILE
+					N-- Many others that maybe are not mapped through to T_ layer				
+				.-- Expand Cloud to Groupd KDD WIP, brief description paragraph (~0.5h)
+					N-- WIP saved in [~/R. Ref.../KDD - Cornerstone Cloud to Ground Decryption to Cloud.docx]
+			.-- ERWin expansion (STW, good skill build?) 
+
+		.-- Security Update & Define process for support to be able to do full table loads 
+			N-- Current process requires RW perms to run SPROCs, they've had RW perms taken away 
+			N-- Potential post-mid August work 
+			N-- Hallway chat with Brad, m/b identify some named resources in support who get RW to TRAINING and CSOD schemas 
+			.-- May req security update work w/ RB & Co? 
+			.-- CSOD, Security review (Snowflake roles) persue in Sept/Oct (time permitting)
+
+		.-- GTAT load process revision (Goal to eliminate partial data in early AM)
+			N-- m/b inbound work 
+			N-- Goal to eliminate partial data in early AM due to trickle in of loaded data 
+			N-- Options; fixed time load (e.g. 2PM) or use S_ table checks for ALL with current day's timestamp (prob. w/ pre-midnight loads and UTC conver)
+			.-- [Hold for request from RB] Sched meeting to discuss goal and options
+				N-- Touchbase w/ RB after trip up north 
+			
+		N-- =======
+		N-- ======= Misc / Uncategorized / Future tasks ============
+		N-- =======
+		.-- Future CSOD Snowflake/Informatica Update Tasks (TBD, include some in August?) 
+			.-- Curation ETL SPROCs convert to INSERT OVERWRITE (Proven to work in SPROC ENTITY_T_APP_GRP_USR_TRAIN_ASGN) 		
+			.-- Audit_Decoupled() Change to EXECUTE AS OWNER vs EXECUTE AS CALLER 
+				X-- Hand code change in TEST and resume S_CSOD_AUDIT_DAILY_TASK 
+				.-- Validate procedure doesn't error out after a day 
+				.-- Change in Source Control and add to deployment 
+				.-- Migrate to test via GIT 				
+			.-- Update T_USER ETL view for Manager EMP_ID being reported as incorrect (INC11128414)
+				.-- Modify SQL for loads to T_USER to get manager's emp ID instead of CSOD ID 
+				.-- Verify other fields (e.g. indirect manager) are correct
+			.-- Edit for ETL_T_TRANSCRIPT_ACTIVE biz logic, adding filter on IS_LATEST_VERSION_ON_TRANSCRIPT
+				N-- Row count diff detected in stage vs prod (+/- 1 rec)
+				N-- See notes in [~\I. Issues\Stage vs Prod Data Diff 20230816\Diag Transcript Active Prod vs Stage Diff 20240701.txt]
+				.-- Add clause to ESR subquery; and upper(csstc.IS_LATEST_VERSION_ON_TRANSCRIPT) = 'TRUE'
+					.-- Check with RB whether this should be curriculum (csstc) or training, curriculum is what is in output
+			.-- SNF Security Roles Clean up
+				N-- Export provided by Brad, EMail 20240402-0716 
+				N-- Work w/ RB and Brad to define appropriate consumer roles 
+		.-- Should ENTITY_T_CURRICULUM_STRUCT check for changed data in S_TRAINING_CORE (only checks S_CURRICULUM_STRUCTURE_CORE)
+		X-- EMail for Dex doesn't have folder number, requires edit to shell script
+		.-- Audit_Decoupled() still dependent on streams, see error:
+			N-- The stream 'S_TRAINING_AVAILABILITY_BY_USER_CORE_STREAM' has become stale. 
+			N--   Please recreate the stream using CREATE OR REPLACE STREAM. At Statement.execute, line 212 position 27
+			.-- Determine if dependency on streams can be removed from Audit_Decoupled() 
+				N-- May have become visible b/c task S_AUDIT_STREAMS_RECREATE_DAILY_TASK was suspended
+				N-- See notes in ~\I. Issues\Stage Not Sending SFNotify\SFNotify Not going out in Test and Stage 20240522.txt
+		.-- Update dev shell scripts to send notifications to distro list 
+		.-- Diag row count diff in tables that use row number or rank with "partition by..." clauses 
+			N-- P_GTAT_GROUP_BASE_DETAILS - count diff detected, traced to ETL_T_ASSIGN
+			N-- ETL_T_ASSIGN - caused diff between stage and prod in P_GTAT_GROUP_BASE_DETAILS  (used by GTAT)
+			N-- ETL_T_TRANSCRIPT_ACTIVE - count diff detected, parition being replaced by IS_LATEST_VERSION_ON_TRANSCRIPT
+			N-- ETL_T_GROUP_HIST - maybe OK, not determined if there's an issue (used by GTAT) 
+			N-- ETL_T_ORG_UNIT - maybe OK, not determined if there's an issue (not used by GTAT) 
+			N-- ETL_T_TRANSCRIPT_SRC_CURRICULUM_CORE - maybe OK, not determined if there's an issue (not used by GTAT) 
+			N-- ETL_T_USER - maybe OK, not determined if there's an issue (used by GTAT) 
+			N-- see notes in ~/I. Issues/P_GTAT_GROUP_BASE_DETAILS Diff Stage vs Prod
+		.-- Diag CHK_CDH_LOAD_STAT() SPROC, is it missing some reject files?
+			N-- What are it's dependencies to send out email 
+			/-- Continue at SNF Worksheet [Diag CHK_CDH_LOAD_STAT Dependencies] 
+				N-- Current status: CDC Tasks off, CHK_CDH_LOAD_STAT_TASK enabled 
+			.-- Determine if date cutoff may be causing issue (run test in stage w/ 2d instead of current date)
+				N-- See [~\I. Issues\20230427 CHK_CDH_LOAD_STAT missing REJ Files\Issue - CHK_CDH_LOAD_STAT missing REJ Files.txt]
+			.-- Continue updating Cornerstone Detailed DFD [CheckLoadStat Data Flow] tab	
+		.-- Check T_CDH_ERROR_DETAILS (sort by INSRT_TMSTP desc), see if errors are coming from SCHED vs CDC jobs 
+			N-- See SNF worksheet [Diag T_ORG_UNIT_CUSTOM_FIELDS loading error]
+		.-- Analysis on Delta Daily Tasks using Full files 
+			.-- S_TRAINING_ASSIGNMENT_DUE_DATE_TYPE_DELTA_DAILY_TASK is used but source file is training_assignment_due_date_type_full.csv
+				.-- Does this expose lost deletes? task calls UPDATE_PROC('S_TRAINING_ASSIGNMENT_DUE_DATE_TYPE_STG','S_TRAINING_ASSIGNMENT_DUE_DATE_TYPE')
+			.-- S_TRAINING_ASSIGNMENT_SET_DELTA_DAILY_TASK is used but source file is training_assignment_set_full.csv
+				.-- Does this expose lost deletes? task calls UPDATE_PROC('S_TRAINING_ASSIGNMENT_SET_STG','S_TRAINING_ASSIGNMENT_SET')
+			.-- S_TRAINING_ASSIGNMENT_USER_CRITERIA_DELTA_DAILY_TASK is used but source file is training_assignment_user_criteria_full.csv
+				.-- Does this expose lost deletes? task calls WITHOUT_PKEY_PROC('S_TRAINING_ASSIGNMENT_USER_CRITERIA_STG','S_TRAINING_ASSIGNMENT_USER_CRITERIA')
+			.-- S_USER_OU_HISTORY_DELTA_DAILY_TASK is used but source file is user_ou_history_full.csv
+				.-- Does this expose lost deletes? task calls UPDATE_PROC('S_USER_OU_HISTORY_STG','S_USER_OU_HISTORY')
+		.-- Is AWS Transfer Family an option for replacement of transfer to NAS? 
+		.-- USER_EMPLOYMENT_STATUS Upload Error in non-prod 
+			N-- See notes in ~/I. Issues/USER_EMPLOYMENT_STATUS Upload Error
+			N-- Rare delta failed to upload with following message in Tivoli Log 
+				N-- Source Rows: 3, Target Rows: 3 Failed Rows: 0 Error/Warning Message: [ERROR] Unable to upload to S3:null
+			
+:DIGIC 
+	- DIGIC Landscape Working Session 
+		N-- Notes in ~\_Cross Projects\1. Architecture and Platform\DIGIC Landscape\DIGIC Landscape Working Session 20231114.txt
+		N-- Topics I'm signed up for (3 of 25): 
+			N-- Architecture/Development playbook(s) 
+				N-- Task Category = Architecture
+				N-- Next Steps: Small working group to create either one architecture playbook and one development playbook, or a combination playbook.
+			N-- Snowflake compute costs / cloud cost structure (Difficult to predict costs, warehouse sizing and efficiency education needed)
+				N-- Task Category = Cost
+				N-- Next Steps: Cost management strategy, Benchmarking, Cost monitoring and optimization tools, estimation, Development and testing options for cost optimization
+			N-- Well-established cost structure (compute chargeback model) supported by the highest levels of leadership.
+				N-- Task Category = Cost 
+				N-- Next Steps: Establish a roadmap/timeline to get to a final chargeback model, Create the necessary documentation 
+		X-- Working session (4h) on 11/14
+		.-- Participate in Architecture Initiatives group (Lead is Trina) 
+		.-- Participate in Cost Initiatives group (Lead is Asha) 
+
+:GenAI
+	- Admin, Bill's Team GenAI Initiatives  
+		N-- See [~\GenAIHyperAuto\POA - GenAIHyperAuto.txt]
+		N-- EMails moved to Outlook folder [Projects/AI Initiatives (Bill's Team)] 
+		X-- Make doc for AI training POA from Bill's email (email 20240708-0807)
+		X-- File GenAI training docs (from ~/Downloads -> GenAIHyperAuto folder) 
+		.-- Review additional content from Bill (email 20240715-1037)
+		.-- Review PPT list of projects from Bill (email 20240729-1050)
+		.-- Add GenAI related tech (plus atlan) to Goals worksheet as future milestone entries and WSR as ToDo tech 
+		
+
+============= BOTTOM OF LIVE LIST ==============
+
+
+	
+
+> First day setup notes 
+	Employee number (Badge Number) 420965  Start Date: 12/10/2018
+	End Date (from Field Glass on 8/16/2019) 10/30/2020
+	Security questions setup and saved to ~/Clients/MDT/R. Reference...
+	Vend-Conn through 1/31
+		UID: paul.sorenson@daugherty.com2 (note 2 suffix), eOOVWa 
+		To Reconfigure, https://getguestinet login w/ MDT creds, create account
+
+	
+> Service Now Ticket List 
+	X	INC3811375 - Access to HR Schema in BI-HANA (with James Powers approval attached)
+	/	INC3854099 - Internal tableau server request in format specified by Jeff (Shari added me while entering it)
+	/	INC3834290 - Request for access to Version One 
+	/	REQ0549880 - Tableau Server Access (complete email 20181221)
+	X	REQ0549875 - IT Loaner Laptop Request 
+	X	REQ0547831 - BI Oracle/Unix Developer
+	/	REQ0543558 - (New Hire PC Deployment) & (Facilities Request for New Hire) 
+	/	REQ0552200 - Kiteworks 
+	/	REQ0552753 - Informatica EDW Developer 
+	X	REQ0557012 - Request to Reimage laptop 
+	X	REQ0546644 - HANA Data Architect, RITM0672317 - HANA Data Architect
+	X	REQ0548888 - Service Now Groups (modeled after Meg's access) 
+	X 	REQ0544791 - Security Badge 
+	X	RITM0668457 - Non-Secure Folder Access for New Hires (unknown origin)
+	/	REQ1724126 - Laptop (replace Mradul's laptop, submitted 20211013) 
+		
+> Software recommended by Meg (was MVLoaner34, now this is Rama's laptop)
+	#	Toad (high license cost, m/b not needed for HR Permissions project)  
+	X	Visio 
+	X	Java 
+	X	py
+	X	Notepad++	
+	X	SAP HANA 
+	X	Power Designer (request email to Corey Weisser) 
+	X	WinSCP 
+	X 	Putty 
+	/	Informatica (request email to Suraj, PowerCenter is in software center)
+		Win SAP 
+		VS Code (after RLS success or DBS only?)   
+		Oracle SQL Developer
+

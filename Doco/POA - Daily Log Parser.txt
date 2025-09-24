@@ -21,6 +21,7 @@ Create code to do daily log parsing, outputting Time by category, for example:
 	
 :D0
 Next: 
+	- Trim whitespace from categories (project names)
 	- Capture categories (block headers) in a collection or array (list) 
 	- Detect special categories (Done, Lunch, Out, Back) 	
 	- Detect special tasks (starts with '- Resuming')

@@ -1,0 +1,991 @@
+﻿S1 Scratch W 2025
+
+Today's Scratch
+----------------
+"I've been in real trouble, this ain't it." - Billy Gardell 
+- Visualize: Trees with full green leaves, squirrels. 
+
+- WSR Notes 
+	Career Care/Self-Study 
+		o Python Automate/GT, work chapters (& self-assigned mini projects)
+		o Read LLM book 
+		o Workera Assessments and Coursera Tech Training
+
+	MDT
+		o MDM, Recurring stand-up meetings {c: M-R}
+		o MDG, Recurring stand-up meetings {c: M, W, R} (This week T, W, R)
+		o Admin, PPeSource meeting w/ Nancy {c: M}
+		o PTO, SF Trip + prep day {c: T-F}  
+
+
+- PWP notes  
+	Audio / Reading
+		o Brown, Secret (678p, to 32%, +20%)
+		o S King, On Writing (305p, to ??%, +??%)
+
+	Home Improvement
+		o Vac Basement 
+		o Mow weekly
+		o Clean gutters
+
+	Exercise / Health 
+		o Planet Fitness (Sep 1x, +0)
+		o 2025 Goal 12 visits (7 done)
+
+	Finances
+		o Q! Updates
+
+	SPSW / Career Development
+		o The File Engine (tfe) run weekly (Wed 1337)
+		o Python, project progress through GT
+		o Read/Work LLM book
+		o Workera Assessments and Coursera
+
+	Miscellaneous / Ent
+		o Chess improvement (Rapid 536/138x, +0/+0)
+		o 2025 Chess Goal 1, Rapid Game Count to 155
+		o Ch Puzz (1658r/6015p, +02r/+285p)
+		o Steps, Apple Health (88564 09/29 to 10/05)
+		o SF Trip {c: W-U} 
+
+
+
+Holidays and Vaction
+----------------------
+> MDT Holidays:
+	
+== 2025 == 
+	Wednesday, Jan. 1, New Year’s Day
+	Monday, Jan. 20, Martin Luther King, Jr. Day
+	Monday, May 26, Memorial Day
+	Friday, July 4, Independence Day
+	Monday, Sept. 1, Labor Day
+	Thursday, Nov. 27, Thanksgiving Day
+	Friday, Nov. 28, Day after Thanksgiving
+	Wednesday, Dec. 24, Christmas Eve
+	Thursday, Dec. 25, Christmas Day
+	Wednesday, Dec. 31, New Year’s Eve
+	A year-end break is scheduled for Wednesday, Dec. 24, 2025, through Thursday, Jan. 1, 2026.
+	You will need to use Paid Time Off (PTO) to be paid for three days: Friday, Dec. 26; Monday, Dec. 29; and Tuesday, Dec. 30.
+
+ 
+Uncategorized Tasks
+---------------------
+
+> ==== 2016 ====
+
+- Decode Archer code 74 69 6E 79 2E 63 63 / 70 69 67 6C 79  (from http://goo.gl/oaTdvV) 0323
+- STW Phone Number to Hex 0326
+
+- LU QFO Labs (John Condon works there) 0403
+- Redo 17/7 and 93/15 0421
+
+- Wozmek Stego problem (in \temp) 0531
+
+- POA for T9 app using skylark dictionary 0803
+
+- Create list of verbs from status reports (or app to do it) 0925
+
+- Review data discovery for dummies, TDC eBook (in datawarehousing folder) 1111
+
+- LU wiki Data Lake 1203
+- LU wiki bit mask 1204
+
+
+> ==== 2017 ====
+
+- LU The Index Card, Pollack, Finance fits on a note card 0105
+- LU 7 of 9, 9 what? 0119
+- LU twitter beckathwia http://sternlab.org  0128
+
+- STW, Create list of states and capitals 0210
+
+- LU PewDiePie 0328
+
+- LU The Island of Dr Morneau 0606
+- LU Powertap.com 0606
+- LU Almost Famous movie trailer 0606
+- LU CHS field (not field) 0610
+- LU Supra key locker (10pin w/ open & close buttons, does order matter) 0622
+
+- Create Py proj POA for menu system 0823 (/etc/passwd format group:parent)
+- Add Knox Hamilton, Work it Out to current music list 0829
+- How to pronounce Gethesmane 0829
+- LU Genisys works (sp?) 0831
+
+- LU IFTTT implementation examples 0919
+- LU game, the stanley parable (on steam, Ira noted) 0920
+- LU Pixel farm minneapolis 0926
+- Tinyurl.com/night-at-fair 0926
+- LU Fibi like number sequences 09930
+
+- LU Smart Table 1007
+- LU Mr Robot soundtracks 1013
+- LU Ps 88 (noir) 1018
+- How does a propane fridge work 1025
+- Roomba Square code project 1031
+
+- LU Arecibo status (XFiles) 1107
+- Read http://arstechnica.com/gaming/ 1116
+
+- LU Code.Org founder TEDx 1207
+- LU Donald Knuth (comp sci legend) 1212
+- LU book A Wrinkle in Time 1215
+- Try powershell Help About* 1220
+
+> ==== 2018 ====
+
+- Codebreaker podcast 0118
+- LU two factor solutions; YubiKey & Sesame 2FA 0213
+- LU lelddos, ProTraf, enc skype msgs, Anna-Senpai, Mirai, surge in GoLang, dreadiscool (username) 0217
+- Read Krebs article: https://goo.gl/XQ7zyy 0217
+- AngularJS, focus started 2/23 (15 sections, zero based) at https://docs.angularjs.org/tutorial/step_10 0329
+
+- Cont Alhambra tiles data plan	(Next: POA for classes and Create py code to read data file) 0706
+- LU MinneAnalytics.org 0712
+- LU Baba O'Reily vs Teen Age Wasteland 0721
+- LU 5120 France condo 0724
+- Test interesting randomizer from alex fact test var factIndex = Math.floor(Math.random() * factArr.length);
+- LU Covalent (TDC web framework) 0728
+
+- Verify create client folder batch file is current (compare to Valspar and 3M) 0801
+- LU Alice Gorman of Flinders University in Australia and ISS Archeology 0801
+
+- Eloq JS, Ch 7 of 22 (10576 locs, at 22%) 0908
+- Event log scan; filter out logins and determine work start time 0912
+
+- LU Convolutional Neural Network, LSTM (Long Short Term Memory) 1004
+- LU Auto-Encoders (like PCA), Kubernetes (from AI presentation) 1004
+- LU Survival Analysis, COX Analysis, Decision Tree, Random Forests (from Predictive Maintenance Accelerators) 1012
+
+- Test powershell Invoke-SqlCmd (see https://goo.gl/QRiXQd )
+- LU Wild light, Watsky, the killers (music) 0521
+
+- Review and test UTF-8 detection Powershell script 0608
+- Helsinki free course on Elements of AI (elementsofai.com) 0622
+- LU Weather channel app "Mesh network activated" message 0625
+- SPSW Web text update 0418 0627
+- Are numbers expressed in base 7 and divisible by 7 always ending in 0? 0629
+- LU Billy Connolly's Route 66 (British series, YouTube has episodes) 0629
+- Frequency Analysis on Crypto Village Puzzle 0629
+
+- Brain candy https://channel9.msdn.com/Events/Build/2017/B8088/ 0815
+
+- More Awareness of architecture frameworks, such as TOGAF (The Open Group Architecture Framework) or Zachman, 0907
+- LU Apple keyboard smart punctuation 0912
+- More awareness of other service and control frameworks, such as ITIL or COBIT 0925
+- Create note for Morse project as WSC (last activity, downloaded tree) 0925
+
+- LU FlowingData website (data samples) 1017
+- Auto service data analysis (in hotmail) 1024
+
+> ==== 2019 ====
+
+- More clean up of this doc (e.g. list sections, then move sections to own txt where appropriate) 0125
+- Compress ModList folder files 0222
+- Launch VS Code for update check 0223
+- DSC Proj, Create CDC example (I/U/D) in Oracle 0225
+- Capture MDT Building walk distances (buljo has dist in feet) 0225
+- LU SmartCare (age at home w/ BBY) 0225
+- Check into DBS ATT discount (see below) 1212 0125 0228
+- BotE Journal Entry 0228
+- Test SQL WHERE clause with (group, of, columns) in (select group, of, columns from foo) 0228
+
+- Read refcard on Git 0304
+- LU TNS related commands (e.g. tnsping dih) 0305
+- LU ISAM and BTREE files (files underlying databases) 0325
+- Xfr photo notes to appropriate places 0308
+- Clean up DBS email training folder 0325
+- Browse DBS Connect (Recurring task) 0329
+
+- INFRA study (recurring, just do it, even 5m helps) 0405
+- Daily Readings 0408
+- Add Art of War to audible list 0408
+- Check Dow price history 3/26 (rollover init to 4/09) 0411  
+- Move Git commands file from Downloads to Git project folder (or upload direct to GitHub) 0416
+- Eval deeper the Right Outer issue (start from RERS\I. Iss...\Diag Research Blocked Order SUoM 20190418.txt) 0418
+- Store link https://blogs.msmvps.com/jonskeet/2010/08/29/writing-the-perfect-question/ 0418
+
+- What is diff b/n Oracle Global and Local roles (Digital Core related) 0523
+- LU Oracle DB Link (Digital Core related, can't link from AD integrated to non-integrated, m/b resolved w/ PDB) 0523
+
+- Study API ebook and docs (PWP Task, in ~\_KO\ModernArch) 0610
+
+- Add Corey, Brent, Trina, Joel to Linked In 0716
+- Add Career Dev accomplish & DBS Participation to BulJo month summary collection (Pirate Squirrel related) 0722
+- DittoCam clean up 0722
+- Read Gartner report saved in ~/Gartner/...BI Platforms.pdf 0724
+
+- LU Unbelievable super cool you're amazing song, m/b lego movie 0801
+- LU DeZign for Databases 0802
+- Read article Randee Bishop sent (EMail 20190729-1603) 0805
+- Check random pastebin.com pastes and/or update evening plan, recurring 0808
+- LU PowerDesigner extensions script 0808
+- Read ~/ModernArch/Gartner - Steps to Improve Low BI Maturity 20190813.pdf 0813
+- LU Saga Data Pattern (mentioned in MicroServices RefCard, one DB per microservice context) 0813
+- LU Netflix's Hystrix, library implements Circuit Breaker design pattern 0813
+- LU Oracle command to view table partitions (for when they can't be retrieved from table list) 0813
+
+- Pirate Squirrel Meaningful Task: Skills to get added to Linked In (see Hotmail for list) 1016
+- Brain Ex, code to parse 1,3,4=7 permissions/option flag to base values (see utl_dml_body_ste.sql, private_merge proc) 1023
+- Oracle awareness, Examine all_tab_columns (see utl_dml_body_ste.sql, private_merge proc) 1023
+- 30m on write proj desc for IA and FX Rev in SPSW project list (m/b ref PPTx, did brief list 10/24) 1024
+- LU DBS Insurance online health app https://livehealthonline.com 1025
+
+- LU Delta Lake 1206
+- Cont. Outlining ~/ModernArch/AWS/AWS_Cloud_Best_Practices.pdf 1227
+
+> ==== 2020 ====
+
+- LU one of Deb Amlen’s Wordplay columns (just one) 0107
+- Read XWord_Hist.txt in ~/Downloads 0109
+- LU Google Jobs (Alex referred to it, Dan? found it useful) 0116
+- LU Map of 'orange store front behind hotel' seen from linkway 0121
+- Browse junk files in C:\Users\sorenp3\AppData\Local\Temp 0122
+
+- Read Kafka resource forward from James 20191125-1035, list saved below 1125 0204
+- LU Robert Heinlein’s masterpiece Stranger in a Strange Land, origin of 'grok' 0204
+- LU Bus route 760A saw on 35W near MDT 0206
+- Review Tim's WoofDA presentation 0211
+- LU what is a congressional resolution 0213
+- Update EV Skills/passions/talents 0213
+- Pull Covey note from top of EV skills/passions/talents to this doc 0213
+- Test Notepad++ function list button (looks like flash icon) 0214
+- LU road south of Hwy 13 under 35E 0219
+- LU Juno AK, progressive? per comedian 0227
+
+- LU "Big Data design patterns" mentioned in black baud big data arch post 1008
+- LU Billion Dollar Loser, the journalist Reeves Wiedeman chronicles the rise and fall of WeWork and its co-founder Adam Neumann. 1023
+
+
+> ==== 2021 ====
+
+- Snowflake orientation tasks (DBS Goal for 2021 Q1, See list below) 0415
+- LU AWS "Transfer Family" & "Data Sync", ETL like tool 1018
+
+
+> ==== 2024 ====
+
+- Python, Some time on panda dataframes. If you get good at filtering panda dataframes and a graph pack you can crush streamlit 0516
+
+MDT Mission 
+	We exist to Alleviate Pain, Restore Health, and Extend Life.
+	
+MDT Mindset
+	Act Boldy / Compete to Win / Move with Speed and Decisiveness / Foster Belonging / Deliver results...the right way 
+	
+
+:D0
+***
+*** Developer.  Elevator Pitch: Enabler, enabling access to information and equipping people to make data based decisions (ha, like database!)
+Data Architect - I design/build database structures for analytics (includes BI) and/or AI solutions. (from D&A Sympos. registration)
+Data Modeler and Architect for Business Intelligence Solutions and Data Analytics 
+Senior Data Warehouse Analyst/Developer, Data Solutions Analytic Engineer, Data Engineer
+Data Engineer Lead Sr (BCBS 8/2020), Senior Business Intelligence Engineer (Entrust shokopee - 12/2020, Dropbox - 04/2021)  
+As a technologist I support the management, optimization, and troubleshooting of Biz Intelligence, data warehousing, and analytic systems 
+Ed: Personal POA - how to bridge traditional BI to modern architecture  
+	 	 	 	 	 	 	 	 	 	 	   ************************************************************
+> *** Today - Week is a Marathon not a sprint. ************************************************************
+Today (started with 13, +1) 
+	- LLM book (at least read it, incl. weekend progress) 0402
+	- Read about Data Mesh https://www.getdbt.com/blog/the-components-of-a-data-mesh-architecture 0430
+	- Vita, Check for a complex problem and how it was solved from this week's work 0505
+	- Do more updates to Linked In Interests (add Git with CI/CD, DBT?, Informatica, and ShellScripting? (was quoted on a posting) Bump 0925 0604
+	- Python Autoboring, Work chapters (Git pull) 0614
+	- Current song of the day (s/b weekly) 0728
+	- Window-Swap.com (mazer @ yahoo) 0728
+	- BulJo, Backfill June+ Month Logs (~12min each, s/b 1 per week 'til caught up) 0924
+	- Run MDT TFE weekly by 1:37pm 0924
+
+	> One a day
+	6 min browse Data Products; https://martinfowler.com/articles/designing-data-products.html (is it relevant enough to become a task) 
+	6 min on Lancet meeting w/out an elevator pitch, others didn't either. Start yours (what do you do right now) add to task list above if relevant
+	6 min, T-W-R fill task, Create text from image [~/Downloads/GenAI - Crafting a prompt for precise responses.png] 
+	6 min python research, from datetime import timedelta  (from DAG code) if relevant add to AutoBor POA 
+	6 min review Airflow Doco (https://www.astronomer.io/docs/learn/intro-to-airflow) and to task list above if relevant 
+	6 min review Excel vs SQL vs Python Pandas (in DL folder), add to AutoBor POA if it's relevant (skip, rotated down)
+	Fini [~\_UZ\Vita\Data and Analytics Role Definitions 20250513.txt] from png in same folder 
+	Jupyter notebook-style experience, seems to be everywhere, watch how to use (https://youtu.be/A5YyoCKxEOU) 
+	Jupyter Try online w/ no local install: https://docs.jupyter.org/en/latest/start/index.html 
+	STW, Read VS Code Release Notes: 1.102.0  0715
+	Capture Pond People addresses/phones (in an email for conversion to an iNote, later as contacts?)
+	Search LinkedIn for Data Modeler (also erwin, again, for stat check) 
+	LU DepositAccounts.com, part of LendingTree, tracks [savings account and CD] rates
+
+	> Moments
+	LU Podcast Ever Ancient Ever New 
+	LU material type ZLEI	Returnable packaging MDT  (looks interesting) 
+	Check for access to dev.corp.plant_cp & dev.mfg.prod_ord_dtl_cp 
+	LU Amazon Bedrock (LLM hosting?) 
+	LU "Customer Analytics Service Provider" Tredence (EA Tech talk presentation on Databricks) 
+	File this, Informatica techniques (use joiner for better performance than lookups).
+	LU Cubiscan 
+	LU @[alias name] in Excel formula e.g. vlookup(@[foo], range, false)
+	LU how many plants in MDT 
+	LU ImpactIndustrySolutions (used by Arun, IBM, for MDG demo) 
+	LU Book, the courage to be disliked, and subtle art of not giving a F... (opposite of Carnegie?) 
+	LU SQL DBM (optimized for snowflake and databricks, cloud data modeling software) 
+	Create "Pillar Car Parking" sketch
+	
+	> LU Misc from Dinesh Town Hall 
+	Christine Barry has 'BTO', what is that 
+	Joel posted viva engage article, find it 
+	Sidarth Garg lives in Austin, former apple, LU
+	OHS Scorecard info in ~/Downloads, ref for doing survey 
+	Prabhu Periasamy talked to many of the slides, LU 
+
+!! Set out of office message for vaca 
+LU prep schools? pace westminster lovett 
+creighton duram hall, st thomas academy, 
+put acronyms MDT in xfr folder 
+LU Or cyber-thriller, or 9/11 noir. Maxine Tarnow, the Manhattan mom at the center of BLEEDING EDGE (2013), works as a fraud investigator and might be Pynchon’s most franchisable detective 
+liminal space - exists between "what was" and "what's next," evoking a feeling of ambiguity, nostalgia, and often unease.
+TODO: Send S1 POA MDT 202509.txt 
+
+
+5y journal today (if sub needed, use this week's best ah-hah)
+Q: 
+(Sun) What do you want more of in your life? 
+	A: Peace and acceptance of where I'm at with projects (work and home).
+(Mon) What do you want less of in your life? 
+	A: Anxiety, stress, dwelling on uncertainty.
+(Post these, draft saved)
+
+Best 5y question and answer so far: 
+Question Swap: What is something you can do this month to improve your prospects for the future? 
+A: Question swap, it was "How many of your friends would you trust w/ your life?" 
+Actively bringing a positive attitude, perspective, message to all interactions.  Pausing to seek to understand before being understood (at work and home). 
+Practice staying on target with current task. Continue to push right up to the edge of tired instead of dreading/procrastinating small household tasks. Be aware of zero sum and feeling the victim. Contribute to the side tasks (e.g. interviews) at work to demonstrate positive contributor persona.
+(Posted 5/15)
+
+2nd best: 
+Q: Greatest strength and weakness? 
+Strengths: I'm a planner; at my best when I plan my work and work my plan. I like to analyze things and good at seeing from other's perspectives. 
+Weaknesses: Travel impact on my work. Fact based is my default approach, doesn't work for everything. Not good at trumpeting my own success. When imagining the worst I'm capable of generating vivide and astounding detail and internal worry. 
+
+
+Schwab Themes
+	Big Data (25) 
+		ORCL
+		PLTR
+		CRM
+		FICO
+		INFA
+		RBRK
+		ESTC
+		CFLT
+		TDC
+		AI
+		AMPL
+		DOMO
+		PRGS
+		RDVT
+		--
+		SNOW
+		MDB
+		INFY
+		KC
+		--
+		VRSK
+		EXLS
+		TRU
+		PL
+		-- 
+		HCAT 
+		
+	AI 
+		NVDA
+		MSFT
+		AMD
+		IBM
+		ADBE
+		CRM
+		INTC
+		INTU
+		ACN
+		NBIS
+		WIT
+		NICE
+		AI
+		SOUN
+		AMBA
+		PATH
+		CEVA
+		CRNC
+		--
+		GOOGL
+		META
+		BIDU
+		--
+		TRI
+		EXLS
+		INOD
+		--
+		TEM
+		
+		
+Pond People 
+	3649 Blu	952-239-6599
+	3667 Falc 	651-468-5673
+	3651 Falc 	651-442-7031	Johnson 
+	3665 Blu 	612-405-0616
+	3653 ?  	651-399-2732
+	3657 ?  	952-457-6574
+	3669 ?  	612-581-9612
+	
+
+
+ReorgProCon
+	- New VP notes from Sid 
+	+ May force srcs of accountable hours  
+	- Greater exposure to being downsize fodder (Bill, Me, Richard; Corey to EA, Sid to DPAS)
+
+Personal Mission Tenets 
+	Actively bringing a positive attitude, perspective, message to all interactions.  
+	Pausing to seek to understand before being understood (at work and home).  
+	Practice staying on target with current task. 
+	Continue to push right up to the edge of tired instead of dreading/procrastinating small household tasks. 
+	Be aware of zero sum and feeling the victim. 
+	Contribute to the side tasks (e.g. interviews) at work to demonstrate positive contributor persona.
+
+
+Recuerdo
+We were very tired, we were very merry—
+We had gone back and forth all night on the ferry.
+It was bare and bright, and smelled like a stable—			ferry & hill looked/leaned/lay  moon whistles
+But we looked into a fire, we leaned across a table,
+We lay on a hill-top underneath the moon;
+And the whistles kept blowing, and the dawn came soon.
+
+We were very tired, we were very merry—
+We had gone back and forth all night on the ferry;
+And you ate an apple, and I ate a pear,						ate
+From a dozen of each we had bought somewhere;
+And the sky went wan, and the wind came cold,				sky bright and got cold after eating 
+And the sun rose dripping, a bucketful of gold.
+
+We were very tired, we were very merry,
+We had gone back and forth all night on the ferry.
+We hailed, “Good morrow, mother!” to a shawl-covered head,	done eating walking to subway... 
+And bought a morning paper, which neither of us read;
+And she wept, “God bless you!” for the apples and pears,
+And we gave her all our money but our subway fares.
+
+
+:SID 
+	(7/17) Chat w/ Sid.  Busy with Fin in FIC schema. Fin SME doesn't want hops.  Now question on IDH vs FDH integration (IICS sending files). Working with Bill to get a CTS person for 6w (renewable).  Needs Lucas for Airflow.  Sid designing aggregate tables to speed up PowerBI dashboards.  They restricted FIC access to avoid people downloading XLS and using it to redistribute reports. Also security issue; Service Now too long (4mo) to update a form, so maybe build PowerApps to do a table update that then gets applied to sec model for RLS (sid to design, future task).  
+	(8/16) Working w/ Narja (sp?) at MEIC, she's picking up DBT dev work 
+	Take away: Sid is busy, human integration engine. Also designing future updates, all in his head. Probably 100% billable. 
+
+
+KQ Gorman  breaks: :01 (talk), :10/:13 (music/ads/talk varies), :15/:16/:20 (ads), :31/:35/:39 (talk 5min), :45/:50 (ads).  09:35/:41, talk sign off 5min 
+XM Morning breaks: :05/:06 (talk 3min), :18/:19 (talk 3min), :28/:30/:34 (talk), :41/:43/:46 (talk 2-3min), :50/:53/:58 (talk 3min & new sign off 5/5)
+XM: 6-9am Eastern, then again 6-9am Pacific (9-noon Eastern), 
+	  The 6-7am hour is the previous day's 9-10am hour (not edited, so you get refs 2 prev day)
+	  ~10:50am toss to Miami, ~11:03 Miami first talk break
+	  	  
+	  east	6	7	8	9			12pm
+	  cent		6	7	8	9	10	11		12	1	2	3
+	  paci				6	7	 8	 9
+	  cont  r	2	3	?	2	 3	miami	2	3	r1?  (miami repeat talk block at 2:50pm) 	
+	  
+
+Quote from IYKYK, "I believe we all have reserves in us that are untapped - it just takes doing things you truly want, 
+				     things that you’re in alignment with, to tap into them." [Saved to Notion 4/21, leave here for a reminder week]
+"Ryder, you do you. Do you confidently." - Fletcher
+
+
+
+
+Misc
+	- Viz Inland logo 
+	- LU Byzantine Generals Problem (mentioned in crypto mining book)
+	- LU song "Death Valley" orvil peck
+	- Fix spelling of 'completion certificates' in _Cross Proj...
+
+
+My Principles are the ITIL 4 Guiding Principles 
+	Focus on value
+	Start where you are (don't redo the past) 
+	Progress iteratively with feedback 
+	Collaborate and promote visibility 
+	Think and work holistically 
+	Keep it simple and practical 
+	Optimize and automate 
+	
+
+Desks in my area 
+	Ahuja, Kamal <kamal.k.ahuja@medtronic.com>
+
+	
+BotE, Thoughts on move back to 5th Floor 
+	- Good to be in the "thick of it".  whatever is next doing it engaged instead of drifting. 
+	- Seeing the reality and imperfection of everyone (vs imagined version) is comforting, grounding, even motivating. 
+	- Glimpses of moments when I was new here / eyes of a newbie 
+
+Moundsview Desk
+	MVS5A1304 (RIP) 
+	MVS6C1708
+	MVS5A1307 (Murali's desk, back to windows)
+	MVS6A1912 (SE corner of building, IT consolidated on 6th) 
+	
+	
+:SNF Snowflake 
+AI Question on costs; https://docs.snowflake.com/en/user-guide/snowflake-cortex/complete-multimodal#cost-considerations 
+	Goes towards estimating cost savings 
+
+	
+:PTO
+C:\Users\sorenp3\OneDrive - Medtronic PLC\Live\pmsoren\_PT\Process Notes\Process Notes - Request PTO 20250403.txt
+
+
+:PWP/WSR/TS XLS/S1 Scratch Process 
+PWP - Create at GDocs, send to GMail and qed(home), retrieve from GMail to temp folder, copy bullets to top of S1 Scratch W
+WSR - Create on MDT, Extract text to email, on hotmail copy latest (/one drive/my files) and paste in email content 
+
+
+SQL Execution Order 
+	FROM 
+	WHERE 
+	GROUP BY 
+	HAVING
+	SELECT 
+	DISTINCT
+	UNION 
+	ORDER BY 
+	LIMIT and OFFSET 
+
+	
+Six Dimensions of Data Quality 
+	The 6 dimensions of data quality are: Completeness, Consistency, Conformity, Accuracy, Integrity and Timeliness
+	https://smartbridge.com/data-done-right-6-dimensions-of-data-quality/
+	Completeness is defined as expected comprehensiveness. Data can be complete even if optional data is missing.
+	Consistency means data across all systems reflects the same information
+	Conformity means the data is following the set of standard data definitions like data type, size and format. (e.g. dates) 
+	Accuracy is the degree to which data correctly reflects the real world object OR an event being described
+	Integrity means validity of data across the relationships and ensures that all data in a database can be traced and connected to other data.
+	Timeliness references whether information is available when it is expected and needed. 
+
+
+:Vita
+	(This space available, previous notes sent via email) 
+
+	
+:AWS 
+AWS Cert Work 
+	N-- AWS solution architect training and certification
+	.-- Cloud Guru (course purchased) 
+	.-- Review cert path additions 
+	.-- Do https://www.aws.training/Details/Curriculum?id=27076&scr=path-cp 
+	.-- AWS Sol Arch Assoc, Udemy Course (do Udemy practice test, then restudy sections as required) 
+
+	The five knowledge domains covered by the AWS CSA-Associate exam are:
+																% of Exam 
+		Domain 1: Design Resilient Architectures				34%
+		Domain 2: Define Performant Architectures				24%
+		Domain 3: Specify Secure Applications and Architectures	26%
+		Domain 4: Design Cost-Optimized Architectures 			10%
+		Domain 5: Define Operationally Excellent Architectures	 6%	
+		Ref: See AWS Cert Associate Exam Guide (saved in ~/ModernArch)
+	
+	AWS Certified Solutions Architect – Associate
+		Before Pro, Pro expects experience actually doing it (go figure) 
+		
+		Hands-on experience using compute, networking, storage, and database AWS services
+		Hands-on experience with AWS deployment and management services
+		Ability to identify and define technical requirements for an AWS-based application
+		Ability to identify which AWS services meet a given technical requirement
+			Ed: Could make a list.
+		Knowledge of recommended best practices for building secure and reliable applications on the AWS platform
+		An understanding of the basic architectural principles of building on the AWS Cloud
+		An understanding of the AWS global infrastructure
+		An understanding of network technologies as they relate to AWS
+		An understanding of security features and tools that AWS provides and how they relate to traditional services
+
+	Whitepapers 
+		See ~/ModernArch/AWS_Cloud_Best_Practices.pdf 
+		
+	Additional References (from Whitepaper) 
+		- If you are new to AWS, we recommend that you review the information on the About AWS page to get a basic understanding of AWS services.2
+		- These patterns can provide the context for a more detailed review of choices, operational status, and implementation status as detailed in the AWS Well-Architected Framework.1
+		- https://aws.amazon.com/big-data/datalakes-and-analytics/
+		- https://aws.amazon.com/s3/
+
+
+:PWD 
+See [~\pmsoren\_PT\Process Notes\Process Note - Password Changes 20250403.txt]
+
+
+:M0
+1006 51F 
+State of IL and city of Chicago suing Trump admin over nat'l guard troops 
+Day 6 of fed shutdown, GOP wants to pass a short term spending bill, but speaker not calling members back 
+USSC begins new term today, prez power to LBTQ rights 
+Italy urging Trump to drop tarriffs on pasta (90% duty) 
+dj-90, nasdaq (not quoted) 
+(local)
+Rochester pub schools seeing increased enrollment (+400 students) 
+Mpls speed cameras at 5 accident prone locations in the city (its about safety not survellience) 
+MN Wild signed goaly phillip gustafson (sweden native) 
+
+
+> M Factors 
+	- stopped dwell, how (A: Cast, Drift, Slack)
+	- progress on productive tasks 
+	- drop sense of ext 
+	- Em not zero sum 
+	- knowing what need to do 
+	- sunny day
+	- viz LAS (not over inflating)
+	- music contribs to sustain, not change trigger 
+	
+
+> Banked hours	OverUnder Over Under 
+	Prior detail saved to [~/_PT/Prior Year Scratch Docs/S1 MDT Hours over 40 - yyyy.txt]
+
+	Week St	Over/Under	Running		Notes 
+	== 2023 ==
+	01/01 	-20			309.75		Comp Days (2x partial + pre-thanksgiving)
+	01/02	0			309.75		Break
+	01/09	6			315.75		Weekend deployment and prod job nudge at midnight + CSOD & Admin overages 
+	01/16	2.25		318.0		CSOD overages 	
+	01/23	3.25		321.25		CSOD overages 
+	01/30	2.5			323.75		CSOD overages
+	02/06	5			328.75		CSOD overages + CSOD host move support 
+	02/13	8.25		337.0		CSOD overages + weekend deploy support (key issue) 
+	02/20 	5			342.0		CSOD overages + weekend diagnostics on testing issues 
+	02/27	7.75		349.75		CSOD overages 
+	03/06	26			375.75		CSOD overages full weekend work
+	03/13 	17			392.25		CSOD overages 
+	03/20 	9.5			401.75		CSOD overages and deployment 
+	03/27 	4.5			406.25		CSOD overages and eMan deployment 
+	04/03	17.5 		423.75		CSOD overages and deployment 
+	04/10	12.75		436.5		CSOD overages and urgent RFC pipe build & test 
+	04/17	0.5			437.0		CSOD overages 
+	04/24	1.75		438.75		CSOD overages 
+	05/01	3			441.75		CSOD overages (on a Friday to fini Git deploy for GTAT change) 
+	05/08	0			441.75		over 0.25, under -0.25, net zero
+	05/15	1			442.75		Over 1.25, under -0.25, net 1h
+	05/22	0.5			443.25		CSOD/GTAT overages 
+	05/29	-0.25		443.0		Sat CSOD less use banked 
+	06/05	-0.25		442.75		CSOD less used bank 
+	06/12	1.0			443.75		CSOD less used bank
+	06/19	1.5			445.25		CSOD less used bank
+	06/26	0.75		446			CSOD + Deployment less used bank 
+	07/03	0.5			446.5		CSOD less used bank
+	07/10	0.25		446.75		CSOD less used bank 
+	07/17	0			446.75		CSOD offset by used bank
+	07/24	-0.5		446.25		Used bank 
+	07/31	-0.5		445.75		Used bank
+	08/07	1.0			446.75		Deployment + overages - used prev overages 
+	08/14	0.0			446.75		No over under, and late meeting was cancelled
+	08/21	0.25		447			Overages less prev used 
+	08/28	0.75		447.75		CSOD overages 
+	09/04	1.25		449.0		CSOD overages (and load checks during PTO)
+	09/11	-0.25		448.75		Overages less used prev overages 
+	09/18	0.25		449			Overages less used prev overages 
+	09/25	0.5			448.5		used prev overages
+	10/02	0.5			449			Overages less used prev overages 
+	10/09	-0.75		448.25		Overages less used prev overages 
+	10/16	0.25		448.5		Overages less used prev overages
+	10/23	-0.5		448			Overages less used prev overages 
+	10/30	0.0			448			Overages less used prev overages (cancelled out) 
+	11/06	1.75		449.75		Weekend deploy less used prev overages 
+	11/13	3.0			452.75		Weekend load issues 	
+	11/20	3.0			455.75		Load monitoring over Thanksgiving PTO & Holiday 
+	11/27	0.5			456.25		Overages less used prev overages
+	12/04	0.25		456.5		Overages weekend checks, less used prev overages 
+	12/11	-0.25		456.25		Overages less used prev overages 
+	12/18	0.25		456.5		Sat load checks
+	12/25	0			456.5		Holiday Break
+	== 2024 ==
+	01/01	0			456.5		Overages less used prev overages netted zero
+	01/08	-0.75		455.75		Prev overages used 
+	01/15	-1.0		454.75		Prev overages used 
+	01/22	-1.0		453.75		Prev overages used +vet 
+	01/29	0			453.75		Overages + Prev used net zero
+	02/05	-0.25		453.5		Overages + Prev used 
+	02/12	1.5			455			Deployment less prev used 
+	02/19	1			456			Overage less prev used 
+	02/26	2			458			Overages 
+	03/04	1.25		459.25		Overages 
+	03/11	1.25		460.5		Overages less prev used 
+	03/18	1			461.5		Overages less prev used 
+	03/25	2			463.5		Overages 
+	04/01	-0.5		463			Prev overages used 
+	04/08	0.75		463.75		Overages less prev used
+	04/15	0			463.75		PTO week
+	04/22	-1			462.75		Overages less prev used
+	04/29	-0.75		462			Prev overages used
+	05/06	-0.5		461.5		Overages less prev used 
+	05/13	-0.25		461.25		Overages less prev used 
+	05/20	1.25		462.5		Overages less prev used 
+	05/27	1			463.5		Overages less prev used 
+	06/03	2.25		465.75		Overages less prev used (pDNA driving overages)
+	06/10	4.0			469.75		Overages less prev used (pDNA driving overages)
+	06/17	-0.25		469.5		Overages less prev used (deploy prep driving overages) 
+	06/24	-0.75		468.75		Prev overages used 
+	07/01	2.75		471.5		Deployment less prev used 
+	07/08	-0.5		471			Overages less prev used 
+	07/15	-0.25		470.75		Overages less prev used 
+	07/22	-0.5		470.25		Prev overages used 
+	07/29	0			470.25		Overages less prev used 
+	08/05	0			470.25		Overages less prev used net zero
+	08/12	0			470.25		Overages less prev used net zero (back to back deployment weeks)
+	08/19	0			470.25		PTO Week
+	08/26	1.75		472			Deployment, overages, small prev overages used 
+	09/02	-0.5		471.5		Prev overages used 
+	09/09	-0.75		470.75		Prev overages used 
+	09/16	2			472.75		Overages less prev used (w/ weekend deploy) 
+	09/23	-0.5		472.25		Overages less prev used 
+	09/30	-0.75		471.5		Prev overages used 
+	10/07	-0.75		470.75		Prev overages used 
+	10/14	-0.75		470			Prev overages used 
+	10/21	-0.25		469.75		Overages less prev used 
+	10/28	1.75		471.5		Overages less prev used 
+	11/04	1.0			472.5		Overages less prev used 
+	11/11	1.75		474.25		Overages less prev used 
+	11/18	1.5			475.75		Overages 
+	11/25	1.0			476.75		Overages (in spite of PTO & Holiday)
+	12/02	0.75		477.5		Overage less prev used 
+	12/09	-0.75		475.75		Overages less prev used 
+	12/16	1.5			477.25		Overages less prev used plus deployment
+	12/23	0			477.25		Holiday Break
+	12/30	0.5			477.75		Overages for MDM 
+	== 2025 ==
+	01/06	2.5			480.25		Overages for MDM
+	01/13	2.5			482.75		Overages for MDM 
+	01/20	0.5			483.25		Overages for MDM 
+	01/27	0.25		483.5		Overages for MDM 
+	02/03	0.25		483.75		Overages less prev used plus deployment 
+	02/10	0.25		484			Overages less prev used 
+	02/17	-0.25		483.75		Prev overages used 
+	02/24	0			483.75		Overages less prev used (net zero) 
+	03/03	0.5			483.25		Prev overages used 
+	03/10	0			483.25		Overages less prev used (net zero) 
+	03/17	-0.25		483			Overages less prev used 
+	03/24	-0.5		482.5		Overages less prev used 
+	03/31	0.25		482.75		Overages less prev used 
+	04/07	-2			480.75		No overages, non-prod xm+ day
+	04/14	0			480.75		No overages, short week w/ PTO W-F 
+	04/21	-2.5		478.25		Prev used plus Fri light charge  
+	04/28	-2			476.25		Overages less prev used plus EoW burndown charge 
+	05/05	-1.75		474.5		Overages less prev + EoW burndown charge 
+	05/12 	-2			472.5		Overages less prev + EoW burndown charge 
+	05/19	-1.75		470.75		Prev used + EoW burndown charge 
+	05/26	-3			467.75		Prev used + EoW burndown charge 
+	06/02	-2			465.75		Overages less prev used + EoW burndown charge
+	06/09	-3.25		462.5		Prev used + EoW burndown charge 
+	06/16	-2.75		459.75		Prev used + EoW burndown charge 
+	06/23	-2.25		457.5		Overages less prev + EoW burndown charge 
+	06/30	-1.5		456			Prev used  
+	07/07	-0.75		455.25		Overages less prev used 
+	07/14	-3.25		452			Prev used
+	07/21	-3.25		448.75		Prev used + EoW burndown charge 
+	07/28	0			448.75		Net zero of Overages less Prev used
+	08/04	-3.75		445			Prev used + BoW & EoW burndown charge 
+	08/11	-1.25		443.75		Overages less prev used & EoW burndown charge 
+	08/18	-5.75		438			Prev used + BoW & EoW burndown charge 
+	08/25	-2.5		435.5		Prev used 
+	09/01	-0.75		434.75		Overages less prev used 
+	09/08	-1			433.75		Prev used 
+	09/15	-1			432.75		Prev used 
+	09/22	-1.75		431.0		Prev used 
+	09/29	-1			430			Overages less prev used 
+	10/06
+:H0
+
+
+		== Current Year (for previous, see S1 Scratch W 2024.txt) ==
+		(0.5h not billed MDM on 1/2)
+		(1.75h not billed MDM on 1/6)
+		(0.25h not billed MDM on 1/7) 
+		(0.25h not billed MDM on 1/8)
+		(0.25h not billed MDM on 1/9)
+		(0.25h not billed MDM on 1/13)
+		(0.25h not billed MDM on 1/14)
+		(0.75h not billed Windchill on 1/15)
+		(1.25h not billed MDM on 1/17)
+		(0.25h not billed MDM on 1/21)
+		(0.25h not billed MDM on 1/23)
+		(0.25h not billed MDM on 1/27)
+		(0.5h not billed MDM on 2/1 Sat Deployment Validation)
+		(0.25h not billed MDM on 2/3) 
+		(-0.25h from prev overages on 2/4)
+		(-0.25h from prev overages on 2/6)
+		(-0.25h from prev overages on 2/12)
+		(0.5h not billed MDM on 2/13)
+		(-0.25h from prev overages on 2/21)
+		(1h deployment validation on 2/22, Sat) 
+		(-0.25h from prev overages on 2/26)
+		(-0.25h from prev overages on 2/27)
+		(-0.5h from prev overages on 2/28)
+		(-0.25h from prev overages on 3/4)
+		(-0.25h from prev overages on 3/5, shovel)
+		(0.25h not billed MDM on 3/10)
+		(-0.25h from prev overages on 3/13)
+		(0.25h not billed MDM on 3/17)
+		(-0.25h from prev overages on 3/18)
+		(-0.25h from prev overages on 3/20)
+		(0.25h not billed MDM on 3/24)
+		(-0.25h from prev overages on 3/25)
+		(-0.25h from prev overages on 3/26) 
+		(-0.25h from prev overages on 3/27)
+		(1.0h not billed MDM on 3/29, deployment saturday) 
+		(-0.25 from prev overages on 4/1)
+		(-0.25h from prev overages on 4/2)
+		(-0.25h from prev overages on 4/3)
+		(-0.25h from prev overages on 4/23)
+		(-0.25h from prev overages on 4/24)
+		(-2h from prev overages on 4/25)
+		(0.25h not billed MDG on 4/29)
+		(-0.25h from prev overages on 4/30)
+		(-2h from prev overages on 5/2)
+		(0.25h not billed MDG on 5/5)
+		(0.25h not billed PPE on 5/6)
+		(-0.25h from prev overages on 5/7)
+		(-0.25h from prev overages on 5/8)
+		(-2h from prev overages on 5/9)
+		(0.25h not billed MDM on 5/14)
+		(-0.25h from prev overages on 5/15)
+		(-2h from prev overages on 5/16)
+		(-1.5h from prev overages on 5/19)
+		(-0.25h from prev overages on 5/20)
+		(-0.25h from prev overages on 5/27) 
+		(-0.25h from prev overages on 5/28)
+		(-0.75h from prev overages, travel home midday on 5/29)
+		(-1.75h from prev overages on 5/30)
+		(0.25h not billed MDM, Saturday deployment validation on 5/31)
+		(-0.25h from prev overages on 6/3)
+		(-0.25h from prev overages on 6/4)
+		(0.25h not billed MDM on 6/5)
+		(-2h from prev overages on 6/6)
+		(-1h from prev overages for process efficiency on 6/9) 
+		(-0.25h from prev overages on 6/10)
+		(-0.25h from prev overages on 6/11)
+		(-0.25h from prev overages on 6/12)
+		(-1.5h from prev overages on 6/13)
+		(-0.25h from prev overages on 6/17)
+		(-0.25h from prev overages on 6/18) 
+		(-0.25h from prev overages on 6/19)
+		(-2h from prev overages on 6/20)
+		(0.25h not billed MDG on 6/23)
+		(-0.25h from prev overages on 6/24)
+		(-0.25h from prev overages on 6/25)
+		(-2h from prev overages on 6/27)
+		(-1h from prev overages on 6/30)
+		(-0.25h from prev overages on 7/1)
+		(-0.25h from prev overages on 7/2)
+		(-0.25h from prev overages on 7/7)
+		(0.5h not billed MDG on 7/8) 
+		(1.25h not billed MDG on 7/9) 
+		(-0.25h from prev overages on 7/10) 
+		(-2h from prev overages on 7/11)
+		(-0.5h from prev overages on 7/14)
+		(-0.25h from prev overages on 7/15)
+		(-0.25h from prev overages on 7/16)
+		(-0.25h from prev overages on 7/17)
+		(-2h from prev overages on 7/18)
+		(-0.5h from prev overages on 7/21)
+		(-0.25h from prev overages on 7/22)
+		(-0.25h from prev overages on 7/23)
+		(-0.25h from prev overages on 7/24)
+		(-2h EoW burndown charge on 7/25)
+		(0.75h not billed to MDG on 7/28)		
+		(-0.25h from prev overages on 7/29)
+		(-0.25h from prev overages on 7/30)
+		(-0.25h from prev overages on 7/31)
+		(-1h from prev overages on 8/4)
+		(-0.25h from prev overages on 8/5)
+		(-0.25h from prev overages on 8/6)
+		(-0.25h from prev overages on 8/7)
+		(-2h from prev overages on 8/8)
+		(1h not billed MDG on 8/13)
+		(-0.25h from prev overages on 8/14)
+		(-2h from prev overages on 8/15)
+		(-2 from prev overages on 8/18)
+		(-0.25h from prev overages on 8/19)
+		(-0.25h from prev overages on 8/20)
+		(-1.25h from prev overages on 8/21)
+		(-2h from prev overages on 8/22)
+		(-2h from prev overages on 8/25) 
+		(-0.25h from prev overages on 8/26)
+		(0.25h not billed MDG)
+		(-0.25h from prev overages on 9/3)
+		(-0.25h from prev overages on 9/4)
+		(-0.5h from prev overages on 9/5)
+		(-0.25h from prev overages on 9/8)
+		(-0.25h from prev overages on 9/11)
+		(-0.5h from prev overages on 9/12)
+		(-0.25h from prev overages on 9/15)
+		(-0.25h from prev overages on 9/16)
+		(-0.25h from prev overages on 9/17)
+		(-0.25h from prev overages on 9/18)
+		(-0.25h from prev overages on 9/23)
+		(-0.25h from prev overages on 9/24)
+		(-0.25h from prev overages on 9/25)
+		(-1.0h from prev overages on 9/26)
+		(0.5h not billed MDM, deployment validation on 9/27) 
+		(0.75h not billed Admin/MDG on 9/30)
+		(-0.25h from prev overages on 10/2)
+		(-2h from prev overages on 10/3)
+
+	
+> Folder search tech note: 
+dir -recurse | ? {$_.lastwritetime -gt '3/4/19' -AND $_.lastwritetime -lt '3/5/19 23:59:59'} > c:\temp\modlist20180607.txt
+dir -recurse | ? {$_.lastwritetime -gt '01/05/2020' -AND $_.lastwritetime -lt '01/10/2020 23:59:59'} | out-file -encoding UTF8 c:\temp\modlistMDT20200105_20200110.txt
+
+
+> Yellowstone take-aways
+- Park Life fascination faded after youtube, replaced w/ how to incorporate observations into daily routine 
+- Seeking way to avoid minutia slipping outside planned time 
+- Theory: The limited options in the park allows greater focus on those options
+
+
+http://www.ted.com/talks/douglas_adams_parrots_the_universe_and_everything.html
+
+Projects
+----------
+- Hadoop 
+	- LU O'Reilly's comprehensive new eBook, "Data Driven: Creating a Data Culture" 0217
+	- Hadoop book progress, new book 'Real World Hadoop MapR' (as of 3/10, At Start of Chapter 3, pg 37) 0310
+	- Hadoop, MapR Book - Copy table on page 26 (shortcuts to book in ~/Hadoop folder)
+	- LU Hadoop node types/diffs; edge, data, name nodes 0325
+	- Resume MapR Apache Drill tutorial 0506
+	 	-- https://cwiki.apache.org/confluence/display/DRILL/Lesson+2%3A+Run+Queries+with+ANSI+SQL
+	 	-- https://goo.gl/NONd0A
+	- Create note; Hadoop Hortonworks, Digikey - San Jose Hadoop Show, Harold to be there. 6/8 
+	 	 
+	 
+- SPSW 
+	- Lang Order this week: Javascript / Java / XCode / Python / Node.js
+	- SPSW website update to current tech 
+		-- HSD Local Web	 	 	  
+		-- Able to query db tables
+	 	-- Issue, query history by address doesn't work. (7/23)
+	- Python Section 7, File I/O
+	- DataGen Engine
+	- Applet to shift spaces left/right
+	- MUPuz, see Godel Escher Bach
+	- Block Hashing Algorithm https://en.bitcoin.it/wiki/Block_hashing_algorithm 
+	- Rory Story Cubes Project (data in ~/Reminders) 0217
+	- Create POA for Munchkin Loot Letters 0511
+	- Create php CAE 
+	- Create js CAE 
+	- Mind storming dow walk app 
+	- Remove/Fix second point allows negative balance in Proj Encore 20150414
+	- Mini Proj Encore standard deviation 20150519
+	- Create POA for VP version of Encore 20150601	 
+	- Topics Disc w/ Josh; Angular, Covalent, TypeScript, VS Code (on a mac), TM1 (on cognos) 20170320
+	 
+- STW
+	- LU Examples of discrete coinatorial optimization problems 150129
+	- LU WGet
+	- LU "Blonde Boshell" by Tom Holt (also author of 'Faust Among Equals' and 'Flying Dutch')  
+	- LU Sigaba (Enigma like, 15 rotors)
+	- Linear Regression w/ Standard Deviation on Mileage data
+	- LU DevJam.com - MPLs open work enviro, blogging/vloging on Agile methods
+
+
+Alt+0916 = Delta in Arial (with NumLock on, supported font, doesn't work in notepad)
+

@@ -1,0 +1,202 @@
+S1 MDT Acronyms 
+
+Also reference: https://medtronic.sharepoint.com/sites/knowledgecenter/sitepages/acronymfinder.aspx
+
+ABAC	Attribute Based Access Control (see also RBAC)
+ACH		Application Clearing House, one or more database servers used to provide Application Spaces and additional EDH curated data spaces.
+ACES	Anywhere Case Entry System (being replaced by MyCase and SFDC integration project to move data to DIH then out to Physician Finder)
+AFD		Alternate Finance Domain (as in AFD_MAIN schema in DCC)
+AFX		Actual Financial Exchange (FX), compare to PFX (Plan FX) 
+AMPS	Advancing Medtronic Planning Solutions. The Supply Chain project/program implementing Blue Yonder Luminate as the Medtronic key APS.
+ANZ		Australia New Zeland 
+AOP		Annual Operation/Operating Plan, relative to finance sales and supply 
+APO		Advanced Planner and Optimizer (for Supply Chain.  Context, SAP)
+APS 	Advanced Planning & Scheduling application (see AMPS)
+ARB		Architecture Review Board
+ATGC	Architecture and Technical Governance Council 
+
+BPCS	Business Planning and Control System  (Core Data example harmonizing this with CP data to product PO_DTL_HM)
+BPS		Business Partner Services 
+BSC		Balanced Scorecard 
+
+CAB		Change Approval Board (See also TRB) 
+CAPA	Corrective Action and Preventative Action (or Corrective and Preventative Action) from QMS Introduction 
+CAR		Capital Authorization Request
+CAS		Core Analytic Services 
+CCAW	Cloud Clinical Analysis Warehouse 
+CDC		Change Data Capture (as a table prefix or suffix, holds Insert / Update / Delete record data, automated production via Ron's script)
+CDH		Common Data Hub e.g. Snowflake, when asking for access IMS Cloud Data Hub (CDH) – Non-Prod vs Prod  (sometimes 'curated data hub')
+CDIP	Career Development Inclusion Plan
+CFN		Customer Facing Number (e.g. MATERIAL_NUM_ID == CFN, different from FID, see below)
+CFR		Code of Federal Regulation (e.g. 21 CFR Part 11 covers eRecords and eSignatures) 
+CIED	Cardiac Implantable Electronic Devices (from MDT IT newsletter, hosp. opened in Zhejiang)
+CIMD	Customer Insight Master Data 
+CMF		Case Management Foundation 
+CMR		Consolidated Management Reporting (in context of Hyperion, replacement for GFS, RPT, OPC reporting) 
+CMS		Maybe short for Care Management Services, see MCMS.
+CoE		Center of Excellence
+COPA	Cost based Profitability Analysis 
+COPE	Cost of Poor Execution 
+COS		Cost of Sales
+CRDM	Cardiac Rhythm Disease Management 
+CSS		Curated Self Service (reporting, see also RSS & LDD) 
+CST		Cranial and Spinal Technologies (Organization within MDT) 
+CTMS	Clinical Trial Management System 
+CTS		Maybe abbreviation for Cognizant Technology Solutions (support people)
+CVDS	Clear View Data Store (middle layer of SDS, CVDS, XDS and INDS)
+CVG		Cardiac and Vascular Group
+
+DART	Device and Registration Tracking (replaced by DTRAK program, went live Feb 2022) 
+DCC		Digital Core - Curated, now some docs list it as Data Curation Central 
+DDL		Delivery Do List (from Rich Burke Town Hall, Year End Tiger Team presentation, sounds made up) 
+DDL		In SQL, Data Definition Language (vs DML, Data Manipulation Language)
+DIH		Data Integration Hub 
+DRM		Design for Reliability in Manufacturing 
+DTM		Data Transformation Manager (in the context of Informatica, a component that executes data transformation logic defined in mappings)
+DTS		Demand Tracking System 
+
+ECC		Enterprise Central Component (aka SAP Centerpiece, SAP original name was SAP R/3 for Realtime with 3 layer architecture, changed to ECC in 2004)
+ECP 	Enterprise Collaboration Platform, e.g. Microsoft Teams, SharePoint, or other platforms
+ECR		Enterprise Change Request (formerly FCN, see below)
+EDH 	Enterprise Data Hub, a data integr enviro supporting movement and consump of info in the three enviros:  Trust, Explore, and Research.
+EMDN	European Medical Device Nomenclature. It's a system developed by the EU to categorize and ID medical devices, primarily for regulatory purposes within the EUDAMED database. EMDN codes are used when registering medical devices under the Medical Device Regulation (MDR) and In Vitro Diagnostic Regulation (IVDR). 	
+EPM 	Enterprise Performance Management 
+EPP		Environmental Preferred Purchasing 
+ER/IR 	Internal/External Reporting (context of Finance)
+ERI 	Execution Result Inventory (context of GTAT app testing) 
+ERES	Electronic Records and Electronic Signatures 
+
+FCN 	Formal Change Number? replaced by ECR (see above)  
+FDH		Functional Data Hub 
+FDM		Future-proof Data Management, (used in Data Lakehouse book)
+FEC		Finance Executive Committee 
+FID		Foundation ID (sometimes used as a column  name suffix, e.g. MATERIAL_FID, differentiated from CFN, which is NOT FID) 
+FPA		Finance Planning and Analysis 
+
+GAS		Global Application Services 
+GBQ		Google Big Query (from ERWin team's presentation on V12.5 upgrade) 
+GCH		Global Complaint Handling (System, implied) 
+GCISO	Global Cyber and Information Security Office 
+GDPR	Good Documentation Practices (in context of Quality training) 
+GDPR	General Data Protection Regulation 
+GDSN	Global Data Syncronization Network, Ivo built? 8/19/2025, Marc noted rolling out to Australia
+GFAS	Global Field Action System 
+GFS		Global Finance Structure (according to MDM project) or Global Financial System (Hyperion Essbase Consolidation Tool)
+GIDE	Global Inclusion Diversity Engagement
+GMDN	Global Medical Device Nomenclature
+GMP		Good Manufacturing Processes (from training on CFR Part 11 for Electronic Regs and Signatures) 
+GOSC	Global Operations and Supply Chain (aka GO&SC)
+GPT		General Purpose Technologies (e.g. Wheel, Computer, Internet) or Generative Pre-trained Transformer (in context of LLMs)
+GRC		Governance Risk Management and Compliance (or Greater China) 
+GSC		Global Supply Chain 
+GSO		Global Security Office
+GSP 	Global Sales Plan or General Surgical Products (ref as source in DIH for GFS hiearchy population)
+GSR 	Global Sales Reporting
+GSM		Global Supply Management(?) 
+GTAT	Global Training Assignment Tool 
+GTC		Global Technology Council (from QMS policy and Solution selection procedure documents) 
+GTIN	Global Trade Item Number
+GTS		Global Trade Services (reference in RERS reports, used as a suffix on attributes, distinguish from ECC)
+GTLD 	Global Talent and Leadership Development 
+GUS		Global User Services (GUS)
+
+HCC		Hybrid Columnar Compression (Oracle, method for organizing data within a database block. 
+		  Utilizes a combination of both row and columnar methods for storing data)
+HCI		Human Capital Insights 
+HCP 	Health Care Provider 
+HR		Human Resources
+HRBO	Human Resources Business Ops
+
+IaC		Infrastructure as Code (from DevOps pipeline, digital health team provided components, libraries, code)
+IDC		Insight Driven Care ~or~ India Development Center, part of Medtronic's Global Technology and Innovation (GT&I) ecosystem. focused on research, development, and engineering supporting Medtronic's global product development
+IDCM	Intercompany debit credit memo (a type of SAP entry)
+IDN		Integrated Delivery Network (a system of hospitals) 
+IFU		Instructions For Use 
+INDS	Integration Data Store (see also SDS, CVDS, XDS)
+INI		(I&I) Innovation and Intelligence 
+INO		(I&O) Infrastructure and Operations 
+IR/ER 	Internal/External Reporting (context of Finance)
+IRS		Infosphere Replication Server (used to 'mirror' tables from SAP to DIH)
+ITIL 	Information Technology Infrastructure Library 
+ITOS	IT Operating System (Model for getting work done) 
+
+LBM		Labor Burden Material, aka manufacturing cost
+LDD		Local Discovery Domain (see also RSS & CSS) 
+LLM		Large Language Model 
+LSH		Life Science Hub (a data environment) 
+
+MCMS	Medtronic Care Management Services (related to Patient Monitoring and Respiratory Interventions in 10/24 G Martha email saying they will be spun off)
+MCP		Multi-Context Protocol (context of AI Agents) 
+MDG		Master Data Governance (in context of SAP) 
+MDMS	Master Data Management and Services 
+MDR 	Medical Device Regulation (see EMDN)
+MEIC	Medtronic Engineering and Innovation Center, Hyderabad
+MFT		Managed Files Transfers (from API Tech talk, basically having middle tier, e.g. webmethods, do FTP consumption and push) 
+MITG	Minimally Invasive Therapy Groups 
+MOM		Minutes of Meeting 
+MPG		Material Pricing Group
+MRP		Material Requirements Planning (SAP term, also from MDM Data Product project) 
+MSCM	Metronic System Compliance Methodology (Global IT's non-product software compliance methodology) 
+MRCS	Medtronic Records Control System 
+MTP		Move to Production (Design review meetings, prefix on document filenames) 
+
+ODF		Outbound Data Feed
+OLA		Operation(al) Level Agreement
+OPC 	Other Product Costs 
+OTC		Offer To Cash
+OTOR	Offer To Order Ready (Product Master Data team, being worked by Marc van den Camp)
+
+P&C		Pricing and Contracting
+PAPA	Predictive and Advanced People Analytics
+PCN		Production Change Notice
+PEMS	Patient Engagement Management System
+PFX		Plan FX 
+PLM 	Product Lifecycle Management 
+POC		Point of Contact
+PPH		Product Pricing Hierarchy 
+PPM 	Process Planning Matrix 
+PPV		Purchase Price Variance 
+PRA		Product Release Authorization (e.g. product can be sold), status of 30 means operational 
+PTS		Patient and Technical Services
+
+RAC 	Regulatory Assessment of Change
+RACI	Responsible, Accountable, Consulted, Informed
+RAD		Regulatory Affairs Domain 
+RAID 	Risks, Actions, Issues, Decisions (log/document, like a RACI matrix)
+R&O		Risk and Opportunity (ref. in Anaplan)
+RBAC	Role Based Access Control 
+RBT		Role Based Training 
+RERS	Regulatory Enterprise Reporting System 
+RICEFW 	SAP term, stands for Reports, Interface, Conversion, Enhancements, Forms, and Workflow. 
+RID 	Regulatory Impact Determination
+RPH		Revised Product Hierarchy
+RPS		Rebate Processing System 
+RSS		Raw Self Service (see also CSS & LDD) 
+RTG		Restorative Therapies Group 
+
+SDH 	Source Data Hub (cloud data, snowflake, ingest layer) 
+SDS		Source Data Store (left/lower layer of SDS, CVDS, INDS and XDS) 
+SIM		Spine Inventory Management (Murali working curation) 
+SMART	Specific, Measurable, Attainable, Realistic, Timely (or Time-bound)
+SOGL	Scrap, Obsolesence, Gain and Loss 
+SOR		System of Record (Joel's term from Digital Core Legacy Data PPT)
+SOW		Statement of Work
+SPC		Statistical Process Control 
+SSP		Special Stock(ing) Partner (in context of Capitation project) This is an inventory location that contains consignment inventory 
+		  and/or Capitation deliveries that have not been billed. (From Capitation project requirements document)
+
+TAI		Talent Analytics Infrastructure 
+TDL		Technical Delivery Lead 
+TMS		Transportation Management System (context of Global Supply Chain) 
+TRB		Technical Review Board (See also CAB) 
+
+UDI 	Unique Device Identification. Typically has two parts; Device Identifier (DI) and Production Identifier (PI)
+
+WCMS	Web Content Management System (reference in the eManuals project)
+WHO		Warm Hand Off 
+
+XDS 	Extract Data Store (right/upper layer of SDS, CVDS, XDS and INDS) 
+
+YODA 	Maybe just a name, not an acronym, Commercial organization's BI analytics tool built on Tableau 
+
+

@@ -1,0 +1,481 @@
+﻿S1 POA MDT 202510
+
+09/22 (M) 
+	- MDM, Updated DFD for Pool Party w/ Krishna and Jeremy feedback
+	- MDG, Daily stand-up meeting 
+	- MDM, Meeting on Pool Party Slide Review 
+	- MDM, Daily Stand-up Meeting (joined a few minutes late) 
+	- Admin, IT meeting on Tech Training Program (IT gets 1.2k of the 5k in the company)
+	- MDG, Getting question list organized for Wave 2  (v)
+	- MDM, UNSPSC File meeting 
+	- MDG, Searching snowflake information schemas for PDNA Wave 2 fields 
+	- Admin, Meeting with Corey, Architecture 1:1 
+
+09/23
+	- MDM, Ran validation SQL in Test Snowflake for Manufacturing Hierarchy
+	- MDM, Status by IM in lieu of meeting
+	- Admin, Dinesh EAGFSAP Town Hall  
+	- MDM, Update Unified Data Product architecture to show MATL_CP to XREF relationship 
+	- MDM, Q&A with Sana on criteria for data inclusion in the Manufacturing Hierarchy view (lvl0 is not null) 
+	- MDM, Discussions on Databricks for Pool Party, prod support and dev on SDH
+	- MDM, Check-in Tech Specs to SharePoint 
+	- MDM, Follow-up emails on Pool Party use of Databricks 
+	- MDG, Review Arun’s PDNA to MDG Options 1A and 1B 
+	- MDM, Research Single Registration Number 
+	- MDG, Resuming Wave 2 Attributes column search 
+
+09/24
+	- MDG, Expanding Wave 2 Attributes column search 
+	- MDG, Stand-up meeting 
+	- MDG, WS 01 All team meeting
+	- MDM, Status meeting 
+	- MDM, Ran SQL validation in test 
+	- MDG, Resuming Wave 2 Attributes 
+	
+09/25
+	- MDG, Expanding Wave 2 Attributes column search 
+	- MDG, Created task in Jira for 17x attributes downstream tables, sizes, data types, and sample values
+	- MDG, Daily stand-up meeting 
+	- MDM, Daily stand-up meeting
+	- MDM, Getting access to DataBricks erwin model 
+	- MDM, Create next steps for Pool Party 
+	- MDM, Incorporate Sana’s notes into Pool Party Question List 
+	- Misc, Did org health survey 
+
+09/26
+	- MDM, Ran manufacturing hierarchy validation SQL stage 
+	- MDM, Expand Q&A answer list with Sana 2nd feedback 
+	- MDM, RFC Call for I&I 
+	- MDM, Init tech spec for Medical Condition 
+	- MDG, Complete wave 2 column name trace, begin data type collection 
+
+09/29 (M) 
+	- Misc, Kick off extra run of CSOD data exporter job load to Test SNF 
+	- MDM, Update Jira task for prod deployment validation 
+	- Misc, Updates to local copy of CSOD shell scripts for test loads, adding Mradul as a recipient 
+	- MDG, Status update on Wave 2 attributes 
+	- MDG, Daily stand-up meeting 
+	- MDM, Daily Stand-Up 
+	- MDM, Recognize for Trina for approving Git merges, move with speed and decisiveness
+	- MDG, Read Chris’s feedback on DIEN demo 
+	- Misc, Write up Dinesh org guiding principles as text
+	- MDG, Transfer Field Level Deep dive attrib col trace data to XLS 
+	- MDG, Watch DIENs create in MDG demo 
+	- MDM, Init tech spec for SNF MEDL_COND
+	- MDM, Update comments for both DBX tech specs (med conditions and therapy definitions) 
+	- MDM, Jeremy and Heidi stopped by regarding Jeremy picking up curated layer work for Regulatory
+
+09/30
+	- MDM, Added UNSPSC to Source Ref table 
+	- MDM, Determine if ‘POOL’ source code is available for Pool Party
+	- MDM, Send email re: proposed use of ‘POOL’ for Pool Party 
+	- MDM, Daily stand-up meeting 
+	- MDM, Check tech specs for completeness, firm up use of ‘POOL’ as SOURCE_CD 
+	- MDM, Update Job-Info tab in tech spec for DBS CDH MEDL_COND
+	- Misc, Check CSOD for outstanding training 
+	- MDM, Meeting on Pool Party Databricks ingestion 
+	- MDM, Trace the lineage for batch_manage_ind in MATL_CP for Sana
+	- MDG, Init capture of data types and sizes for Wave 2 columns
+	- Admin, Dinesh meet and greet 
+
+10/01
+	- MDG, Expand field level deep dive with types and sizes 
+	- MDG, Daily stand-up meeting 
+	- MDM, Analysis on pricing hierarchies join issues
+	- MDM, Msg out to Kamlesh re: pricing hierarchy joins to MATL_CP
+	- MDM, Research pricing hierarchies 
+
+10/02
+	- MDM, Prep for pricing hierarchy meeting 
+	- MDM, Pricing hierarchy meeting 
+	- MDM, Post pricing hierarchy join guidance 
+	- MDG, Expanding wave 2 attribute sizes and data types 	
+	- Misc, Completed Workera assessment 1 for AI Essentials
+	- MDM, Discuss finance hierarchies under one-stream 
+	- MDM, Meeting Jeremy on hierarchies and product domain scope 
+	
+10/03
+	- Misc, Submit recovery runs for CSOD in non-prod (maint last night) 
+	- MDM, Finalize tech spec DBX CDH, REF Schema, THER_DEFINE
+	- MDM, Finalize tech spec SNF CDH, REF Schema, MEDL_COND
+	- MDM, Created tech spec SNF CDH, REF Schema, THER_DEFINE	
+
+10/06 (M) 
+	- MDM, Checked DFD into SharePoint 
+	- MDM, Added new ER diagram to Reference subject area in erwin DBX Review Model
+	- MDM, Checked Tech Specs into DIGIC SharePoint 
+	- MDG, Daily stand-up meeting 
+	- MDM, Adding DBX Medical Condition table to erwin 
+	- MDM, Daily stand-up meeting
+	- MDM, Adding DBX Therapy Definitions table to erwin 
+	- Misc, Telecon on PPeSource with Nancy, Arif and Michael 
+	- Misc, Early timesheet due to PTO rest of the week 
+	- Misc, Workstyles dashboard check, baseline before vaca	
+	- MDM, Adding Medical Conditions and Theapy Definitions tables to erwin Snowflake Review Model
+	- MDM, Meeting on Regulatory (MAR Report) 
+	- MDM, Resuming tech spec (fixed invalid class words, need to add to erwin too) 
+
+10/07 - 10/10 
+	{No Activity, SF Vaca for Engagement Party} 
+
+10/13 (M)
+	- MDM, Clear emails from PTO last week 
+	- MDG, Daily Stand-up meeting 
+	- MDM, Reviewing various Q&A emails re: Pool Party 
+	- MDM, Daily Stand-up meeting 
+	- MDM, Pool Party DBX Tech Meeting 
+	- MDM, Meeting on MAR tables/views categorization as Product vs Regulatory
+	- MDG, Add data types and sizes to last six columns for Wave 2 
+	- MDM, Q&A w/ Jeremy on progress on getting developer questions answered 
+	- MDG, Create SQL for pulling sample values and unit test it
+	- MDG, Trace data for Ben, Commodity Group Code
+	- Misc, Coursera 
+
+10/14
+	- MDG, Review info from Heidi for PIM and MDG meeting next week 
+	- MDM, Prep for status meeting 
+	- MDM, Daily stand-up meeting 
+	- MDM, Make list of Pool Party objects to be built requested by Perry
+	- MDM, erwin update, restore tables stepped on in erwin model
+	- Admin, EA Tech Talk on AI Automation through Agents	
+	- MDM, Q&A with Jeremy on meeting re: Rosa PowerBI access to REF schema
+	- MDG, Analysis on Commodity Group Code for Ben 
+	- Misc, Coursera 
+
+10/15
+	- MDG, Research downstream from MARA (instead of MATL_CP) in Atlan for Ben
+	- MDG, Daily stand-up meeting 
+	- MDM, Check SOP for potential updates due to Manufacturing Hierarchy addition
+	- MDM, Daily Stand-up meeting 
+	- Misc, sent Bill Training Plan info as requested 
+	- MDM, Meeting on Pool Party API 
+	- MDM, Meeting on consumption of Pool Party Data by UDH DB (global regions DB) 
+	- MDG, Product Project Review Meeting w/ PM 
+	- MDM, Fix primary key tag in THER_DEFINE table
+	- MDM, Update col names in both DBX and SNF erwin models 
+	- MDM, Reran curation automation 
+
+10/16
+	- MDM, Review info provided from Pool Party vendor
+	- MDG, Expand Commodity Group Code Trace
+	- MDG, Daily Stand-up meeting
+	- Admin, Cornerstone Cybersec training 	
+	- MDM, Check in updated architecture and DFD with PoolParty table names
+	- MDM, Prepare curation review package 
+	- Admin, Snowflake office hours 	
+	- Misc, Listened to replay of Sriram’s townhall
+	- Misc, Update goals document 
+	- MDM, Update SOP and prepare message for KT to support 
+
+10/17
+	- MDG, Add sample values to Wave 2 attributes spreadsheet 
+	- MDG, Capture screenshots for tables unavailable (missing parquet file)
+	- MDM, Prep message for KT transfer to support 
+	- MDM, Updated deployment history with most recent RFCs and descriptions 
+	- MDG, Expand MARA.MATKL downstream XLS 
+	- MDG, Researching additional field for Ben, FDH.GSM.GSM_RULE_DATA.UPD_VAL
+	- MDM, Q&A w/ Heidi about additional Hierarchy 
+
+10/20 (M) 
+	- MDG, Daily Stand-up meeting
+	- MDG, AWS issue blocking analysis on additional field for Ben, FDH.GSM.GSM_RULE_DATA.UPD_VAL
+	- MDM, Daily stand-up meeting 
+
+
+
+:D0 
+******************	
+> In-Progress:  
+!!	Priorities:
+	- Priorities: MDM-PoolParty for Nov Deployment; MDG-Commodity Grp CD trace, PDNA Wave 2, Hist/Inactive Material
+		MDG My Plan, lean into available to help/adjust when the question comes (vs task inven.)
+
+	- MDG, MDG vs PIM meeting {c: M 2p} Bill Todd form SAP will give us an overview 
+	- MDG, Analysis on additional table prod_FDH_db.GSM.GSM_RULE_DATA from Ben's EMail 20251017-1115
+	- MDG, Determine if Commodity Group Code Trace is complete, See [MARA View - Col MATKL Downstream.xlsx]
+	- MDG, Find a spot to store Wave 2 attribs XLS [Wave 2 Attribs Target Tables Types and Sample Vals.xlsx]
+	- MDG, Ed, Watch replay of Oscar's presentation from prev All team meeting 
+	- MDT, Ed, Watch MDG demos rob shared (Saved Teams message 10/1) 
+
+21	- MDM, Curation review meeting is scheduled for Tuesday 
+20	- MDM, Check with Sid about hierarchy source for table G_ALT_MATL_HRCHY (source=GSP)
+	- MDM, Ed, LU DBX table sample from laxmipriya (saved IM 20251014-0151)
+	- MDM, Ed, Analysis on why MATL_HRCHY_RPH_CP count vs count(distinct hrchy_key) gives +/-1 count. Dupe key? 
+	
+	- Admin, Visit benefits.medtronic.com for additional information on Open Enrollment.
+	- Admin, make note; records information management retention policy at https://medtronic.sharepoint.com/sites/RIM
+	
+	- Misc, Review MDT---Setup-Windows-ODBC-to-Snowflake-with-Key-pair---How-to-Guide---v0.3--1-.pdf in ~/Downloads 1020
+	- Misc, Make tasks from EMails tagged as Review 1020
+		
+	> Hours Target for Fri (but first, actually look at priorities above) 
+		- Billable Hours Target 32 (was 22-25 until 10/13)
+		Plan MDM 3.5, MDG 4, PPE 0, Admin 0.5, ATB 0
+		
+		
+
+> NEXT: 
+(Should be able to tell what is recently completed, current proj status, what's in progress, what's coming)
+
+:MISC
+	> Scraps w/out a home (yet) 
+	- Get access to https://gitlab.com/medtronic/global-data-analytics-automation/core/core-idh
+	- Admin, Eval Summer Cyber Camp for goals expansion 
+	- Ed, check for grants in yml MATL_RFI 
+	- Ed, Clean up SNF Worksheet [MDM MATL Prod - Scratch]
+	- Ed, Make a PROD_FDH_DB Schema List (and IDH, and check for access to FIC in FDH)
+	- Ed, Note additions to [Deploy Notes CHG0336979 DBT MATL_PIM.txt] in template version  
+	- MDM, prework, come up with options for DQ checks (hold for status until have some findings) 
+	- Admin, find out how to get rid of VDI 
+
+
+:MDG
+	- MDG S4 Pre-project  
+		N-- WBS use 037936.102 (bad one was 037936.100, old for FY25 was 035343.100)
+		N-- Initial info from Bill; more stategic, about sources clean-up, is a pre-s4 project, w/ Corey as Sol Arch (at Heidi/Erica level) 
+		N-- WS01 (MDG & Data Rationalization) & WS02 (Business Partner Conversion & MDG Impl) 
+
+	/-- pDNA Wave 2 (m/b misnamed, could've meant Integration 2.0)
+		N-- Heather request email 20250825-2023 
+		N-- Jira story is https://mdtmdm.atlassian.net/browse/MDG-376
+		N--   Jira TASK for 17 Wave 2 attrib tracing: https://mdtmdm.atlassian.net/browse/MDG-479 
+		N-- Notes in [~\I. Issues\pDNA Wave 2\pDNA Wave 2.txt]
+		/-- Check Field Level Deep Dive for attributes that require follow-up for wave 2 
+			N-- Fields Level Deep Dive XLS, Column O on the Alpha tab, some attribs to be discussed further, 
+			N-- Per Heidi, this is some of the follow-up we’ll need the project team to action on
+			X-- Review Amy's message in Teams Channel for Field Level Deep Dive XLS 
+			X-- pDNA Wave 2, Column O on the Alpha tab, get distinct LoV
+			/-- Expand [~\I. Issues\pDNA Wave 2\Wave 2 Attributes Question List 20250917.txt]
+				X-- Identify target fields, these (m/b all) aren't new to ECC, ID where they are already going (m/b IDD has it?)
+				X-- Copy content into XLS, saved as [Wave 2 Attribs Tracing.xlsx]
+				X-- Expand w/ types and sizes 
+				X-- Add col for sample values
+				.-- Populate Sample Values 
+			.-- m/b question out to team which values mean "needs follow up" 
+			
+	/-- Data Model for Historical Inactive Material (Inactive vs Active Material)
+		N-- See notes in [~\I. Issues\Historical Inactive Material\MDG Historical Material - POA.txt]
+		N-- Jira story is: https://mdtmdm.atlassian.net/browse/MDG-375
+		N-- Also referred to as "Model for comprehensive search and reserve tool" 
+		N--  S4 Pre-Projects Workstream 4B: Data Lifecycle Management Weekly Status  And the PM is:  Sullivan Teele, Amy
+			N-- From convo w/ Meg on 8/26 (see IM) 
+			N-- Meeting w/ DPAS DAs on data retention strategy in DIH/SNF 
+		X-- Topic 1: GTINs in Phase Out status (some w/out inventory)			
+		X-- Topic 4: Data model options; active and inactive separate, vs jumbo master
+			X-- Create high level model showing inactive stopping before curation
+			X-- Get Corey's feedback on separate inactive tables vs 'jumbo master'
+		.-- Ed, check for access to tables listed in [BP_Product_in_MDG High Level Data Model.docx] (Goal - know product Data Model in SAP)
+			.-- This could be the table list for hist/archive tables 
+		.-- Topic 2: Downstream consumption of Product data
+			N-- See [Inactive vs Active Data Model - POA.txt], top level here for estimating then can be removed 
+			X-- Create a high level 'reference' flow that shows how material moves from SAP to SNF 
+			.-- Create diagram similar to Corey's showing data feeds out of both MDG and SAP to SNF
+				.-- See if this is done, compare to task list in POA 
+			.-- Ed, Copy Dev plan for Inactive from dice plan in gmail 
+		.-- Topic 3: Retention Periods in DIH
+			.-- Ask Meg if there is an official statement about this
+			.-- Check SharePoint for Data Retention rules
+		.-- Expand functional spec shell for historical/inactive material in SNF / Digital Core 
+		.-- Flesh out and share proposed dev plan 	
+			N-- See [~\I. Issues\Historical Inactive Material\Dev plan for Historical Inactive Material.txt]
+			N-- Store in MDG (S4Journey) General / S4 Pre-Projects / 01 Master Data - Gov & Data Rational... / 02 Product / 04 Design  https://medtronic.sharepoint.com/:f:/r/sites/S4FinanceFirst/Shared%20Documents/General/S4%20Pre-Projects/01%20Master%20Data%20-%20Governance%20%26%20Data%20Rationalization/02%20Product/04%20Design?csf=1&web=1&e=xgGXUT
+			.-- Flesh out Inactive/Archive tables diagram with detailed version showing specific table names (start w/ material related) 
+
+	/-- MDG and PIM 
+		X-- Screenshots/Slides saved to ~\I. Issues\PIM and MDG
+			X-- Review sides Heidi included in meeting invite (notes saved in [S1 - PIM and MDG.txt]) 
+20		.-- Participate in meeting on MDG and PIM (sched for 10/20 2p)
+
+	/-- Commodity Group Code Trace / Lineage for Ben 
+		N-- See notes in ~\Commodity Group Code Trace\Commodity Group Code Trace 20251013.txt
+		.-- Analysis on additional table prod_FDH_db.GSM.GSM_RULE_DATA from Ben's EMail 20251017-1115
+
+	/-- BPD review (from Arun) 
+		X-- Review Arun BPD when it is sent by Arun 
+		.-- Recheck for October additions (~10/15)
+		.-- Ask/Suggest where to include Wave 2 attributes data (fields, sizes, types, samples)
+		
+	.-- Ed, Review Docs From Heidi XLS [S4 MDG Prework Plan - 2025-03-07.xls]
+		.-- Data model Review	Current state data model 
+			Inventory of classification attributes
+			Inventory of use of classification attributes
+			Types by master data domain and counts/use for each - example material types, customer types, etc
+			Review future state data model
+			Gap analysis between current data model and future state
+		.-- Product Domain tab 
+			Each data field - Understand where is comes from, who owns it and the process behind it
+			Current state data model - Deep dive in to classifications
+			Financial Hiearchy detail - Process and assignment
+			RPH Detail - Process and assignment
+			Pricing hiearchy - process and assignment
+
+	.-- Misc task ideas 
+		.-- Review RAID Log
+		.-- Refine task "Work w/ Team on how Key Mapping works in DIH (per Heidi)", make Issue 'Key Mapping' 
+		.-- Ed, Expand data dictionary data model in [~\Q. QA and Validation\SAP Data Dictionary Joins.drawio]
+		.-- Ed, Add diagram of attribute flow for Customer attribs to [~\I. Issues\Characteristic Mapping\Material Attribute Data Flow.drawio]
+		.-- Research if there is some type of duplication indicator flag in the MDG data model (per discussion with SME Josh on Customer)	
+		.-- Read SAP MDG Doco https://help.sap.com/docs/SAP_ERP/de1b9c94c8594d6f94fe66ae423d5d70/7729ad50e6542f3ce10000000a44538d.html
+
+
+:MDM 
+	- MDM Product Master Data Product 
+		N-- WBS 035954.100 
+		N-- Kafka DA assigned to Pod is pronounced "Ashoot" "Paudel, Achyut [VPE]" <achyut.paudel@medtronic.com>
+		N-- https://gitlab.com/medtronic/global-data-analytis-automation/core/core-cdh
+
+	/-- Manufacturing Hiearchy, new addition of a hiearchy **Prod Target Sept 2025** [PMDD-1369]
+		N-- See POA in [~\I. Issues\Manufacturing Hiearchy\Manuf Hierarchy - POA.txt]
+		N-- Functional Spec in MDM SharePoint / Product Hierarchies / Product Hierarchy Functional Specification.docx
+		N-- Sana updated the FS with manufacturing hierarchy data. 
+		N-- RFC Numbers CHG0367547 (DBT) & CHG0367535 (Airflow)
+		/-- Post deployment activities for Manuf Hierarchy
+			N-- https://mdtmdm.atlassian.net/browse/PMDD-1180
+			X-- Write mod to support SOP (mod diagrams in SOP to note hierarchy addition)
+:Y0			/-- Create erwin merge to non-prod and prod models worksheet 
+				.-- Send to Lucas [202509 Erwin Merge to Prod Models - Sept PAM Deployment.xlsx]
+			.-- Schedule KT for Support (if desired) 
+
+	.-- Additional 'alternative hierarchy' Analysis 
+		N-- From IM from Heidi on 10/17
+20		.-- Check with Sid about hierarchy source for table G_ALT_MATL_HRCHY (source=GSP)
+
+	/-- Pool Party 
+		N-- (Krishna Explanation of who will consume this data) These CDH objects will be consumed by the PAA solution built on the Global region Snowflake (UDH). Currently, they rely on manual file uploads into GR RDH/FDH, but will transition to our curated objects once they become available.
+		N-- Jira Story https://mdtmdm.atlassian.net/browse/PMDD-1402
+		N-- ETL Dev from Jeremy's Pod: Bhujabal, Suryanarayan <suryanarayan.bhujabal@medtronic.com>
+		N-- Lead DA for Reference Data Schema: Ravula, Sai Abhyudhay Reddy <saiabhyudhayreddy.ravula@medtronic.com> (per Meg EMail 20251006-1424)
+			N-- Also loop in Kevan Ball per Krishna message, he's the Solution Architect for MDM (20251006-1459)
+		N-- Pool Party technical contact: alexis.dimitriadis@graphwise.ai
+		N-- Databricks notebooks will be developed to ingest from API 
+			N-- Krishna noted this is similar to how Eloqua data was pulled via API (Laxmipriya as POC for tech KT)
+		/-- Prepare Curation Review Package
+			X-- erwin output 
+			X-- Invitees; Sai, Kevan, Meg or Trina 
+21			.-- Curation review meeting {c: T 11a}
+
+	.-- Data Quality Framework Checks [PMDD-208]
+		N-- See doc downloaded to ~/R. Ref.../Playbooks...
+		N-- DPAS concern is to make sure the pipeline is working (also SLAs if applicable) 
+		N-- SNF / Projects / Streamlit app DQ_TEST_CONFIG_APP (let welcome page load before navigating to left nav items)
+		N-- Get info on if email notif is required (to airflow, goes to BI support) and if so, must be in SoP 
+		X-- Research in Dev Playbook (m/b Architecture Playbook) 
+		.-- MDM, Ed, Make a DQ Checks Issues folder and POA 
+		.-- Research info on how to apply them in playbooks and DIGIC repo 
+		.-- Ask Trina for a 30 minute meeting to demo how these have been done for another project 
+		.-- Add DQ checks to:
+			.-- MATL_PIM 
+			.-- MATL_UOM_CP 
+			.-- MATL_RFI (view) 
+			.-- MATL_TRANS_UDI (view)
+			.-- STOR_HDL_TRANS_UDI (view)
+		
+	/-- Ed, DBT local setup 
+		N-- SSH Keys saved in C:\Users\sorenp3\OneDrive - Medtronic PLC\Live\pmsoren\_PT\SSHKeys_MDT
+		.-- At step 22 in local setup instructions 
+
+	.-- [Reference] High Level Architecture support 
+		N-- Assets to share:
+			.-- DIGIC Data Platforms High-level Architecture.pdf, the "What", Current and future state of sources -> DIH -> SNF 
+			.-- DIGIC Design flow and tasks.pdf, the "How part 1", Describes how work gets done
+			.-- Snowflake-Data-Integration-Transformation-Standard-Tools.pdf, the "How part 2", Describes core technologies
+			.-- DIGIC Architecture with SDH CDH FDH breakout.png, the "What" more detailed view 
+			N-- Common Data Framework Definition
+					The CDF is an enterprise-wide approach that categorizes all data into logical groups (Data Domains and Sub-domains) 
+					based on key business concepts such as Patient, Product, Sales, etc. It is used across teams, projects, and systems 
+					to provide a common view of all Medtronic data.
+
+:GCH 
+	N-- WBS 036677.100
+	X-- GCH, Propose groups of attributes into 3 stories: 
+			N-- existing 7 Attribs for GCH (#?), 
+			N-- add Story for "Attribs available in XDS_MAIN", 
+			N-- add Story for "Attribs w/ no/unknown source"
+	/-- 7 Attribs for GCH, generate proposed SQL [PMDD-1149]
+		N-- Perry Renamed PMDD-1149 to Release 4: GCH NextGen Original Set of Attributes
+		/-- Jira tasks on story PMDD-1149, https://mdtmdm.atlassian.net/browse/PMDD-1149
+			/-- PMDD-1221 Analytic support for source of 7 attribs in existing strategic schemas 
+			.-- PMDD-1151 Create/Update erwin 
+			.-- PMDD-1153 Create/Update tech specs 
+			.-- PMDD-1152 Present design and get approvals 
+			.-- PMDD-1150 Hand-off and walk-through w/ devs 
+		C-- Get definitive list of what requires building (vs what is procedural instructions & documentation) 
+		X-- US FDA Approval status message from Sana, mark attrib at hold (m/b move to no plan story) 20250909-2136
+	
+:TECHTRAIN
+	N-- Tech Training from MDT Coursera/Workera Training program 
+	N-- https://degreed.com/plan/3645267?orgsso=medtronic&tltag=c16df190-e835-4ffc-a58f-78f12df3f790
+	N-- Proposed topics (priority order): 
+		N-- Technical, AI Fundamentals & Operating AI - AI Essentals, Gen AI, Responsible AI, Deep Learning, Gov & Integrations 
+		N-- Technical, Enterprise IT & Architecture - Languages, Platforms, Libs, Frameworks, Infra & Cloud Computing 
+		N-- Technical, Cybersec & Privacy (a MDT Goal) - Pen testing, Digital Forensics, Network Sec, Cybersec & Privacy 
+		N-- Interpresonal, Innovation - Product Mgmt, Experience Design & Proj Mgmt 
+		N-- Technical, Advanced AI Modelling - Comp Vision, NLP, Speech Rec, Large Vision Models, Sec & Agentic AI 
+		N-- Technical, Data Sci & Analytics - Statistical Thinking, Data Gov., engineering, & mining, Biz Analytics & ML 
+		/-- Do Assessment for AI Fundamentals 
+		
+		
+
+
+
+
+============= BOTTOM OF LIVE LIST ==============
+
+:GenAI
+	- Admin, Bill's Team GenAI Initiatives  
+		N-- See [~\GenAIHyperAuto\POA - GenAIHyperAuto.txt]
+		N-- EMails moved to Outlook folder [Projects/AI Initiatives (Bill's Team)] 
+		X-- Make doc for AI training POA from Bill's email (email 20240708-0807)
+		X-- File GenAI training docs (from ~/Downloads -> GenAIHyperAuto folder) 
+		.-- Review additional content from Bill (email 20240715-1037)
+		.-- Review PPT list of projects from Bill (email 20240729-1050)
+		.-- Add GenAI related tech (plus atlan) to Goals worksheet as future milestone entries and WSR as ToDo tech 
+		
+
+:PPE 
+	N-- Up to WBS 034400.100 RtM (MDT & Contingent Tech SMEs)
+	X-- Relaunch loads after schema copy down and PK fix for PERF_DEVICE
+		N-- Notes in ~\I. Issues\Nov2024 Data Loads\PPE Job Runs in TEST 20241202.txt
+	X-- Monitor job run OPS_PERF_993_OND
+		N-- Complete 
+	N-- Last status EMail 20241203-0944, expect future job run requests 
+	- Request for PPeSource v5-8, Sec 10.14 in Functional Spec 
+		N-- Prework SQL in [Analysis - PERF_GENERATOR_BATTERY SourceQual Update.sql]
+		N-- Tech spec for m_LOAD_PERF_ACUTE_OBSERVATION (done previously) shows 'NULL as document_key' in sourcequal
+			  in a 'wrapper' select statement.  See tech spec at: ~\E. ETL\TechSpecs\Phase 2\Perf_Acute_Observation_STT.xlsx
+		X-- Research to validate the request, be able to see the problem  
+		X-- Review proposed solution, see if it actually fixes the problem 
+		X-- Check with Bill P, is this still in our area? 
+			N-- Do we use Naraj(sp?) for the Informatica PowerCenter work 
+		.-- Get / Validate WBS from Daniel (Must be done before next publish in Oct/Nov 
+
+
+:DIGIC 
+	- DIGIC Landscape Working Session 
+		N-- Notes in ~\_Cross Projects\1. Architecture and Platform\DIGIC Landscape\DIGIC Landscape Working Session 20231114.txt
+		N-- Topics I'm signed up for (3 of 25): 
+			N-- Architecture/Development playbook(s) 
+				N-- Task Category = Architecture
+				N-- Next Steps: Small working group to create either one architecture playbook and one development playbook, or a combination playbook.
+			N-- Snowflake compute costs / cloud cost structure (Difficult to predict costs, warehouse sizing and efficiency education needed)
+				N-- Task Category = Cost
+				N-- Next Steps: Cost management strategy, Benchmarking, Cost monitoring and optimization tools, estimation, Development and testing options for cost optimization
+			N-- Well-established cost structure (compute chargeback model) supported by the highest levels of leadership.
+				N-- Task Category = Cost 
+				N-- Next Steps: Establish a roadmap/timeline to get to a final chargeback model, Create the necessary documentation 
+		X-- Working session (4h) on 11/14
+		X-- Participate in Architecture Initiatives group (Lead is Trina) 
+		X-- Participate in Cost Initiatives group (Lead is Asha) 
+
+
+	
+
+> First day setup notes 
+	Employee number (Badge Number) 420965  Start Date: 12/10/2018
+	End Date (from Field Glass on 8/16/2019) 10/30/2020
+	Security questions setup and saved to ~/Clients/MDT/R. Reference...
+	Vend-Conn through 1/31
+		UID: paul.sorenson@daugherty.com2 (note 2 suffix), eOOVWa 
+		To Reconfigure, https://getguestinet login w/ MDT creds, create account
+
+	

@@ -13,28 +13,28 @@ Today's Scratch
 	MDT
 		o MDM, Recurring stand-up meetings {c: M-R}
 		o MDG, Recurring stand-up meetings {c: M, W, R} 
-		o Admin, EA Tech Talk {c: T} 
-		o CSOD, Tech Qs from Mradul {c: T}
+		o MDG, MDG vs PIM meeting {c: M}
+		o MDM, Curation review for Pool Party {c: T} 
 		o MDG, Product Proj Review w/ PM {c: T}
-		o Admin, Snowflake Office Hours {c: R} 
+		o MDG, Workstream 1 All Team Mtg {c: W} 
+		o MDM, MAR Regulatory Mtg {c: R} 
 		o Admin, 1:1 w/ Bill {c: R} 
-		o Admin, Benefits Enroll Office Hours {c: R}
 
 
 - PWP notes  
 	Audio / Reading
-		o Brown, Secret (678p, to 64%, +32%)
-		o S King, On Writing (305p, to 48%, +0%)
+		o Brown, Secret (678p, to 87%, +23%)
+		o S King, On Writing (305p, to 49%, +1%)
 
 	Home Improvement
 		o Vac Basement 
 		o Mow weekly
-		o Create “ladder leveler” for steps 
 		o Use rear gutter cleaner to clear clog
+		o Paint Hall Wall 
 
 	Exercise / Health 
-		o Planet Fitness (Oct 0x, +0)
-		o 2025 Goal 12 visits (7 done)
+		o Planet Fitness (Oct 1x, +1)
+		o 2025 Goal 12 visits (8 done)
 
 	Finances
 		o Q! Updates
@@ -42,14 +42,14 @@ Today's Scratch
 	SPSW / Career Development
 		o The File Engine (tfe) run weekly (Wed 1337)
 		o Python, project progress through GT
+		o Read/Work LLM book
 		o Workera assessments and Coursera
 
 	Miscellaneous / Ent
 		o Chess improvement (Rapid 536/138x, +0/+0)
 		o 2025 Chess Goal 1, Rapid Game Count to 155
-		o Ch Puzz (1476r/6175p, -180r/+445p)
-		o Steps, Apple Health (83328 10/06 to 10/12)
-
+		o Ch Puzz (1455r/6550p, -21r/+375p)
+		o Steps, Apple Health (104979 10/13 to 10/19)
 
 
 Holidays and Vaction
@@ -288,8 +288,7 @@ As a technologist I support the management, optimization, and troubleshooting of
 Ed: Personal POA - how to bridge traditional BI to modern architecture  
 	 	 	 	 	 	 	 	 	 	 	   ************************************************************
 > *** Today - Week is a Marathon not a sprint. ************************************************************
-Today (started with 13, +1) 
-	- LLM book (at least read it, incl. weekend progress) 0402
+Today (started with 9, -4) 
 	- Read about Data Mesh https://www.getdbt.com/blog/the-components-of-a-data-mesh-architecture 0430
 	- Vita, Check for a complex problem and how it was solved from this week's work 0505
 	- Do more updates to Linked In Interests (add Git with CI/CD, DBT?, Informatica, and ShellScripting? (was quoted on a posting) Bump 0925 0604
@@ -298,6 +297,11 @@ Today (started with 13, +1)
 	- Window-Swap.com (mazer @ yahoo) 0728
 	- BulJo, Backfill June+ Month Logs (~12min each, s/b 1 per week 'til caught up) 0924
 	- Run MDT TFE weekly by 1:37pm 0924
+!	- Archive Sept Logs / WSRs / TS XLSs 1014
+
+	Store UI Path Options in patforms folder (m/b extensions option?) 
+		https://labs.uipath.com/
+		https://playground.uipath.com/solutions/intro
 
 	> One a day
 	6 min browse Data Products; https://martinfowler.com/articles/designing-data-products.html (is it relevant enough to become a task) 
@@ -336,25 +340,18 @@ Today (started with 13, +1)
 	OHS Scorecard info in ~/Downloads, ref for doing survey 
 	Prabhu Periasamy talked to many of the slides, LU 
 
-Create iTasks for this week:
-○	Create "ladder leveler" for steps 
-○	Use rear gutter cleaner to clear clog
+AH: Buddy gets exercise and I do more daytime desktime, c/b win/win 
+AH: Most of my career I've been spoiled; It was clear to me how to maintain/grow.  Now very much not that.
 
-AH: Vaca as process changer, or just refresh to resume processes 
-AH: Procrast as way to feel like doing something 
-
-put acronyms MDT in xfr folder 
 LU Or cyber-thriller, or 9/11 noir. Maxine Tarnow, the Manhattan mom at the center of BLEEDING EDGE (2013), works as a fraud investigator and might be Pynchon’s most franchisable detective 
 liminal space - exists between "what was" and "what's next," evoking a feeling of ambiguity, nostalgia, and often unease.
 
 
 5y journal today (if sub needed, use this week's best ah-hah)
-Q: 
-(Sun) What do you want more of in your life? 
-	A: Peace and acceptance of where I'm at with projects (work and home).
-(Mon) What do you want less of in your life? 
-	A: Anxiety, stress, dwelling on uncertainty.
-(Post these, draft saved)
+Q: What do you sometimes pretend to understand that you don't
+A: 
+
+
 
 Best 5y question and answer so far: 
 Question Swap: What is something you can do this month to improve your prospects for the future? 
@@ -622,17 +619,15 @@ See [~\pmsoren\_PT\Process Notes\Process Note - Password Changes 20250403.txt]
 
 
 :M0
-1013 49F
-Trump in Egypt re: talks about cease fire in Gaza 
-Isr releasing 1700+ as part of deal 
-1000s of fed workers got layoff notices, some already walked back (IRS, Ed, HUD, HHS, CDC reversals)
-dj+417, nasdaq+324
+1020 51F 
+Trump Admin tariffs on Columbia, boat attacks 
+Ru/Ukr, Trump says best way is carve up Donbas(sp?), PM Zelinsky says wouldn't prevent future attacks 
+Trump suggested SF maybe next city for guard troops, using insurection act 
+dj (not quoted) 
 (local) 
-Fed Govt shutdown nearing 3rd week, MSP travel up this week for MEA 
-Tax credits for home solar going away at EoY, Biz booming 
-Spotty showers brought rain, more this week in Southern MN
-Crossby fire still burning up north 
-
+Brooklyn Park, 2 arrested this morning after shots fired, started last night on Laramie Tr 
+Fire damaged Farm Eq factory in Polk County, under investigation 
+Curling competition on iron range, international event 
 
 
 > M Factors 
@@ -799,10 +794,14 @@ Crossby fire still burning up north
 	09/22	-1.75		431.0		Prev used 
 	09/29	-1			430			Overages less prev used 
 	10/06	-0.25		429.75		Prev used (4d PTO this week) 
-	10/13	
+	10/13	-2			427.75		Prev used + EoW burndown charge 
 	10/20
 	10/27
 	11/03
+	11/10
+	11/17
+	11/24
+	12/01
 :H0
 
 
@@ -940,6 +939,11 @@ Crossby fire still burning up north
 		(-0.25h from prev overages on 10/2)
 		(-2h from prev overages on 10/3)
 		(-0.25h from prev overages on 10/6) 
+		(-0.25h from prev overages on 10/13)
+		(-0.25h from prev overages on 10/14)
+		(-0.25h from prev overages on 10/15) 
+		(-0.25h from prev overages on 10/16)
+		(-1.0h from prev overages on 10/17)
 
 
 	

@@ -1,0 +1,617 @@
+﻿
+
+    Directory: C:\Users\sorenp3\OneDrive - Medtronic PLC\Live\pmsoren\_AE
+
+
+Mode                 LastWriteTime         Length Name                                                                                                                                                                                                                                                     
+----                 -------------         ------ ----                                                                                                                                                                                                                                                     
+d----l        10/22/2025   1:22 PM                Activity Logs                                                                                                                                                                                                                                            
+
+
+    Directory: C:\Users\sorenp3\OneDrive - Medtronic PLC\Live\pmsoren\_AE\Activity Logs
+
+
+Mode                 LastWriteTime         Length Name                                                                                                                                                                                                                                                     
+----                 -------------         ------ ----                                                                                                                                                                                                                                                     
+d----l        10/20/2025  12:32 PM                Archives                                                                                                                                                                                                                                                 
+d----l        10/22/2025   7:13 AM                Timesheets                                                                                                                                                                                                                                               
+d----l        10/20/2025  12:35 PM                Weekly Status Reports                                                                                                                                                                                                                                    
+-a---l        10/16/2025   7:19 AM         247281 log1015.docx                                                                                                                                                                                                                                             
+-a---l        10/16/2025   3:29 PM         247384 log1016.docx                                                                                                                                                                                                                                             
+-a---l        10/17/2025   3:45 PM         247147 log1017.docx                                                                                                                                                                                                                                             
+-a---l        10/21/2025   7:15 AM         247635 log1020.docx                                                                                                                                                                                                                                             
+-a---l        10/21/2025   2:52 PM         247697 log1021.docx                                                                                                                                                                                                                                             
+-a----        10/22/2025   1:22 PM         247330 log1022.docx                                                                                                                                                                                                                                             
+
+
+    Directory: C:\Users\sorenp3\OneDrive - Medtronic PLC\Live\pmsoren\_AE\Activity Logs\Archives
+
+
+Mode                 LastWriteTime         Length Name                                                                                                                                                                                                                                                     
+----                 -------------         ------ ----                                                                                                                                                                                                                                                     
+-a---l        10/20/2025  12:32 PM        4764849 Activity Logs 202509.zip                                                                                                                                                                                                                                 
+
+
+    Directory: C:\Users\sorenp3\OneDrive - Medtronic PLC\Live\pmsoren\_AE\Activity Logs\Timesheets
+
+
+Mode                 LastWriteTime         Length Name                                                                                                                                                                                                                                                     
+----                 -------------         ------ ----                                                                                                                                                                                                                                                     
+d----l        10/20/2025  12:34 PM                Archives                                                                                                                                                                                                                                                 
+-a---l        10/17/2025   9:09 AM         113063 MDT PTTS Timesheet 20251017.pdf                                                                                                                                                                                                                          
+-a---l        10/20/2025  10:49 AM         113791 MDT PTTS Timesheet 20251024 Projected.pdf                                                                                                                                                                                                                
+-a---l        10/20/2025   7:17 AM          16516 Timesheet 20251013.xlsx                                                                                                                                                                                                                                  
+-a---l        10/22/2025   7:13 AM          16521 Timesheet 20251020.xlsx                                                                                                                                                                                                                                  
+
+
+    Directory: C:\Users\sorenp3\OneDrive - Medtronic PLC\Live\pmsoren\_AE\Activity Logs\Timesheets\Archives
+
+
+Mode                 LastWriteTime         Length Name                                                                                                                                                                                                                                                     
+----                 -------------         ------ ----                                                                                                                                                                                                                                                     
+-a---l        10/20/2025  12:34 PM         368582 Timesheets 202509.zip                                                                                                                                                                                                                                    
+
+
+    Directory: C:\Users\sorenp3\OneDrive - Medtronic PLC\Live\pmsoren\_AE\Activity Logs\Weekly Status Reports
+
+
+Mode                 LastWriteTime         Length Name                                                                                                                                                                                                                                                     
+----                 -------------         ------ ----                                                                                                                                                                                                                                                     
+d----l        10/20/2025  12:35 PM                Archives                                                                                                                                                                                                                                                 
+-a---l        10/20/2025  10:38 AM          50160 Weekly Status - Sorenson - 20251020.docx                                                                                                                                                                                                                 
+
+
+    Directory: C:\Users\sorenp3\OneDrive - Medtronic PLC\Live\pmsoren\_AE\Activity Logs\Weekly Status Reports\Archives
+
+
+Mode                 LastWriteTime         Length Name                                                                                                                                                                                                                                                     
+----                 -------------         ------ ----                                                                                                                                                                                                                                                     
+-a---l        10/20/2025  12:35 PM         222929 Weekly Status Reports 202509.zip                                                                                                                                                                                                                         
+
+
+    Directory: C:\Users\sorenp3\OneDrive - Medtronic PLC\Live\pmsoren\_AE\Clients\MDT\MDG
+
+
+Mode                 LastWriteTime         Length Name                                                                                                                                                                                                                                                     
+----                 -------------         ------ ----                                                                                                                                                                                                                                                     
+dar--l        10/15/2025  11:56 AM                0. Scratch Notes                                                                                                                                                                                                                                         
+dar--l        10/15/2025  12:17 PM                1. Architecture and Platform                                                                                                                                                                                                                             
+dar--l        10/15/2025   1:04 PM                I. Issues                                                                                                                                                                                                                                                
+dar--l        10/15/2025  12:31 PM                P. Project Plan and Task Lists                                                                                                                                                                                                                           
+dar--l        10/15/2025  12:54 PM                R. Reference Doco                                                                                                                                                                                                                                        
+
+
+    Directory: C:\Users\sorenp3\OneDrive - Medtronic PLC\Live\pmsoren\_AE\Clients\MDT\MDG\0. Scratch Notes
+
+
+Mode                 LastWriteTime         Length Name                                                                                                                                                                                                                                                     
+----                 -------------         ------ ----                                                                                                                                                                                                                                                     
+-a---l        10/22/2025   8:40 AM          11722 MDG Stand Ups Product Ben 202510.txt                                                                                                                                                                                                                     
+-a---l        10/15/2025   1:17 PM           1049 Product Project Review 20251015.txt                                                                                                                                                                                                                      
+
+
+    Directory: C:\Users\sorenp3\OneDrive - Medtronic PLC\Live\pmsoren\_AE\Clients\MDT\MDG\1. Architecture and Platform
+
+
+Mode                 LastWriteTime         Length Name                                                                                                                                                                                                                                                     
+----                 -------------         ------ ----                                                                                                                                                                                                                                                     
+-a---l        10/15/2025  12:17 PM         137935 Sandbox Environments Draft 20251015.png                                                                                                                                                                                                                  
+
+
+    Directory: C:\Users\sorenp3\OneDrive - Medtronic PLC\Live\pmsoren\_AE\Clients\MDT\MDG\I. Issues
+
+
+Mode                 LastWriteTime         Length Name                                                                                                                                                                                                                                                     
+----                 -------------         ------ ----                                                                                                                                                                                                                                                     
+dar--l        10/22/2025  11:48 AM                Bundles                                                                                                                                                                                                                                                  
+d----l        10/17/2025   1:35 PM                Commodity Group Code Trace                                                                                                                                                                                                                               
+d----l        10/20/2025   8:09 AM                pDNA Wave 2                                                                                                                                                                                                                                              
+d----l        10/20/2025   2:07 PM                PIM and MDG                                                                                                                                                                                                                                              
+
+
+    Directory: C:\Users\sorenp3\OneDrive - Medtronic PLC\Live\pmsoren\_AE\Clients\MDT\MDG\I. Issues\Bundles
+
+
+Mode                 LastWriteTime         Length Name                                                                                                                                                                                                                                                     
+----                 -------------         ------ ----                                                                                                                                                                                                                                                     
+-a---l        10/22/2025  11:28 AM         140056 Bundle Setup Process Flow1 In-Country 032020 1.pdf                                                                                                                                                                                                       
+-a---l        10/15/2025   1:04 PM          64065 Bundles as a section of the project plan.png                                                                                                                                                                                                             
+-a---l        10/22/2025  11:52 AM           2586 Bundles Demo Meeting 20251022.txt                                                                                                                                                                                                                        
+-a---l        10/22/2025  11:48 AM          16498 Key details about bundle master data.docx                                                                                                                                                                                                                
+
+
+    Directory: C:\Users\sorenp3\OneDrive - Medtronic PLC\Live\pmsoren\_AE\Clients\MDT\MDG\I. Issues\Commodity Group Code Trace
+
+
+Mode                 LastWriteTime         Length Name                                                                                                                                                                                                                                                     
+----                 -------------         ------ ----                                                                                                                                                                                                                                                     
+-a---l        10/22/2025   1:38 PM           4610 Commodity Group Code Trace 20251013.txt                                                                                                                                                                                                                  
+-a---l        10/17/2025   1:35 PM          24927 MARA View - Col MATKL Downstream.xlsx                                                                                                                                                                                                                    
+-a---l        10/15/2025   7:36 AM         113926 MATL_CP - No Downstream for COMDTY_GRP_CD.png                                                                                                                                                                                                            
+-a---l        10/15/2025  12:43 PM          83316 RAID Log Item for Commodity Group Code Trace.png                                                                                                                                                                                                         
+
+
+    Directory: C:\Users\sorenp3\OneDrive - Medtronic PLC\Live\pmsoren\_AE\Clients\MDT\MDG\I. Issues\pDNA Wave 2
+
+
+Mode                 LastWriteTime         Length Name                                                                                                                                                                                                                                                     
+----                 -------------         ------ ----                                                                                                                                                                                                                                                     
+-a---l        10/17/2025   7:12 AM          32929 PROD PAM MATL_CMN Table Not Available 20251017.png                                                                                                                                                                                                       
+-a---l        10/17/2025   7:05 AM          34489 PROD SCSM VEND_CMN Table Not Available 20251017.png                                                                                                                                                                                                      
+-a---l        10/20/2025   8:09 AM          17989 Wave 2 Attribs Target Tables Types and Sample Vals.xlsx                                                                                                                                                                                                  
+
+
+    Directory: C:\Users\sorenp3\OneDrive - Medtronic PLC\Live\pmsoren\_AE\Clients\MDT\MDG\I. Issues\PIM and MDG
+
+
+Mode                 LastWriteTime         Length Name                                                                                                                                                                                                                                                     
+----                 -------------         ------ ----                                                                                                                                                                                                                                                     
+-a---l        10/20/2025   2:06 PM         637775 Building Blocks for SAP PIM.png                                                                                                                                                                                                                          
+-a---l        10/20/2025   3:06 PM           1325 MDG and PIM Meeting 20251020.txt                                                                                                                                                                                                                         
+
+
+    Directory: C:\Users\sorenp3\OneDrive - Medtronic PLC\Live\pmsoren\_AE\Clients\MDT\MDG\P. Project Plan and Task Lists
+
+
+Mode                 LastWriteTime         Length Name                                                                                                                                                                                                                                                     
+----                 -------------         ------ ----                                                                                                                                                                                                                                                     
+-a---l        10/15/2025  12:28 PM         305473 MDG Roadmap High Level Timeline 20251015.png                                                                                                                                                                                                             
+-a---l        10/15/2025  12:13 PM         139150 Path to Green - Very Draft 20251015.png                                                                                                                                                                                                                  
+-a---l        10/15/2025  12:31 PM         542530 Proj Plan - Requirements Section MDG Waves 20251015.png                                                                                                                                                                                                  
+-a---l        10/15/2025  12:24 PM         223432 Release Proposal Schedule 20251015.png                                                                                                                                                                                                                   
+
+
+    Directory: C:\Users\sorenp3\OneDrive - Medtronic PLC\Live\pmsoren\_AE\Clients\MDT\MDG\R. Reference Doco
+
+
+Mode                 LastWriteTime         Length Name                                                                                                                                                                                                                                                     
+----                 -------------         ------ ----                                                                                                                                                                                                                                                     
+-a---l        10/15/2025  12:54 PM         140056 Bundle Setup Process Flow1 In-Country 032020.pdf                                                                                                                                                                                                         
+
+
+    Directory: C:\Users\sorenp3\OneDrive - Medtronic PLC\Live\pmsoren\_AE\Clients\MDT\MDM Mat Product
+
+
+Mode                 LastWriteTime         Length Name                                                                                                                                                                                                                                                     
+----                 -------------         ------ ----                                                                                                                                                                                                                                                     
+da---l        10/21/2025   1:45 PM                2. Logical Data Model                                                                                                                                                                                                                                    
+da---l        10/22/2025   7:53 AM                E. ETL                                                                                                                                                                                                                                                   
+da---l        10/21/2025   7:54 AM                I. Issues                                                                                                                                                                                                                                                
+da---l        10/16/2025   3:03 PM                K. Knowledge Transfer and Training                                                                                                                                                                                                                       
+
+
+    Directory: C:\Users\sorenp3\OneDrive - Medtronic PLC\Live\pmsoren\_AE\Clients\MDT\MDM Mat Product\0. Scratch Notes
+
+
+Mode                 LastWriteTime         Length Name                                                                                                                                                                                                                                                     
+----                 -------------         ------ ----                                                                                                                                                                                                                                                     
+-a---l        10/22/2025   9:38 AM          77545 MDM Product Domain StandUps 202510.txt                                                                                                                                                                                                                   
+-a---l        10/22/2025   9:35 AM          47425 POA - MDM Master Product.txt                                                                                                                                                                                                                             
+
+
+    Directory: C:\Users\sorenp3\OneDrive - Medtronic PLC\Live\pmsoren\_AE\Clients\MDT\MDM Mat Product\2. Logical Data Model
+
+
+Mode                 LastWriteTime         Length Name                                                                                                                                                                                                                                                     
+----                 -------------         ------ ----                                                                                                                                                                                                                                                     
+-a---l        10/21/2025   1:45 PM         224259 Data Model - Enterprise Data Product.drawio                                                                                                                                                                                                              
+-a---l        10/21/2025   1:45 PM         278707 DFD - Enterprise Data Product.pdf                                                                                                                                                                                                                        
+-a---l        10/16/2025   3:01 PM          70552 PAM Data Model.png                                                                                                                                                                                                                                       
+
+
+    Directory: C:\Users\sorenp3\OneDrive - Medtronic PLC\Live\pmsoren\_AE\Clients\MDT\MDM Mat Product\D. Deployments and Release Notes
+
+
+Mode                 LastWriteTime         Length Name                                                                                                                                                                                                                                                     
+----                 -------------         ------ ----                                                                                                                                                                                                                                                     
+dar--l        10/20/2025   9:47 AM                202509 Manuf Hierarchy                                                                                                                                                                                                                                   
+-a---l        10/17/2025   8:58 AM           1815 Deployment History - Enterprise Data Product.txt                                                                                                                                                                                                         
+
+
+    Directory: C:\Users\sorenp3\OneDrive - Medtronic PLC\Live\pmsoren\_AE\Clients\MDT\MDM Mat Product\D. Deployments and Release Notes\202509 Manuf Hierarchy
+
+
+Mode                 LastWriteTime         Length Name                                                                                                                                                                                                                                                     
+----                 -------------         ------ ----                                                                                                                                                                                                                                                     
+-a---l        10/20/2025   9:47 AM          18566 202509 Erwin Merge to Prod Models - Sept PAM Deployment.xlsx                                                                                                                                                                                             
+
+
+    Directory: C:\Users\sorenp3\OneDrive - Medtronic PLC\Live\pmsoren\_AE\Clients\MDT\MDM Mat Product\E. ETL
+
+
+Mode                 LastWriteTime         Length Name                                                                                                                                                                                                                                                     
+----                 -------------         ------ ----                                                                                                                                                                                                                                                     
+-a---l        10/22/2025   7:53 AM          39564 MEDL_COND_POOL_DBX_CDH_STTM.xlsx                                                                                                                                                                                                                         
+-a---l        10/22/2025   7:52 AM          39147 MEDL_COND_POOL_SNF_CDH_STTM.xlsx                                                                                                                                                                                                                         
+-a---l        10/22/2025   7:53 AM          39797 THER_DEFINE_POOL_DBX_CDH_STTM.xlsx                                                                                                                                                                                                                       
+-a---l        10/22/2025   7:52 AM          39368 THER_DEFINE_POOL_SNF_CDH_STTM.xlsx                                                                                                                                                                                                                       
+
+
+    Directory: C:\Users\sorenp3\OneDrive - Medtronic PLC\Live\pmsoren\_AE\Clients\MDT\MDM Mat Product\I. Issues
+
+
+Mode                 LastWriteTime         Length Name                                                                                                                                                                                                                                                     
+----                 -------------         ------ ----                                                                                                                                                                                                                                                     
+dar--l        10/21/2025   7:54 AM                G_ALT_MATL_HRCHY Research                                                                                                                                                                                                                                
+d----l        10/22/2025   9:18 AM                PoolParty                                                                                                                                                                                                                                                
+
+
+    Directory: C:\Users\sorenp3\OneDrive - Medtronic PLC\Live\pmsoren\_AE\Clients\MDT\MDM Mat Product\I. Issues\PoolParty
+
+
+Mode                 LastWriteTime         Length Name                                                                                                                                                                                                                                                     
+----                 -------------         ------ ----                                                                                                                                                                                                                                                     
+dar--l        10/21/2025   2:37 PM                Artifacts                                                                                                                                                                                                                                                
+d----l        10/16/2025  10:33 AM                _Archive                                                                                                                                                                                                                                                 
+-a---l        10/21/2025   1:46 PM          54896 DFD - Pool Party Proposed Med Conditions and Therapies.pdf                                                                                                                                                                                               
+-a---l        10/16/2025   7:38 AM           3395 MDT PoolParty Vendor Tech Meeting 20251015.txt                                                                                                                                                                                                           
+-a---l        10/22/2025   9:18 AM         160034 OutputSample.json                                                                                                                                                                                                                                        
+-a---l        10/15/2025  11:10 AM             90 Pool Party Connection with PBI 20251015.txt                                                                                                                                                                                                              
+-a---l        10/21/2025   1:37 PM            654 Pool Party Tech Spec and Erwin Updates 20251021.txt                                                                                                                                                                                                      
+-a---l        10/21/2025   2:10 PM          11980 PoolParty DBX col_check_results.xlsx                                                                                                                                                                                                                     
+-a---l        10/21/2025   2:39 PM          12273 PoolParty SNF col_check_results.xlsx                                                                                                                                                                                                                     
+-a---l        10/22/2025   9:19 AM            885 poolpartytest.ps1                                                                                                                                                                                                                                        
+
+
+    Directory: C:\Users\sorenp3\OneDrive - Medtronic PLC\Live\pmsoren\_AE\Clients\MDT\MDM Mat Product\I. Issues\PoolParty\Artifacts
+
+
+Mode                 LastWriteTime         Length Name                                                                                                                                                                                                                                                     
+----                 -------------         ------ ----                                                                                                                                                                                                                                                     
+dar--l        10/21/2025   2:10 PM                PoolParty DBX artifacts 20251021                                                                                                                                                                                                                         
+dar--l        10/21/2025   2:37 PM                PoolParty SNF artifacts 20251021                                                                                                                                                                                                                         
+-a---l        10/21/2025  10:59 AM          12490 DBX CDH col_check_results.xlsx                                                                                                                                                                                                                           
+-a---l        10/15/2025   1:46 PM          72440 PoolParty DBX artifacts 20251015.zip                                                                                                                                                                                                                     
+-a---l        10/21/2025   2:08 PM          73243 PoolParty DBX artifacts 20251021.zip                                                                                                                                                                                                                     
+-a---l        10/15/2025   2:18 PM          72400 PoolParty SNF artifacts 20251015.zip                                                                                                                                                                                                                     
+-a---l        10/21/2025   2:36 PM          73104 PoolParty SNF artifacts 20251021.zip                                                                                                                                                                                                                     
+-a---l        10/21/2025  10:57 AM          12455 SNF CDH col_check_results.xlsx                                                                                                                                                                                                                           
+
+
+    Directory: C:\Users\sorenp3\OneDrive - Medtronic PLC\Live\pmsoren\_AE\Clients\MDT\MDM Mat Product\I. Issues\PoolParty\Artifacts\PoolParty DBX artifacts 20251021
+
+
+Mode                 LastWriteTime         Length Name                                                                                                                                                                                                                                                     
+----                 -------------         ------ ----                                                                                                                                                                                                                                                     
+dar--l        10/21/2025   2:10 PM                bin                                                                                                                                                                                                                                                      
+
+
+    Directory: C:\Users\sorenp3\OneDrive - Medtronic PLC\Live\pmsoren\_AE\Clients\MDT\MDM Mat Product\I. Issues\PoolParty\Artifacts\PoolParty DBX artifacts 20251021\bin
+
+
+Mode                 LastWriteTime         Length Name                                                                                                                                                                                                                                                     
+----                 -------------         ------ ----                                                                                                                                                                                                                                                     
+dar--l        10/21/2025   2:10 PM                output                                                                                                                                                                                                                                                   
+
+
+    Directory: C:\Users\sorenp3\OneDrive - Medtronic PLC\Live\pmsoren\_AE\Clients\MDT\MDM Mat Product\I. Issues\PoolParty\Artifacts\PoolParty DBX artifacts 20251021\bin\output
+
+
+Mode                 LastWriteTime         Length Name                                                                                                                                                                                                                                                     
+----                 -------------         ------ ----                                                                                                                                                                                                                                                     
+dar--l        10/21/2025   2:10 PM                cdh                                                                                                                                                                                                                                                      
+dar--l        10/21/2025   2:12 PM                data_model_review                                                                                                                                                                                                                                        
+dar--l        10/21/2025   2:10 PM                logs                                                                                                                                                                                                                                                     
+
+
+    Directory: C:\Users\sorenp3\OneDrive - Medtronic PLC\Live\pmsoren\_AE\Clients\MDT\MDM Mat Product\I. Issues\PoolParty\Artifacts\PoolParty DBX artifacts 20251021\bin\output\cdh
+
+
+Mode                 LastWriteTime         Length Name                                                                                                                                                                                                                                                     
+----                 -------------         ------ ----                                                                                                                                                                                                                                                     
+dar--l        10/21/2025   2:10 PM                ref                                                                                                                                                                                                                                                      
+
+
+    Directory: C:\Users\sorenp3\OneDrive - Medtronic PLC\Live\pmsoren\_AE\Clients\MDT\MDM Mat Product\I. Issues\PoolParty\Artifacts\PoolParty DBX artifacts 20251021\bin\output\cdh\ref
+
+
+Mode                 LastWriteTime         Length Name                                                                                                                                                                                                                                                     
+----                 -------------         ------ ----                                                                                                                                                                                                                                                     
+dar--l        10/21/2025   2:10 PM                dbx                                                                                                                                                                                                                                                      
+dar--l        10/21/2025   2:10 PM                legacy                                                                                                                                                                                                                                                   
+dar--l        10/21/2025   2:10 PM                yml                                                                                                                                                                                                                                                      
+-a---l        10/21/2025   7:07 PM            552 medl_cond_pool.sql                                                                                                                                                                                                                                       
+-a---l        10/21/2025   7:06 PM            599 ther_define_pool.sql                                                                                                                                                                                                                                     
+
+
+    Directory: C:\Users\sorenp3\OneDrive - Medtronic PLC\Live\pmsoren\_AE\Clients\MDT\MDM Mat Product\I. Issues\PoolParty\Artifacts\PoolParty DBX artifacts 20251021\bin\output\cdh\ref\dbx
+
+
+Mode                 LastWriteTime         Length Name                                                                                                                                                                                                                                                     
+----                 -------------         ------ ----                                                                                                                                                                                                                                                     
+-a---l        10/21/2025   7:07 PM           3421 cr_tbl_medl_cond_pool.sql                                                                                                                                                                                                                                
+-a---l        10/21/2025   7:06 PM           3749 cr_tbl_ther_define_pool.sql                                                                                                                                                                                                                              
+
+
+    Directory: C:\Users\sorenp3\OneDrive - Medtronic PLC\Live\pmsoren\_AE\Clients\MDT\MDM Mat Product\I. Issues\PoolParty\Artifacts\PoolParty DBX artifacts 20251021\bin\output\cdh\ref\legacy
+
+
+Mode                 LastWriteTime         Length Name                                                                                                                                                                                                                                                     
+----                 -------------         ------ ----                                                                                                                                                                                                                                                     
+-a---l        10/21/2025   7:07 PM            644 cr_tbl_medl_cond_pool.sql                                                                                                                                                                                                                                
+-a---l        10/21/2025   7:07 PM           2812 cr_tbl_medl_cond_pool.yml                                                                                                                                                                                                                                
+-a---l        10/21/2025   7:06 PM            683 cr_tbl_ther_define_pool.sql                                                                                                                                                                                                                              
+-a---l        10/21/2025   7:06 PM           3151 cr_tbl_ther_define_pool.yml                                                                                                                                                                                                                              
+
+
+    Directory: C:\Users\sorenp3\OneDrive - Medtronic PLC\Live\pmsoren\_AE\Clients\MDT\MDM Mat Product\I. Issues\PoolParty\Artifacts\PoolParty DBX artifacts 20251021\bin\output\cdh\ref\yml
+
+
+Mode                 LastWriteTime         Length Name                                                                                                                                                                                                                                                     
+----                 -------------         ------ ----                                                                                                                                                                                                                                                     
+-a---l        10/21/2025   7:07 PM           3183 medl_cond_pool.yml                                                                                                                                                                                                                                       
+-a---l        10/21/2025   7:06 PM           3553 ther_define_pool.yml                                                                                                                                                                                                                                     
+
+
+    Directory: C:\Users\sorenp3\OneDrive - Medtronic PLC\Live\pmsoren\_AE\Clients\MDT\MDM Mat Product\I. Issues\PoolParty\Artifacts\PoolParty DBX artifacts 20251021\bin\output\data_model_review
+
+
+Mode                 LastWriteTime         Length Name                                                                                                                                                                                                                                                     
+----                 -------------         ------ ----                                                                                                                                                                                                                                                     
+-a---l        10/21/2025   7:07 PM          59866 generated_mdc_intake.xlsx                                                                                                                                                                                                                                
+
+
+    Directory: C:\Users\sorenp3\OneDrive - Medtronic PLC\Live\pmsoren\_AE\Clients\MDT\MDM Mat Product\I. Issues\PoolParty\Artifacts\PoolParty DBX artifacts 20251021\bin\output\logs
+
+
+Mode                 LastWriteTime         Length Name                                                                                                                                                                                                                                                     
+----                 -------------         ------ ----                                                                                                                                                                                                                                                     
+-a---l        10/21/2025   6:59 PM              0 .gitkeep                                                                                                                                                                                                                                                 
+-a---l        10/21/2025   7:05 PM           5644 ddl_log_file.sql                                                                                                                                                                                                                                         
+
+
+    Directory: C:\Users\sorenp3\OneDrive - Medtronic PLC\Live\pmsoren\_AE\Clients\MDT\MDM Mat Product\I. Issues\PoolParty\Artifacts\PoolParty SNF artifacts 20251021
+
+
+Mode                 LastWriteTime         Length Name                                                                                                                                                                                                                                                     
+----                 -------------         ------ ----                                                                                                                                                                                                                                                     
+dar--l        10/21/2025   2:37 PM                bin                                                                                                                                                                                                                                                      
+
+
+    Directory: C:\Users\sorenp3\OneDrive - Medtronic PLC\Live\pmsoren\_AE\Clients\MDT\MDM Mat Product\I. Issues\PoolParty\Artifacts\PoolParty SNF artifacts 20251021\bin
+
+
+Mode                 LastWriteTime         Length Name                                                                                                                                                                                                                                                     
+----                 -------------         ------ ----                                                                                                                                                                                                                                                     
+dar--l        10/21/2025   2:37 PM                output                                                                                                                                                                                                                                                   
+
+
+    Directory: C:\Users\sorenp3\OneDrive - Medtronic PLC\Live\pmsoren\_AE\Clients\MDT\MDM Mat Product\I. Issues\PoolParty\Artifacts\PoolParty SNF artifacts 20251021\bin\output
+
+
+Mode                 LastWriteTime         Length Name                                                                                                                                                                                                                                                     
+----                 -------------         ------ ----                                                                                                                                                                                                                                                     
+dar--l        10/21/2025   2:37 PM                cdh                                                                                                                                                                                                                                                      
+dar--l        10/21/2025   2:37 PM                data_model_review                                                                                                                                                                                                                                        
+dar--l        10/21/2025   2:37 PM                logs                                                                                                                                                                                                                                                     
+
+
+    Directory: C:\Users\sorenp3\OneDrive - Medtronic PLC\Live\pmsoren\_AE\Clients\MDT\MDM Mat Product\I. Issues\PoolParty\Artifacts\PoolParty SNF artifacts 20251021\bin\output\cdh
+
+
+Mode                 LastWriteTime         Length Name                                                                                                                                                                                                                                                     
+----                 -------------         ------ ----                                                                                                                                                                                                                                                     
+dar--l        10/21/2025   2:37 PM                ref                                                                                                                                                                                                                                                      
+
+
+    Directory: C:\Users\sorenp3\OneDrive - Medtronic PLC\Live\pmsoren\_AE\Clients\MDT\MDM Mat Product\I. Issues\PoolParty\Artifacts\PoolParty SNF artifacts 20251021\bin\output\cdh\ref
+
+
+Mode                 LastWriteTime         Length Name                                                                                                                                                                                                                                                     
+----                 -------------         ------ ----                                                                                                                                                                                                                                                     
+dar--l        10/21/2025   2:37 PM                dbx                                                                                                                                                                                                                                                      
+dar--l        10/21/2025   2:37 PM                legacy                                                                                                                                                                                                                                                   
+dar--l        10/21/2025   2:37 PM                yml                                                                                                                                                                                                                                                      
+-a---l        10/21/2025   7:27 PM            552 medl_cond_pool.sql                                                                                                                                                                                                                                       
+-a---l        10/21/2025   7:27 PM            599 ther_define_pool.sql                                                                                                                                                                                                                                     
+
+
+    Directory: C:\Users\sorenp3\OneDrive - Medtronic PLC\Live\pmsoren\_AE\Clients\MDT\MDM Mat Product\I. Issues\PoolParty\Artifacts\PoolParty SNF artifacts 20251021\bin\output\cdh\ref\dbx
+
+
+Mode                 LastWriteTime         Length Name                                                                                                                                                                                                                                                     
+----                 -------------         ------ ----                                                                                                                                                                                                                                                     
+-a---l        10/21/2025   7:27 PM           3445 cr_tbl_medl_cond_pool.sql                                                                                                                                                                                                                                
+-a---l        10/21/2025   7:27 PM           3779 cr_tbl_ther_define_pool.sql                                                                                                                                                                                                                              
+
+
+    Directory: C:\Users\sorenp3\OneDrive - Medtronic PLC\Live\pmsoren\_AE\Clients\MDT\MDM Mat Product\I. Issues\PoolParty\Artifacts\PoolParty SNF artifacts 20251021\bin\output\cdh\ref\legacy
+
+
+Mode                 LastWriteTime         Length Name                                                                                                                                                                                                                                                     
+----                 -------------         ------ ----                                                                                                                                                                                                                                                     
+-a---l        10/21/2025   7:27 PM            644 cr_tbl_medl_cond_pool.sql                                                                                                                                                                                                                                
+-a---l        10/21/2025   7:27 PM           2836 cr_tbl_medl_cond_pool.yml                                                                                                                                                                                                                                
+-a---l        10/21/2025   7:27 PM            683 cr_tbl_ther_define_pool.sql                                                                                                                                                                                                                              
+-a---l        10/21/2025   7:27 PM           3181 cr_tbl_ther_define_pool.yml                                                                                                                                                                                                                              
+
+
+    Directory: C:\Users\sorenp3\OneDrive - Medtronic PLC\Live\pmsoren\_AE\Clients\MDT\MDM Mat Product\I. Issues\PoolParty\Artifacts\PoolParty SNF artifacts 20251021\bin\output\cdh\ref\yml
+
+
+Mode                 LastWriteTime         Length Name                                                                                                                                                                                                                                                     
+----                 -------------         ------ ----                                                                                                                                                                                                                                                     
+-a---l        10/21/2025   7:27 PM           3207 medl_cond_pool.yml                                                                                                                                                                                                                                       
+-a---l        10/21/2025   7:27 PM           3583 ther_define_pool.yml                                                                                                                                                                                                                                     
+
+
+    Directory: C:\Users\sorenp3\OneDrive - Medtronic PLC\Live\pmsoren\_AE\Clients\MDT\MDM Mat Product\I. Issues\PoolParty\Artifacts\PoolParty SNF artifacts 20251021\bin\output\data_model_review
+
+
+Mode                 LastWriteTime         Length Name                                                                                                                                                                                                                                                     
+----                 -------------         ------ ----                                                                                                                                                                                                                                                     
+-a---l        10/21/2025   7:27 PM           8248 col_check_results.xlsx                                                                                                                                                                                                                                   
+-a---l        10/21/2025   7:27 PM          59847 generated_mdc_intake.xlsx                                                                                                                                                                                                                                
+
+
+    Directory: C:\Users\sorenp3\OneDrive - Medtronic PLC\Live\pmsoren\_AE\Clients\MDT\MDM Mat Product\I. Issues\PoolParty\Artifacts\PoolParty SNF artifacts 20251021\bin\output\logs
+
+
+Mode                 LastWriteTime         Length Name                                                                                                                                                                                                                                                     
+----                 -------------         ------ ----                                                                                                                                                                                                                                                     
+-a---l        10/21/2025   7:20 PM              0 .gitkeep                                                                                                                                                                                                                                                 
+-a---l        10/21/2025   7:26 PM           5698 ddl_log_file.sql                                                                                                                                                                                                                                         
+
+
+    Directory: C:\Users\sorenp3\OneDrive - Medtronic PLC\Live\pmsoren\_AE\Clients\MDT\MDM Mat Product\I. Issues\PoolParty\_Archive
+
+
+Mode                 LastWriteTime         Length Name                                                                                                                                                                                                                                                     
+----                 -------------         ------ ----                                                                                                                                                                                                                                                     
+-a---l        10/15/2025  11:27 AM          55988 DFD - Pool Party Proposed Med Conditions and Therapies_WITH Table Name Suffixes.pdf                                                                                                                                                                      
+
+
+    Directory: C:\Users\sorenp3\OneDrive - Medtronic PLC\Live\pmsoren\_AE\Clients\MDT\MDM Mat Product\K. Knowledge Transfer and Training
+
+
+Mode                 LastWriteTime         Length Name                                                                                                                                                                                                                                                     
+----                 -------------         ------ ----                                                                                                                                                                                                                                                     
+-a---l        10/16/2025   3:03 PM         871897 SOP Enterprise Material Data Product Snowflake.docx                                                                                                                                                                                                      
+
+
+    Directory: C:\Users\sorenp3\OneDrive - Medtronic PLC\Live\pmsoren\_AE\Clients\MDT\_Cross Projects
+
+
+Mode                 LastWriteTime         Length Name                                                                                                                                                                                                                                                     
+----                 -------------         ------ ----                                                                                                                                                                                                                                                     
+d----l        10/17/2025   9:05 AM                K. Knowledge Transfer and Training                                                                                                                                                                                                                       
+d----l        10/20/2025  10:46 AM                P. Project Plan and Task Lists                                                                                                                                                                                                                           
+
+
+    Directory: C:\Users\sorenp3\OneDrive - Medtronic PLC\Live\pmsoren\_AE\Clients\MDT\_Cross Projects\0. Scratch Notes
+
+
+Mode                 LastWriteTime         Length Name                                                                                                                                                                                                                                                     
+----                 -------------         ------ ----                                                                                                                                                                                                                                                     
+-a---l        10/20/2025   3:06 PM          11346 Acronyms MDT.txt                                                                                                                                                                                                                                         
+-a---l        10/22/2025   9:47 AM          27821 S1 POA MDT 202510.txt                                                                                                                                                                                                                                    
+
+
+    Directory: C:\Users\sorenp3\OneDrive - Medtronic PLC\Live\pmsoren\_AE\Clients\MDT\_Cross Projects\2. Logical Data Model
+
+
+Mode                 LastWriteTime         Length Name                                                                                                                                                                                                                                                     
+----                 -------------         ------ ----                                                                                                                                                                                                                                                     
+d----l        10/22/2025   8:44 AM                ERwinDataModels                                                                                                                                                                                                                                          
+
+
+
+    Directory: C:\Users\sorenp3\OneDrive - Medtronic PLC\Live\pmsoren\_AE\Clients\MDT\_Cross Projects\K. Knowledge Transfer and Training
+
+
+Mode                 LastWriteTime         Length Name                                                                                                                                                                                                                                                     
+----                 -------------         ------ ----                                                                                                                                                                                                                                                     
+d----l        10/20/2025   3:00 PM                Tech Training Program                                                                                                                                                                                                                                    
+-a---l        10/16/2025   9:59 AM          84537 Completion Certificate - Cyber and InfoSec Training 20251016.pdf                                                                                                                                                                                         
+-a---l        10/17/2025  11:31 AM           1150 KT Support Email Invite Address.txt                                                                                                                                                                                                                      
+
+
+    Directory: C:\Users\sorenp3\OneDrive - Medtronic PLC\Live\pmsoren\_AE\Clients\MDT\_Cross Projects\K. Knowledge Transfer and Training\Tech Training Program
+
+
+Mode                 LastWriteTime         Length Name                                                                                                                                                                                                                                                     
+----                 -------------         ------ ----                                                                                                                                                                                                                                                     
+-a---l        10/17/2025   3:42 PM           3280 Intro to AI Module 1 Summary.txt                                                                                                                                                                                                                         
+-a---l        10/21/2025   3:18 PM           2841 Intro to AI Module 2 Notes.txt                                                                                                                                                                                                                           
+
+
+    Directory: C:\Users\sorenp3\OneDrive - Medtronic PLC\Live\pmsoren\_AE\Clients\MDT\_Cross Projects\P. Project Plan and Task Lists
+
+
+Mode                 LastWriteTime         Length Name                                                                                                                                                                                                                                                     
+----                 -------------         ------ ----                                                                                                                                                                                                                                                     
+-a---l        10/20/2025  10:46 AM          23937 Sorenson Hours Allocation 2025.xlsx                                                                                                                                                                                                                      
+
+
+    Directory: C:\Users\sorenp3\OneDrive - Medtronic PLC\Live\pmsoren\_KO
+
+
+Mode                 LastWriteTime         Length Name                                                                                                                                                                                                                                                     
+----                 -------------         ------ ----                                                                                                                                                                                                                                                     
+d----l        10/15/2025   2:45 PM                ModList                                                                                                                                                                                                                                                  
+
+
+    Directory: C:\Users\sorenp3\OneDrive - Medtronic PLC\Live\pmsoren\_KO\MDT Emp Admin
+
+
+Mode                 LastWriteTime         Length Name                                                                                                                                                                                                                                                     
+----                 -------------         ------ ----                                                                                                                                                                                                                                                     
+d----l        10/16/2025   1:28 PM                Company and Org                                                                                                                                                                                                                                          
+
+
+    Directory: C:\Users\sorenp3\OneDrive - Medtronic PLC\Live\pmsoren\_KO\MDT Emp Admin\Company and Org
+
+
+Mode                 LastWriteTime         Length Name                                                                                                                                                                                                                                                     
+----                 -------------         ------ ----                                                                                                                                                                                                                                                     
+-a---l        10/16/2025   1:28 PM         225645 Sriram Org Projects 20251016.png                                                                                                                                                                                                                         
+
+
+    Directory: C:\Users\sorenp3\OneDrive - Medtronic PLC\Live\pmsoren\_KO\MDT Emp Admin\Goal Setting
+
+
+Mode                 LastWriteTime         Length Name                                                                                                                                                                                                                                                     
+----                 -------------         ------ ----                                                                                                                                                                                                                                                     
+d----l        10/16/2025  12:53 PM                Goal Setting FY26                                                                                                                                                                                                                                        
+
+
+    Directory: C:\Users\sorenp3\OneDrive - Medtronic PLC\Live\pmsoren\_KO\MDT Emp Admin\Goal Setting\Goal Setting FY26
+
+
+Mode                 LastWriteTime         Length Name                                                                                                                                                                                                                                                     
+----                 -------------         ------ ----                                                                                                                                                                                                                                                     
+-a---l        10/16/2025  12:53 PM          54631 FY26 Goals with SMART actions.docx                                                                                                                                                                                                                       
+
+
+    Directory: C:\Users\sorenp3\OneDrive - Medtronic PLC\Live\pmsoren\_KO\MDT Emp Admin\Mgr Meetings
+
+
+Mode                 LastWriteTime         Length Name                                                                                                                                                                                                                                                     
+----                 -------------         ------ ----                                                                                                                                                                                                                                                     
+-a---l        10/16/2025   2:33 PM          11048 Bill P 1 on 1 2025.txt                                                                                                                                                                                                                                   
+
+
+    Directory: C:\Users\sorenp3\OneDrive - Medtronic PLC\Live\pmsoren\_KO\ModList
+
+
+Mode                 LastWriteTime         Length Name                                                                                                                                                                                                                                                     
+----                 -------------         ------ ----                                                                                                                                                                                                                                                     
+-a---l        10/15/2025   2:42 PM         113664 modlistMDT20251002_20251015.txt                                                                                                                                                                                                                          
+
+
+    Directory: C:\Users\sorenp3\OneDrive - Medtronic PLC\Live\pmsoren\_PT
+
+
+Mode                 LastWriteTime         Length Name                                                                                                                                                                                                                                                     
+----                 -------------         ------ ----                                                                                                                                                                                                                                                     
+d----l        10/20/2025   9:15 AM                Photos                                                                                                                                                                                                                                                   
+-a---l        10/22/2025  10:09 AM          42854 S1 Scratch W 2025.txt                                                                                                                                                                                                                                    
+
+
+    Directory: C:\Users\sorenp3\OneDrive - Medtronic PLC\Live\pmsoren\_PT\Photos
+
+
+Mode                 LastWriteTime         Length Name                                                                                                                                                                                                                                                     
+----                 -------------         ------ ----                                                                                                                                                                                                                                                     
+-a---l        10/16/2025  11:48 AM         742846 Lynx 202510.jpg                                                                                                                                                                                                                                          
+-a---l        10/20/2025   9:15 AM         793409 Sloth 202510.jpg                                                                                                                                                                                                                                         
+
+
+    Directory: C:\Users\sorenp3\OneDrive - Medtronic PLC\Live\pmsoren\_PT\pyProj\DailyLogParser
+
+
+Mode                 LastWriteTime         Length Name                                                                                                                                                                                                                                                     
+----                 -------------         ------ ----                                                                                                                                                                                                                                                     
+dar--l        10/20/2025  10:51 AM                Doco                                                                                                                                                                                                                                                     
+
+
+    Directory: C:\Users\sorenp3\OneDrive - Medtronic PLC\Live\pmsoren\_PT\pyProj\DailyLogParser\Doco
+
+
+Mode                 LastWriteTime         Length Name                                                                                                                                                                                                                                                     
+----                 -------------         ------ ----                                                                                                                                                                                                                                                     
+-a---l        10/15/2025   2:42 PM         113664 modlistMDT20251002_20251015.txt                                                                                                                                                                                                                          
+-a---l        10/20/2025  10:43 AM          26014 S1 POA MDT 202510.txt                                                                                                                                                                                                                                    
+-a---l        10/20/2025  10:50 AM          42593 S1 Scratch W 2025.txt                                                                                                                                                                                                                                    
+
+
